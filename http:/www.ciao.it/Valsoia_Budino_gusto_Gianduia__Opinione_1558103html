@@ -1,0 +1,991 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html class="ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 lt-ie10 lt-ie9 lt-ie8" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 lt-ie10 lt-ie9" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 lt-ie10" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]><!--> <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="application-name" content="Ciao.it" /> 
+<meta name="msapplication-starturl" content="http://www.ciao.it/" />
+<meta name="msapplication-task" content="name=Opinioni Recenti;
+    action-uri=http://www.ciao.it/Opinioni_Recenti;
+    icon-uri=http://it-img1.ciao.com/iit/images/icons/ciao_rgb_16.ico" />
+<meta name="msapplication-task" content="name=Nuove Domande;
+    action-uri=http://www.ciao.it/Nuove_Domande;
+    icon-uri=http://it-img1.ciao.com/iit/images/icons/ciao_rgb_16.ico" />
+<meta name="msapplication-task" content="name=Condividi la tua esperienza;
+    action-uri=http://www.ciao.it/condividi_la_tua_esperienza_in_3_semplici_passi;
+    icon-uri=http://it-img1.ciao.com/iit/images/icons/ciao_rgb_16.ico" />  <title>Valsoia Budino gusto Gianduia - Opinione - Uno spuntino leggero ^__^</title><meta name="description" content="Uno spuntino leggero ^__^ - Opinione su Valsoia Budino gusto Gianduia .  Leggi le opinioni e compara i prezzi per Budini &amp; Creme su Ciao.it. Approfitta delle incredibili offerte  Leggi un´opinione su Valsoia Budino gusto Gianduia e approfitta anche tu di questa incredibile offerta.
+" /><meta property="og:title" content="Valsoia Budino gusto Gianduia - Opinione - Uno spuntino leggero ^__^" />
+<meta property="og:image" content="http://it-img2.ciao.com/iit/images/products/normal/387/valsoia_budino_gusto_gianduia__1065387.jpg" />
+<meta property="og:description" content="Questo budino l ho scoperto per caso ed ora lo trovo facilmente in qualunque
+
+supermercato.
+
+
+
+Oramai posso dire di essere una cliente affezionata ai prodotti Valsoia.
+
+E un piccolo piacere a base v" />
+<meta property="og:site_name" content="Ciao"/>
+<link rel="shortcut icon" href="http://www.ciao.it/favicon.ico" />
+<base href="http://www.ciao.it/" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/temp.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/global.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/header_maya.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/read_review_page.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/read_review_evaluate_it.css" type="text/css" />
+<script type="text/javascript" src="/efb_13_12_0/sf/js/jquery.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/crux.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/jquery.modalDialog.js"></script>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+xajax_SmartLogin_doLogin = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_SmartLogin', crux_xjxmthd: 'doLogin' }, { parameters: arguments } ); }
+xajax_SmartLogin_updateCaptcha = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_SmartLogin', crux_xjxmthd: 'updateCaptcha' }, { parameters: arguments } ); }
+xajax_SmartLogin_doRegistration = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_SmartLogin', crux_xjxmthd: 'doRegistration' }, { parameters: arguments } ); }
+xajax_SmartLogin_getLoginStatus = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_SmartLogin', crux_xjxmthd: 'getLoginStatus' }, { parameters: arguments } ); }
+xajax_SmartLogin_displaySmartLoginResult = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_SmartLogin', crux_xjxmthd: 'displaySmartLoginResult' }, { parameters: arguments } ); }
+xajax_SmartLogin_displaySmartRegistrationResult = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_SmartLogin', crux_xjxmthd: 'displaySmartRegistrationResult' }, { parameters: arguments } ); }
+xajax_CommentAdd_saveComment = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_Opinion_CommentAdd', crux_xjxmthd: 'saveComment' }, { parameters: arguments } ); }
+xajax_AddProduct_addProduct = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_ProductList_AddProduct', crux_xjxmthd: 'addProduct' }, { parameters: arguments } ); }
+xajax_AddProduct_displayAddProductDialog = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_ProductList_AddProduct', crux_xjxmthd: 'displayAddProductDialog' }, { parameters: arguments } ); }
+/* ]]> */
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103";
+xajax.config.statusMessages = false;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5 Beta 4";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="/sf/efb_13_12_0/js/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: /sf/efb_13_12_0/js/xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/OCADD/main.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/ADDPL/main.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/OFBOX/main.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+	var oCruxStrings = new ClientSideStrings();
+	oCruxStrings.setString( 'SLI', 'processing_request', "Ti preghiamo di attendere, stiamo elaborando la tua richiesta." );
+	oCruxStrings.setString( 'ADDPL', 'please_select_a_list_type', "Seleziona un tipo di lista" );
+	oCruxStrings.setString( 'ADDPL', 'please_enter_a_name_for_this_product_list', "Immetti per favore un nome per questa lista Ciao" );
+	oCruxStrings.setString( 'ADDPL', 'please_select_a_list_to_add_this_product_to', "Seleziona per favore una lista alla quale aggiungere questo prodotto" );
+	oCruxStrings.setString( 'ADDPL', 'please_enter_a_search_term', "Inserisci per favore un termine di ricerca" );
+	oCruxStrings.setString( 'ADDPL', 'description_min_length', "60" );
+	oCruxStrings.setString( 'ADDPL', 'description_max_length', "500" );
+	oCruxStrings.setString( 'ADDPL', 'comment_max_length', "500" );
+	oCruxStrings.setString( 'ADDPL', 'add_your_comment_here', "Aggiungi il tuo commento qui" );
+	oCruxStrings.setString( 'ADDPL', 'enter_description_of_your_new_list', "" );
+	oCruxStrings.setString( 'ADDPL', 'description_too_short', "" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_yes_button_url', "http://it-img1.ciao.com/iit/images/crux/buttons/pl_yes.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_no_button_url', "http://it-img2.ciao.com/iit/images/crux/buttons/pl_no.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_ok_button_url', "http://it-img2.ciao.com/iit/images/crux/buttons/pl_ok_small.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_cancel_button_url', "http://it-img2.ciao.com/iit/images/crux/buttons/pl_cancel_small.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_close_button_url', "http://it-img1.ciao.com/iit/images/crux/icons/pl_close.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_question_icon_url', "http://it-img2.ciao.com/iit/images/crux/icons/icon_question.jpg" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_info_icon_url', "http://it-img2.ciao.com/iit/images/crux/icons/icon_info.jpg" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_alert_title', "Alert" );
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+if( window['cruxHideLoading'] && window['cruxShowLoading'] ) {
+xajax.callback.global.onRequest = cruxShowLoadingWrapper;
+xajax.callback.global.onComplete = cruxHideLoading;
+}
+function cruxShowLoadingWrapper(){ cruxShowLoading('it');}//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+
+			$( document ).ready(function(){
+				oCiaoUser = new CiaoUser( 0 );
+			});
+		//]]>
+</script>
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/style_crux.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/Crux/SDLG/main.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/Crux/OFBOX/main.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/Crux/ADDPL/main.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/Crux/OCADD/main.css" type="text/css" />
+<link rel="stylesheet" href="/efb_13_12_0/sf/css/it/Crux/SLI/main.css" type="text/css" />
+<style type="text/css">
+.progress_bar_background {background: url('http://it-img2.ciao.com/iit/images/icons/miniprogress.gif') left top;}
+.progress_bar_foreground {background: url('http://it-img2.ciao.com/iit/images/icons/miniprogressmarked.gif') left top;}
+</style><script type="text/javascript"> 
+var Ciao = {"Settings":{"country":"it","protocol":"http","member_id":1}}
+s_AccountTemp = "ciaoshopit"
+</script>
+<script type="text/javascript" src="/efb_13_12_0/s_h_code.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/javascript/functions.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/javascript/ajax.js"></script>
+</head>
+<body class="body2">
+
+<div id="wrapper2">
+	<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td class="HockeyGridBanner">
+							</td>
+			<td rowspan="2" class="HockeyGridScraper">
+							</td>
+		</tr>
+		<tr>
+			<td class="HockeyGridContent" >
+<script type="text/javascript">
+sMayaHeaderMenuURL = '/maya_header_serve.php?id=it_0';
+sMayaUsername = '';
+sMayaReferer = '%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103';
+</script>
+
+<div id="pg-header" class="clearfix">
+		<div class="m-headerAd">
+		<!-- only used when ad exists
+		<div class="m-head-ad">
+		</div>
+		 -->
+	</div>
+		<div class="m-headerBrand clearfix" >
+						<div id="CWCiaoHeaderSpecialAds_container" class="m-hend-ad" height="50" width="85">
+			            <a href="http://www.ciao.it/ext_ref_call.php/ReferenceId/146391"  target="_blank">
+              <img src="http://it-img1.ciao.com/iit/images/banner/specialplacement.png" alt="header_special_offer" height="50" width="85">
+            </a>
+            		</div>
+		<div class="m-hend-logo">
+			<a href="http://www.ciao.it/">                            <img src="http://it-img1.ciao.com/iit/images/logos/ciao_lg.png"  height="39" />
+            </a>		</div>
+			</div>
+		<!-- m-headerBar goes here -->
+	
+	<div class="m-headerBar">
+<div class="m-hear-social">
+		<a href="https://www.ciao.it/reg.php">Partecipa</a>
+	&middot;
+	<a href="https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103">Login</a>
+		
+	
+	<a class="eeSpace" title="Aiuto" href="http://www.ciao.it/faq/aiuto,1"><img alt="Aiuto" class="e-hear-icon help" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	
+	<a target="_blank" href="https://www.facebook.com/ciaoit" title="Seguici su Facebook"><img alt="Seguici su Facebook" class="e-hear-icon fb" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	<a target="_blank" href="http://www.twitter.com/ciao_it" title="Seguici su Twitter"><img alt="Seguici su Twitter" class="e-hear-icon tw" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	<a target="_blank" href="https://plus.google.com/109359487332790329130" rel="publisher" title="Seguici su Google+"><img alt="Seguici su Google+" class="e-hear-icon gp" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	
+	<a class="eeSpace" onclick="return aCiaoHeaderMainIns.setCookie('forceDesktop', null, '-1');" title="Mobile" href="http://m.ciao.it"><img alt="Mobile" class="e-hear-icon mobile" src="http://de-img1.ciao.com/ide/images/icons/space.gif" width="53" height="17" /></a>
+</div>		<div class="m-hear-search">
+			<div class="m-hear-searchin clearfix">
+				
+								<div class="m-hear-input" >
+						            	<form method="get" action="search.php" name="SearchForm1" onsubmit="return searchPageUrl('SearchForm1','http://www.ciao.it');">
+	                <input type="text" name="SearchString" id="SearchString" size="10" value="" />
+	                <input type="submit" class="e-hear-lens" value="" />
+	                </form>
+	                				</div>
+				<div id="maya-menu">
+				<ul>
+	<li class="m-hear-menu m-hear-reviews">
+	<a onmouseover = "callLater( 's=s_gi(\'ciaoshopit\');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Reviews&quot;,&quot;linkTrackVars&quot;:&quot;eVar35&quot;,&quot;eVar35&quot;:&quot;Reviews&quot;});', 2000, 'TopMayaMenu', this )"  href="http://www.ciao.it/Opinioni_Recenti">Opinioni <img src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="5" height="6" /></a><div class="m-hear-sub">Caricamento</div>				
+</li>
+<li class="m-hear-menu m-hear-shop ">
+	<a onmouseover = "callLater( 's=s_gi(\'ciaoshopit\');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Shopping&quot;,&quot;linkTrackVars&quot;:&quot;eVar35&quot;,&quot;eVar35&quot;:&quot;Shopping&quot;});', 2000, 'TopMayaMenu', this )"  href="http://www.ciao.it/charts.php">Shopping <img src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="5" height="6" /></a><div class="m-hear-sub">Caricamento</div></li>
+<li class="m-hear-menu m-hear-community">
+	<a onmouseover = "callLater( 's=s_gi(\'ciaoshopit\');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Community&quot;,&quot;linkTrackVars&quot;:&quot;eVar35&quot;,&quot;eVar35&quot;:&quot;Community&quot;});', 2000, 'TopMayaMenu', this )"  href="https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103">Community <img src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="5" height="6" /></a><div class="m-hear-sub">Caricamento</div>	</li>
+</ul>				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- // m-headerBar  -->
+	</div>
+<!-- // CIAO-MAYA HEADER -->				<!-- begin ad tag  (tile=1) -->
+				<div class="banner">
+					<div class="ad_container">
+						<script type="text/javascript" src="http://ad.it.doubleclick.net/adj/site_ciao.it_banner/mangiare;dcopt=ist;sz=728x90;tile=1;ord=1373451440?"></script>
+						<noscript><a href="http://ad.it.doubleclick.net/jump/site_ciao.it_banner/mangiare;dcopt=ist;sz=728x90;tile=1;ord=1373451440?"><img src="http://ad.it.doubleclick.net/ad/site_ciao.it_banner/mangiare;dcopt=ist;sz=728x90;tile=1;ord=1373451440?" alt=""/></a></noscript>
+					</div>
+									</div>
+				<!-- End ad tag -->
+				<div class="breadCrumb2" id="Node_BreadCrumb"><a href="http://www.ciao.it/" >Home</a> <span class="grey">&gt;</span> <a href="http://www.ciao.it/Mangiare_Bere_3678_1" >Mangiare&nbsp;&&nbsp;Bere</a> <span class="grey">&gt;</span> <a href="http://www.ciao.it/Alimenti_16143_2" >Alimenti</a> <span class="grey">&gt;</span> <a href="http://www.ciao.it/Dolciumi_16266_3" >Dolciumi</a> <span class="grey">&gt;</span> <a href="http://www.ciao.it/Budini_Creme_76423_4" >Budini&nbsp;&&nbsp;Creme</a> <span class="grey">&gt;</span> <span class="greyb"><b>Valsoia Budino gusto Gianduia</b></span> <span class="grey">&gt;</span> <span class="greyb"><a href="http://www.ciao.it/Opinionisulprodotto/Valsoia_Budino_gusto_Gianduia__1065387" >Opinioni</a></span></div>
+<div style="clear:both"></div><table class="VideoReviewsListing" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100%" id="CWReviewsLeftTubeIe2">
+<div id="CWReviewsLeftTubeIe" class="clearfix"><div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review"><div class="CWReviewsLeftTube">	
+	<div class="CWReviewsHeader clearfix">
+
+		<div class="CWReviewsProdImg">
+			<img width="170" alt="Valsoia Budino gusto Gianduia" title="Valsoia Budino gusto Gianduia" id="product_image" src="http://it-img2.ciao.com/iit/images/products/normal/387/product-1065387.jpg"/><br />
+					</div>
+		<div class="CWReviewsProdInfo">
+			<p class="CWFontCSubText"><b>Opinione su</b></p>
+			<p class="productNameBig"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__1065387"  class="prodOverview"><span property="v:itemreviewed">Valsoia Budino gusto Gianduia</span></a></p>
+			<p class="CWReviewsRating CWFontCSubText"><span>Valutazione complessiva (22): </span><img class="ratingStars color_yellow size_big rank_45" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valutazione complessiva Valsoia Budino gusto Gianduia"  /></p>
+
+			<p class="CWReviewsPriceRange CWFontCSubText">
+						&nbsp;</p>
+						<p class="CWReviewsAllReviews">
+				<a href="http://www.ciao.it/Opinionisulprodotto/Valsoia_Budino_gusto_Gianduia__1065387">Tutte le opinioni su Valsoia Budino gusto Gianduia</a>
+			</p>
+						<a class="CWButtonReview" href="javascript:void(0)" onclick="javascript:jlink('/','o','p','i','n','i','o','n','_','e','d','i','t','.','p','h','p','?','p','r','o','d','u','c','t','_','i','d','=','1','0','6','5','3','8','7'); return false;" id="PHWriteReviewButtonLink">
+				<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span id="PHWriteReviewButtonText">Scrivi la tua opinione</span></span>
+			</a>
+								</div>
+	</div><br /><script type="text/javascript">
+//<![CDATA[
+	var bSponsoredLinksAbleInText = 1;
+	var bSponsoredLinksShowInText = 0;
+//]]>
+</script>	<div class="CWReviewsContent CWBORDERReview CWBorderClearingB"><div class="CWBGTopReview">
+	<span class="CWReviewsHeadline">
+		<b><a name="fullreview"></a>Opinione</b>
+	</span>
+	<span class="CWReviewsHeadline2">
+		<a class="CWLINKArrowD" href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103#fullreview">Leggi tutta l&#039;Opinione</a>
+	</span>
+</div> <div class="CWReviewsUser clearfix"><div class="CWUserOpinion">
+	<div class="reviewTitle">
+				<img class="quote-left" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" width="20" height="15" />
+		<h1><span property="v:summary">Uno spuntino leggero ^__^</span></h1>
+		<img class="quote-right" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" width="20" height="15" />
+	</div>
+	<p class="CWFontCSubText opinionReviewDate">
+	<span property="v:rating" content="4"></span><img class="ratingStars color_yellow size_normal rank_40" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="4"  /></span>&nbsp;
+	<span property="v:dtreviewed" content="2013-07-10">10.07.2013</span>		
+	</span></p>
+	<div class="opinionProsCons">
+		<p class="pros"><b>Vantaggi:</b><br />
+		buonissimo e leggero</p>
+		<p class="cons"><b>Svantaggi:</b><br />
+		nessuno</p>
+		<p class="recommendable">
+                                <b>Consiglio il prodotto: </b>
+		<span class="CWnoWrap">
+		S&#236;&nbsp;
+					<img class="icon_plus" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="11" height="11" />
+				</span>
+                		</p>
+	</div>
+	</div>
+<div class="CWUserInfo">
+	<p id="MemberProfileLink">
+		<a href="faq.php/Id/2/Idx/4/Idy/12" ><img src="http://it-img1.ciao.com/iit/images/user_symbols/level4_small.gif"  title="rosso" width="7" height="7" alt="" /></a><img src="http://it-img2.ciao.com/iit/images/standard/space.gif"  width="4" height="4" alt="" />		<a class="black" href="#" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','I','s','c','r','i','t','t','i','_','_','h','e','s','t','e','r','3','0','0','0','_','8','1','9','8','7','5'); return false;" rel="nofollow"><strong><span property="v:reviewer">hester3000</span></strong></a>
+	</p>
+	<p class="UserPhoto">
+		<img src="http://it-pic1.ciao.com/it/27838012.jpg" width="69" height="95" alt="hester3000" />	</p>
+	<p class="CWFontCSubText"><b>Su di me:</b>
+		<span id="MemberAboutMeText" >Salve ! Grazie per i passaggi sulla mia pagina ! </span>
+	</p>
+	<div class="userStats">
+		<p class="CWFontCSubText"><span class="statusTitle">Iscritto da:</span><span>16.04.2013</span></p>
+				<p class="CWFontCSubText"><span class="statusTitle">Opinioni:</span><span>62</span></p>
+								<p class="CWFontCSubText"><span class="statusTitle">Fiducie ricevute:</span><span>28</span></p>
+			</div>
+</div></div>
+                <script type="text/javascript">
+                $( document ).ready( function() {
+                    Facebook.init( "116036395145369", "www.ciao.it", "it_IT" );
+                } );
+                </script>
+                
+            <script type="text/javascript">
+                (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <div class="CWReviewsTextReview clearfix">
+	<!-- Social Sharing Buttons Start -->
+	<div class="CWReviewsSocialButtons top">
+        <span class="CWFontCSubText">Condividi questa opinione su</span>
+        
+            <script type="text/javascript">
+               Facebook.registerContent( 'review', 1558103, {"title":"Valsoia Budino gusto Gianduia - Uno spuntino leggero ^__^","description":"Questo budino l\u0092 ho scoperto per caso ed ora lo trovo facilmente in qualunque\n\nsupermercato.\n\n\n\nOramai posso dire di essere una cliente affezionata ai prodotti Valsoia.\n\nE\u0092 un piccolo piacere a base vegetale e fatto con soia e senza OGM.\n\nNon ci sono gras","href":"http:\/\/www.ciao.it\/Valsoia_Budino_gusto_Gianduia__Opinione_1558103","productImageUrl":"http:\/\/it-img2.ciao.com\/iit\/images\/products\/small\/387\/valsoia_budino_gusto_gianduia__1065387.jpg"} );
+            </script>
+<a href="javascript:void(0)" onclick="Facebook.publishContent( 'review', 1558103, function() { s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Facebook&quot;,&quot;linkTrackVars&quot;:&quot;eVar38&quot;,&quot;eVar38&quot;:&quot;Facebook&quot;});; userActivityShare( 'SNSFB', 'PRDOP', 1558103 ) } );"><img class="e-hear-icon fb" src="http://it-img1.ciao.com/iit/images/icons/space.gif
+" width="17" height="17" /></a>        <a href="javascript:void(0);"
+                    onclick="popUp=window.open('https://twitter.com/share?text=Uno spuntino leggero ^__^&via=ciao_it&url=http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103', 'popupwindow','scrollbars=yes,width=600,height=350');popUp.focus(); s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Twitter&quot;,&quot;linkTrackVars&quot;:&quot;eVar38&quot;,&quot;eVar38&quot;:&quot;Twitter&quot;});; userActivityShare( 'SNSTW', 'PRDOP', 1558103 )"><img class="e-hear-icon tw"
+                    src="http://de-img1.ciao.com/ide/images/icons/space.gif" width="17" height="17"></a>        <a href="javascript:void(0);" onclick="popUp=window.open('https://plus.google.com/share?url=http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103', 'popupwindow', 'scrollbars=yes,width=600,height=400');popUp.focus(); s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Google+&quot;,&quot;linkTrackVars&quot;:&quot;eVar38&quot;,&quot;eVar38&quot;:&quot;Google+&quot;});; userActivityShare( 'SNSG+', 'PRDOP', 1558103 );"><img class="e-hear-icon gp" src="http://de-img1.ciao.com/ide/images/icons/space.gif" width="17" height="17" alt="Google+" title="Google+"></a>    </div>
+    <!-- //Social Sharing Buttons End -->
+		<div class="reviewRating" id="ReviewRating">
+		In media <b>l&#039;opinione &egrave;&#039; stata valutata molto utile</b> da 13 utenti Ciao <span class="CWBar " title=""><span style="width:79%"></span></span>	</div>
+		    
+	<div class="reviewText" id="reviewText">
+				<div id="intelliTXT" name="intelliTxt" class="clearfix">
+		<span property="v:description"><p>Questo budino l ho scoperto per caso ed ora lo trovo facilmente in qualunque</p>supermercato.<p></p>Oramai posso dire di essere una cliente affezionata ai prodotti Valsoia.<p>E un piccolo piacere a base vegetale e fatto con soia e senza OGM.</p>Non ci sono grassi, è senza colesterolo e lattosio, in più è arricchito con calcio e<p>diverse vitamine.<br /><h4 class="bigheadline">LA MIA ESPERIENZA</h4></p><br />Io non ho disturbi alimentari per fortuna e non ho intolleranze varie ma da circa<p>due anni compro i prodotti valsoia perché mi son trovata sempre molto bene.</p>Ho iniziato con il gelato che è davvero molto buono e leggero e quindi ho deciso<p>di provare anche questo dessert. Sembra un budino ma un pochino meno gelatinoso del </p>solito e sapore è buonissimo, dolce al punto giusto.<p>Poi, rispetto ad altri budini questo mi rende più leggera e non mi appesantisce e</p>così anche il senso di colpa per avere mangiato un dolcetto non mi assale in<p>quanto ha pochissimi grassi.</p><h4 class="bigheadline">INFORMAZIONI ETICHETTA</h4><p>I dati nutrizionali sono questi</p>100 % Vegetale, <br />Colesterolo 0 mg,<br /> Senza Lattosio, Con Calcio + Vit D2 B2 B12, <br />A basso contenuto di Grassi, <br />Fonte di proteine <p>Ingredienti<br />estratto di soia (82%) (acqua, semi di soia (8,2%), <br />zucchero, emulsionanti: mono- e digliceridi degli acidi grassi, sale marino, aromi), zucchero, cacao magro (2,9%), amido modificato di tapioca, <br />destrosio, <br />gelificante: carragenina, carbonato di calcio, aromi, vitamine: B2, B12, e D2. <h5 class="subheadline"></h5>==============================================<br />lo consiglio per fare uno spuntino o come dessert più sano e goloso......<br />Anche se il mio preferito rimane il budino al caramello.</p><br />^__^ Ciao da Hester!!!</span>		</div>
+			</div>
+    <!-- Social Sharing Buttons Start -->
+    <div class="CWReviewsSocialButtons eeSCBtm clearfix">
+        <span class="CWFontCSubText">Condividi questa opinione su</span>
+        
+            <script type="text/javascript">
+               Facebook.registerContent( 'review', 1558103, {"title":"Valsoia Budino gusto Gianduia - Uno spuntino leggero ^__^","description":"Questo budino l\u0092 ho scoperto per caso ed ora lo trovo facilmente in qualunque\n\nsupermercato.\n\n\n\nOramai posso dire di essere una cliente affezionata ai prodotti Valsoia.\n\nE\u0092 un piccolo piacere a base vegetale e fatto con soia e senza OGM.\n\nNon ci sono gras","href":"http:\/\/www.ciao.it\/Valsoia_Budino_gusto_Gianduia__Opinione_1558103","productImageUrl":"http:\/\/it-img2.ciao.com\/iit\/images\/products\/small\/387\/valsoia_budino_gusto_gianduia__1065387.jpg"} );
+            </script>
+<a href="javascript:void(0)" onclick="Facebook.publishContent( 'review', 1558103, function() { s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Facebook&quot;,&quot;linkTrackVars&quot;:&quot;eVar38&quot;,&quot;eVar38&quot;:&quot;Facebook&quot;});; userActivityShare( 'SNSFB', 'PRDOP', 1558103 ) } );"><img class="e-hear-icon fb" src="http://it-img1.ciao.com/iit/images/icons/space.gif
+" width="17" height="17" /></a>        <a href="javascript:void(0);"
+                    onclick="popUp=window.open('https://twitter.com/share?text=Uno spuntino leggero ^__^&via=ciao_it&url=http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103', 'popupwindow','scrollbars=yes,width=600,height=350');popUp.focus(); s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Twitter&quot;,&quot;linkTrackVars&quot;:&quot;eVar38&quot;,&quot;eVar38&quot;:&quot;Twitter&quot;});; userActivityShare( 'SNSTW', 'PRDOP', 1558103 )"><img class="e-hear-icon tw"
+                    src="http://de-img1.ciao.com/ide/images/icons/space.gif" width="17" height="17"></a>        <a href="javascript:void(0);" onclick="popUp=window.open('https://plus.google.com/share?url=http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103', 'popupwindow', 'scrollbars=yes,width=600,height=400');popUp.focus(); s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Google+&quot;,&quot;linkTrackVars&quot;:&quot;eVar38&quot;,&quot;eVar38&quot;:&quot;Google+&quot;});; userActivityShare( 'SNSG+', 'PRDOP', 1558103 );"><img class="e-hear-icon gp" src="http://de-img1.ciao.com/ide/images/icons/space.gif" width="17" height="17" alt="Google+" title="Google+"></a>    </div>
+	<!-- //Social Sharing Buttons End -->
+</div></div><div class="CWReviewsSocial CWBORDERReview CWBorderClearingB CWBorderClearingT clearfix">
+	<div class="clearfix">
+		<p style="float:left;">
+						<a href="javascript:void(0)" class="CWButtonReview" onclick="javascript:jlink('/','o','p','i','n','i','o','n','_','e','d','i','t','.','p','h','p','?','p','r','o','d','u','c','t','_','i','d','=','1','0','6','5','3','8','7'); return false;" id="RTWriteReviewButtonLink">
+				<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span id="RTWriteReviewButtonText" class="writeReviewIcon">Scrivi la tua opinione</span></span>
+			</a> 
+					</p>
+		<p style="float:right;">
+							<a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1373516" class="CWButtonMiniNeutral" id="RTPrevReview"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span id="RTPrevReviewText">&laquo; opinione precedente</span></span></a>
+										<a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1192603" class="CWButtonMiniNeutral" id="RTNextReview"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span id="RTNextReviewText">opinione successiva &raquo;</span></span></a>
+					</p>
+	</div>
+	
+	</div><div class="CWReviewsEvaluateReview CWBORDERReview CWBorderClearingB clearfix">
+	<div class="CWBGTopReview">
+		<span class="CWReviewsHeadline"><b>Link Sponsorizzati</b></span>
+	</div>
+	
+			<div id="AFCbox">
+			<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-5886619242975490";
+			google_ad_slot = "9414498184";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			google_hints = "Valsoia Budino gusto Gianduia,Budini & Creme";
+			google_alternate_ad_url = "http://www.ciao.it/Budini_Creme_76423_4";//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			</div>
+			</div>
+<form target="_self" action="opinion_rating.php" method="post" id="evaluate_review_form">
+	<div class="CWReviewsEvaluateReview CWBORDERReview CWBorderClearingB clearfix">
+			<div class="CWBGTopReview">
+				<span class="CWReviewsHeadline"><b>Valuta questa Opinione</b></span>
+			</div>
+			<div class="evaluateReview" style="position:relative">
+			
+				<div id="evaluate_tooltip_usefulness" style="position: absolute; display: none;top:67px;left:200px;z-index:100;" >
+					<div id="" class="CW_CRUX_TTIP_default evaluateToolip clearfix">
+						<p class="black"><span style="color:red">Questa funzione &egrave; disponibile solo per gli utenti che hanno gi&agrave; effettuato login.</span><br />Valuta un&acute;opinione &quot;eccellente&quot; solo se le considerazioni dell&acute;autore apportano ai lettori un contributo fondamentale nella decisione d&acute;acquisto del prodotto</p>
+						<p>L&acute;opinione tratta tutti gli aspetti del prodotto utili alla sua valutazione. Le riflessioni sono basate sulla propria esperienza personale pur mantenendo un&#039;oggettivit&agrave; di fondo. Il lettore deve disporre di informazioni sufficienti per scegliere se acquistare il prodotto solo basandosi sulla lettura di questa opinione.</p>
+					</div>
+				</div>
+				<div id="evaluate_tooltip_somewhathelpful" style="position: absolute; display: none;top:67px;left:450px;z-index:100;" >
+					<div id="" class="CW_CRUX_TTIP_default evaluateToolip clearfix">
+						<p class="black"><span style="color:red">Questa funzione &egrave; disponibile solo per gli utenti che hanno gi&agrave; effettuato login.</span><br />Valuta un&acute;opinione &quot;poco utile&quot; se l&#039;informazione fornita &egrave; scarsa e inesatta</p>
+						<p>L&acute;opinione non &egrave; oggettiva, n&egrave; tantomeno fondata sull&acute;esperienza personale dell&acute;autore. La sua struttura &egrave; poco chiara e le argomentazioni modeste.</p>
+					</div>
+				</div>
+				<div id="evaluate_tooltip_veryhelpful" style="position: absolute; display: none;top:100px;left:200px;z-index:100;" >
+					<div id="" class="CW_CRUX_TTIP_default evaluateToolip clearfix">
+						<p class="black"><span style="color:red">Questa funzione &egrave; disponibile solo per gli utenti che hanno gi&agrave; effettuato login.</span><br />Valuta un&acute;opinione &quot;molto utile&quot; se apporta ai lettori buoni consigli per la decisione d&acute;acquisto del prodotto</p>
+						<p>L&acute;opinione illustra un&#039;ampia gamma di caratteristiche del prodotto, e l&#039;autore ha esposto chiaramente la sua posizione, in maniera precisa e corretta. L&acute;opinione d&agrave; al lettore un valido aiuto nella scelta del prodotto, ma utilizzata insieme ad altre fonti di informazione.</p>
+					</div>
+				</div>
+				
+				<div id="evaluate_tooltip_nothelpful" style="position: absolute; display: none;top:100px;left:450px;z-index:100;" >
+					<div id="" class="CW_CRUX_TTIP_default evaluateToolip clearfix">
+						<p class="black"><span style="color:red">Questa funzione &egrave; disponibile solo per gli utenti che hanno gi&agrave; effettuato login.</span><br />Valuta un&acute;opinione &quot;inutile&quot; se le informazioni fornite sono sbagliate, offensive o senza nessun interesse</p>
+						<p>L&acute;opinione non facilita in nessun modo la decisione d&acute;acquisto. L&#039;informazione fornita &egrave; scarsa e senza nessun fondamento, oppure il contenuto non &egrave; relazionato con il prodotto e/o risulta offensivo verso altri iscritti.</p>
+					</div>
+				</div>
+				<div id="evaluate_tooltip_helpful" style="position: absolute; display: none;top:133px;left:200px;z-index:100;" >
+					<div id="" class="CW_CRUX_TTIP_default evaluateToolip clearfix">
+						<p class="black"><span style="color:red">Questa funzione &egrave; disponibile solo per gli utenti che hanno gi&agrave; effettuato login.</span><br />Valuta un&acute;opinione &quot;utile&quot; se aiuta i lettori nella decisione d&acute;acquisto del prodotto</p>
+						<p>L&acute;opinione &egrave; chiara e precisa. Anche se l&acute;autore non fornisce tutte le informazioni importanti, il suo apporto &egrave; comunque utile alla decisione d&acute;acquisto, fornendo al lettore un&acute;idea sulla qualit&agrave; del prodotto.</p>
+					</div>
+				</div>
+				<div id="evaluate_tooltip_offtopic" style="position: absolute; display: none;top:133px;left:450px;z-index:100;" >
+					<div id="" class="CW_CRUX_TTIP_default evaluateToolip clearfix">
+						<p class="black"><span style="color:red">Questa funzione &egrave; disponibile solo per gli utenti che hanno gi&agrave; effettuato login.</span><br />Valuta un&acute;opinione &quot;fuori posto&quot; se &egrave; stata inserita nella sezione sbagliata o se non parla del prodotto in questione</p>
+						<p>Le opinioni inserite nella categoria sbagliata o che non parlano del prodotto in questione devono essere valutate &quot;fuori posto&quot;. In questo modo il lettore sapr&agrave; che leggere tale opinione non sar&agrave; di nessun aiuto per la sua decisione d&acute;acquisto.</p>
+					</div>
+				</div>
+			
+				<p>Che utilit&agrave; avr&agrave; questa Opinione per una persona che sta prendendo una decisione d'acquisto?</p>
+				<p class="ratingGuidelines">
+					<a class="CWLinkBlack" href="faq.php?Id=4&Idx=3">Istruzioni su come votare</a>
+				</p>
+
+							    			    
+			    <div style="position:relative; ">
+														<div  class="evaluationButtons clearfix">
+						<p class="exeptional">
+							<span class="CWBar evaluationUsefulness" title=""><span style="width:100%"></span></span>							<a class="CWButtonReview" href="javascript:void(0);"
+								onmouseover="ReviewPageDisplayTooltip( 'usefulness' );" onmouseout="ReviewPageHideTooltip( 'usefulness' );"
+								onclick="ReviewPageEvaluate('5'); return false;"							>
+								<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Eccellente</span></span></a>
+						</p>
+						<p  class="somewhathelpful">
+							<span class="CWBar evaluationUsefulness" title=""><span style="width:40%"></span></span>							<a class="CWButtonNeutral" href="javascript:void(0);"
+								onmouseover="ReviewPageDisplayTooltip( 'somewhathelpful' );" onmouseout="ReviewPageHideTooltip( 'somewhathelpful' );"
+								onclick="ReviewPageEvaluate('2'); return false;"							>
+								<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>poco utile</span></span></a>
+						</p>
+					</div>
+	
+					<div  class="evaluationButtons clearfix">
+						<p  class="veryhelpful">
+							<span class="CWBar evaluationUsefulness" title=""><span style="width:80%"></span></span>							<a class="CWButtonNeutral" href="javascript:void(0);"
+								onmouseover="ReviewPageDisplayTooltip( 'veryhelpful' );" onmouseout="ReviewPageHideTooltip( 'veryhelpful' );"
+								onclick="ReviewPageEvaluate('4'); return false;"							>
+								<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>molto utile</span></span></a>
+						</p>
+						<p  class="nothelpful">
+							<span class="CWBar evaluationUsefulness" title=""><span style="width:20%"></span></span>							<a class="CWButtonNeutral" href="javascript:void(0);"
+								onmouseover="ReviewPageDisplayTooltip( 'nothelpful' );" onmouseout="ReviewPageHideTooltip( 'nothelpful' );"
+								onclick="ReviewPageEvaluate('1'); return false;"							>
+								<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>inutile</span></span></a>
+						</p>
+					</div>
+	
+					<div  class="evaluationButtons clearfix">
+						<p  class="helpful">
+							<span class="CWBar evaluationUsefulness" title=""><span style="width:60%"></span></span>							<a class="CWButtonNeutral" href="javascript:void(0);"
+								onmouseover="ReviewPageDisplayTooltip( 'helpful' );" onmouseout="ReviewPageHideTooltip( 'helpful' );"
+								onclick="ReviewPageEvaluate('3'); return false;"							>
+								<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>utile</span></span></a>
+						</p>
+						<p  class="offtopic">
+							<span class="CWBar evaluationUsefulness" title=""><span style="width:0%"></span></span>							<a class="CWButtonBad" href="javascript:void(0);"
+								onmouseover="ReviewPageDisplayTooltip( 'offtopic' );" onmouseout="ReviewPageHideTooltip( 'offtopic' );"
+								onclick="ReviewPageEvaluate('0'); return false;"							>
+								<span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Fuori tema</span></span></a>
+						</p>
+					</div>
+				</div>
+			</div>
+	</div>
+	<input type="hidden" value="1558103" name="OpinionId"/>
+	<input type="hidden" value="%2Fopinion_view.php%3FOpinionId%3D1558103" name="referrer"/>
+	<input type="hidden" value="-1" name="OldRating"/>
+	<input type="hidden" value="" name="rating" id="rating_field">
+</form>
+<script language="JavaScript">
+	function ReviewPageDisplayTooltip( elem ){
+		document.getElementById( 'evaluate_tooltip_' + elem ).style.display = 'block';
+	}
+
+	function ReviewPageHideTooltip( elem ){
+		document.getElementById( 'evaluate_tooltip_' + elem ).style.display = 'none';
+	}
+
+	function ReviewPageEvaluate( elem ){
+		document.getElementById( 'rating_field' ).value = elem;
+		document.getElementById( 'evaluate_review_form' ).submit();
+	}
+</script><div class="CWReviewsCommentReview clearfix CWBORDERReview CWBorderClearingB" id="opinionCommentsPlace" >
+		<a name="CommentAboutThisReview"></a>
+		<div class="CWBGTopReview">
+			<span class="CWReviewsHeadline"><b>Commenti su questa Opinione</b></span>
+		</div>
+		<div class="commentReview">
+						<div class="userComments">
+								<div class="comment clearfix  " id="opinionComment_14401599" >
+					<img src="http://it-img1.ciao.com/iit/images/icons/no_pic_male_small.gif" alt="mrgreg" />					<p class="userStatus">
+						<a href="faq.php/Id/2/Idx/4/Idy/12" ><img src="http://it-img1.ciao.com/iit/images/user_symbols/level6_small.gif"  title="bronzo" width="7" height="7" alt="" /></a><img src="http://it-img2.ciao.com/iit/images/standard/space.gif"  width="4" height="4" alt="" />						<a class="CWLINKSub" href="javascript:void(0)" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','I','s','c','r','i','t','t','i','_','_','m','r','g','r','e','g','_','7','8','7','7','7','0'); return false;" rel="nofollow">mrgreg</a>
+					</p>
+					<p>10.07.2013 12:13</p>
+					<p>grazie</p>
+				</div>
+								<div class="comment clearfix CWBORDERReview CWBorderClearingL CWBorderClearingR CWBorderClearingB " id="opinionComment_14401536" >
+					<img src="http://it-img1.ciao.com/iit/images/icons/no_pic_male_small.gif" alt="Pacman1984" />					<p class="userStatus">
+						<a href="faq.php/Id/2/Idx/4/Idy/12" ><img src="http://it-img1.ciao.com/iit/images/user_symbols/level6_small.gif"  title="bronzo" width="7" height="7" alt="" /></a><img src="http://it-img2.ciao.com/iit/images/standard/space.gif"  width="4" height="4" alt="" />						<a class="CWLINKSub" href="javascript:void(0)" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','I','s','c','r','i','t','t','i','_','_','P','a','c','m','a','n','1','9','8','4','_','8','0','1','1','6','6'); return false;" rel="nofollow">Pacman1984</a>
+					</p>
+					<p>10.07.2013 12:04</p>
+					<p>Ottime informazioni.</p>
+				</div>
+								<div class="comment clearfix CWBORDERReview CWBorderClearingL CWBorderClearingR CWBorderClearingB " id="opinionComment_14401515" >
+					<img src="http://it-img1.ciao.com/iit/images/icons/no_pic_male_small.gif" alt="nino1946" />					<p class="userStatus">
+						<a href="faq.php/Id/2/Idx/4/Idy/12" ><img src="http://it-img1.ciao.com/iit/images/user_symbols/level0_small.gif"  title="bianco" width="7" height="7" alt="" /></a><img src="http://it-img2.ciao.com/iit/images/standard/space.gif"  width="4" height="4" alt="" />						<a class="CWLINKSub" href="javascript:void(0)" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','I','s','c','r','i','t','t','i','_','_','n','i','n','o','1','9','4','6','_','8','2','6','5','8','4'); return false;" rel="nofollow">nino1946</a>
+					</p>
+					<p>10.07.2013 12:00</p>
+					<p>potrei gradirlo, quindi lo proverò presto</p>
+				</div>
+								<div class="readAll">
+					<a href="javascript:void(0)" class="CWLINKSub" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','C','o','m','m','e','n','t','i','-','s','u','-','O','p','i','n','i','o','n','e','_','_','V','a','l','s','o','i','a','_','B','u','d','i','n','o','_','g','u','s','t','o','_','G','i','a','n','d','u','i','a','_','1','5','5','8','1','0','3'); return false;">Guarda i commenti</a>
+				</div>
+			</div>
+			<div class="writeComment CWBORDERReview CWBorderClearingR CWBorderClearingB CWBorderClearingT">
+				<script language="javascript" type="text/javascript">
+	aOpinionCommentAddIns["OCADD1"] = new OCADD_OpinionCommentAdd( "OCADD1" );
+</script>
+<form name="OCADD1_comment_add_form" id="OCADD1_comment_add_form" method="post" onsubmit="return false;">
+<div class="writeCommentInnerWrapper" id="OCADD1_writeCommentDiv" >
+	<p><b>Pubblica commento</b></p>
+	<p class="CWFontCSubText CWFontSmall">max. 2000 caratteri</p>
+	<textarea disabled="disabled" name="OCADD1_comment" id="OCADD1_comment" onfocus="this.value=''" rows="12" cols="20" onkeyup="aOpinionCommentAddIns['OCADD1'].checkCommentText(this,2,2000);">Questa funzione è disponibile solo per gli utenti che hanno già effettuato login.</textarea>
+	<p id="OCADD1_errorMsgNewComment" class="errorMessage CWFontCError CWFontSmall" style="visibility:hidden;">Raggiungo il numero massimo di caratteri consentito.</p>
+	<a href="javascript:void(0)" id="OCADD1_postCommentButton" class="CWButtonNeutral CWButtonDisabled" onclick="return false;">
+		<span class="CWButtonLeft"> </span><span class="CWButtonRight"><span> Pubblica il tuo commento</span></span></a>
+</div><input type="hidden" name="OCADD1_opinion_id" id="OCADD1_opinion_id" value="1558103" />
+</form>			</div>
+					</div>
+</div><br /><br /></div><div class="clearfix CWReviewsRightTube" id="CWReviewsRightTube">	<div class="CWWRAPPERAdBlock">
+				 	<!-- begin ad tag  (tile=8) -->
+			 	<div id="ad_container">
+									<span id="doubleclick_contentAd" style="display:none;"><script type="text/javascript" src="http://ad.it.doubleclick.net/adj/site_ciao.it_contentad_review/mangiare;sz=300x250;tile=2;ord=1373451440?"></script></span>
+					<noscript><a href="http://ad.it.doubleclick.net/jump/site_ciao.it_contentad_review/mangiare;sz=300x250;tile=2;ord=1373451440?"><img src="http://ad.it.doubleclick.net/ad/site_ciao.it_contentad_review/mangiare;sz=300x250;tile=2;ord=1373451440?" alt=""/></a></noscript>
+												</div>
+				<!-- End ad tag -->
+					</div>
+<script language="javascript" type="text/javascript">
+	aOpinionFeatureBox["OFBOX1"] = new OFBOX_OpinionFeatureBox( "OFBOX1" );
+</script>
+<div class="CWWRAPPERReviewFeature CWBORDERReview" id="OFBOX1_FeatureBox">
+	<div class="CWBGTopReview CWContainerHead" id="FbTitle">
+		<b>Azione per questa opinione</b>
+	</div>
+	<div class="CWContainerBody" id="OFBOX1_FbContainer">
+		<a class="CWLINKArrowRMulti" href="javascript:void(0)" onclick="javascript:jlink('/','o','p','i','n','i','o','n','_','e','d','i','t','.','p','h','p','?','p','r','o','d','u','c','t','_','i','d','=','1','0','6','5','3','8','7');" id="FbWriteReview"><img height="12" width="12" alt="" src="http://it-img1.ciao.com/iit/images/icons/space.gif" /><span id="FbWriteReviewSpan">Scrivi la tua Opinione</span></a>					<a class="CWLINKArrowRMulti" href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103#CommentAboutThisReview" id="FbMakeComment"><img height="12" width="12" alt="" src="http://it-img1.ciao.com/iit/images/icons/space.gif" /><span id="FbMakeCommentSpan">Scrivi un commento</span></a>					<a class="CWLINKArrowRMulti" href="javascript:void(0)" onclick="this.href='https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103'; return true;" title="Questa funzione è disponibile solo per gli utenti che hanno già effettuato login." id="FbCircleOfTrust"><img height="12" width="12" alt="" src="http://it-img1.ciao.com/iit/images/icons/space.gif" /><span id="FbCircleOfTrustSpan">Aggiungi hester3000 agli Autori preferiti</span></a>					<a class="CWLINKArrowRMulti" href="javascript:void(0)" onclick="this.href='https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103'; return true;" title="Questa funzione è disponibile solo per gli utenti che hanno già effettuato login." id="FbSubscribeAuthorReviews"><img height="12" width="12" alt="" src="http://it-img1.ciao.com/iit/images/icons/space.gif" /><span id="FbSubscribeAuthorReviewsSpan">Richiedi le Opinioni di hester3000</span></a>					<a class="CWLINKArrowRMulti" href="javascript:void(0)" onclick="aOpinionFeatureBox['OFBOX1'].ShowHideSubitems('FbMoreLinks');" id="FbMoreLinks"><img height="12" width="12" alt="" src="http://it-img1.ciao.com/iit/images/icons/space.gif" /><span id="FbMoreLinksSpan">Continua...</span></a>							<span id="FbMoreLinksContainer" style="display: none;">
+				<a href="javascript:void(0)" onclick="this.href='https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103'; return true;" title="Questa funzione è disponibile solo per gli utenti che hanno già effettuato login." id="FbFavoriteReview"><span id="FbFavoriteReviewSpan" class="favourites_review_2_1558103">Aggiungi questa opinione ai preferiti</span></a><a href="javascript:void(0)" onclick="this.href='https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103'; return true;" title="Questa funzione è disponibile solo per gli utenti che hanno già effettuato login." id="FbFavoriteProduct"><span id="FbFavoriteProductSpan" class="favourites_product_2_1065387">Aggiungi questo prodotto ai preferiti</span></a><a href="javascript:void(0)" onclick="this.href='https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103'; return true;" title="Questa funzione è disponibile solo per gli utenti che hanno già effettuato login." id="FbProductList"><span id="FbProductListSpan">Aggiungi questo prodotto alla lista Ciao</span></a><a href="javascript:void(0)" onclick="this.href='https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103'; return true;" title="Questa funzione è disponibile solo per gli utenti che hanno già effettuato login." id="FbReviewAlert"><span id="FbReviewAlertSpan">Ricevi notifica per opinioni su questo prodotto</span></a><a href="javascript:void(0)" onclick="this.href='https://www.ciao.it/login.php?referrer=%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103'; return true;" title="Questa funzione è disponibile solo per gli utenti che hanno già effettuato login." id="FbPublishVideo"><span id="FbPublishVideoSpan">Publicca una Video Opinione</span></a><a href="/opinion_preview.php/OpinionId/1558103" id="FbPrintReview"><span id="FbPrintReviewSpan">Stampa</span></a>				</span>
+						</div>
+</div> <script type="text/javascript">
+<!--
+function tabSwitch( oTab ) {
+	aLIs = oTab.parentNode.getElementsByTagName( 'LI' );
+
+	for( i=0; i < aLIs.length; i++ ) {
+		aLIs[i].className = '';
+	}
+
+	oTab.className = 'active';
+
+	// searching for container
+	while( oTab.className != 'CWContainerBody' ) {
+		oTab = oTab.parentNode;
+	}
+
+	aDivs = oTab.getElementsByTagName( 'DIV' );
+
+	iCounter = 0;
+	for( i=0; i < aDivs.length; i++ ) {
+		// check if current div has tab content
+		if( aDivs[i].className == 'MoreReviewsBox' ) {
+			if( aLIs[iCounter].className == 'active' )
+				aDivs[i].style.display = '';
+			else
+				aDivs[i].style.display = 'none';
+			iCounter++;
+		}
+	}
+
+}
+//-->
+</script>
+<div class="CWWRAPPERReadMoreProduct CWBORDERReview" id="MoreReviewsBox">
+	<div class="CWBGTopReview CWContainerHead">
+		<b>Leggi di pi&ugrave; su questo prodotto</b>
+	</div>
+	<div class="CWContainerBody">
+		<div class="CWReadMoreProductTabs">
+			<ul class="CWTabNavi">
+								<li class="active" onclick="tabSwitch(this)" id="MRBoxMoreReviewsTab"><a href="javascript:void(0)"><span class="portside">&nbsp;</span><span class="starboard">Altre Opinioni</span></a></li>
+								<li onclick="tabSwitch(this)" id="MRBoxBestWorstReviewsTab"><a href="javascript:void(0)"><span class="portside">&nbsp;</span><span class="starboard">Migliore/Peggiore</span></a></li>
+							</ul>
+		</div>
+				<div class="MoreReviewsBox">
+			<table class="CWReadMoreProductTable" id="MRBoxMoreReviewsContent">
+				<tbody>
+								<tr id="MRBoxMoreReviewsContentStars0">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di lucscan76"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1286041" title="Valsoia Budino gusto Gianduia - opinione di lucscan76">Poche calorie - ottimo gusto</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxMoreReviewsContentUsefulness0">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>non valutata</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di lucscan76 valutata come non valutata"><span style="width:0%"></span></span></span>
+					</td>
+				</tr>
+								<tr id="MRBoxMoreReviewsContentStars1">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di lucscan76"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1286041" title="Valsoia Budino gusto Gianduia - opinione di lucscan76">Poche calorie - ottimo gusto</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxMoreReviewsContentUsefulness1">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>non valutata</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di lucscan76 valutata come non valutata"><span style="width:0%"></span></span></span>
+					</td>
+				</tr>
+								<tr id="MRBoxMoreReviewsContentStars2">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_30" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di gui50mi"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1193261" title="Valsoia Budino gusto Gianduia - opinione di gui50mi">buono anche se non c'è latte ed è tutto vegetale</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxMoreReviewsContentUsefulness2">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>non valutata</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di gui50mi valutata come non valutata"><span style="width:0%"></span></span></span>
+					</td>
+				</tr>
+								<tr id="MRBoxMoreReviewsContentStars3">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di pinusdj"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1202545" title="Valsoia Budino gusto Gianduia - opinione di pinusdj">Evviva i Valsoia</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxMoreReviewsContentUsefulness3">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>utile</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di pinusdj valutata come utile"><span style="width:65%"></span></span></span>
+					</td>
+				</tr>
+								<tr id="MRBoxMoreReviewsContentStars4">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di nifriz"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1192506" title="Valsoia Budino gusto Gianduia - opinione di nifriz">Anche le cose sane possono essere buone!</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxMoreReviewsContentUsefulness4">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>utile</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di nifriz valutata come utile"><span style="width:65%"></span></span></span>
+					</td>
+				</tr>
+												<tr>
+					<td class="CWReadMoreProductTableFooter" colspan="2">
+						<a href="http://www.ciao.it/Opinionisulprodotto/Valsoia_Budino_gusto_Gianduia__1065387">Mostra tutte le Opinioni</a>
+					</td>
+				</tr>
+							</tbody></table>
+		</div>
+				<div class="MoreReviewsBox" style="display: none;">
+			<table class="CWReadMoreProductTable" id="MRBoxBestWorstReviewsContent">
+				<tbody>
+								<tr id="MRBoxBestWorstReviewsContentStars0">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di byron2011"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1192772" title="Valsoia Budino gusto Gianduia - opinione di byron2011">UN DESSERT VEGETARIANO</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxBestWorstReviewsContentUsefulness0">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>Eccellente</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di byron2011 valutata come Eccellente"><span style="width:96%"></span></span></span>
+					</td>
+				</tr>
+								<tr id="MRBoxBestWorstReviewsContentStars1">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di silvana70"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1192757" title="Valsoia Budino gusto Gianduia - opinione di silvana70">UNA BONTA' TUTTA DA GUSTARE</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxBestWorstReviewsContentUsefulness1">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>Eccellente</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di silvana70 valutata come Eccellente"><span style="width:94%"></span></span></span>
+					</td>
+				</tr>
+								<tr id="MRBoxBestWorstReviewsContentStars2">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_30" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di gui50mi"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1193261" title="Valsoia Budino gusto Gianduia - opinione di gui50mi">buono anche se non c'è latte ed è tutto vegetale</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxBestWorstReviewsContentUsefulness2">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>Fuori tema</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di gui50mi valutata come Fuori tema"><span style="width:0%"></span></span></span>
+					</td>
+				</tr>
+								<tr id="MRBoxBestWorstReviewsContentStars3">
+					<th>
+						<img class="ratingStars color_yellow size_normal rank_10" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="Valsoia Budino gusto Gianduia - opinione di Margherita123"  />					</th>
+					<td>
+						<span class="CWReadMoreProductQuotes"><a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1373516" title="Valsoia Budino gusto Gianduia - opinione di Margherita123">Il budino che sa di medicina!</a></span>
+					</td>
+				</tr>
+				<tr id="MRBoxBestWorstReviewsContentUsefulness3">
+					<th>
+						 
+					</th>
+					<td class="CWTableSpacer">
+						<span class="CWReadMoreProductLeftSpace"><b>molto utile</b> <span class="CWBar " title="Opinione su Valsoia Budino gusto Gianduia di Margherita123 valutata come molto utile"><span style="width:81%"></span></span></span>
+					</td>
+				</tr>
+												<tr>
+					<td class="CWReadMoreProductTableFooter" colspan="2">
+						<a href="http://www.ciao.it/Opinionisulprodotto/Valsoia_Budino_gusto_Gianduia__1065387">Mostra tutte le Opinioni</a>
+					</td>
+				</tr>
+							</tbody></table>
+		</div>
+			</div>
+</div> <div class="CWWRAPPERReviewRatings CWBORDERReview" id="ReviewRatingsBoxContainer">
+	<div class="CWBGTopReview CWContainerHead" id="ReviewRatingsBoxContainerHead">
+		<strong>Le valutazioni dell'Opinione</strong>
+	</div>	
+	<div class="CWContainerBody" id="ReviewRatingsBoxContainerBody">				
+					Questa Opinione su Valsoia Budino gusto Gianduia &egrave; stata letta <b>185</b> volte ed &egrave; stata cos&igrave; <a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103#" onmouseover="javascript:this.href=jlinkBuild('/','m','e','m','b','e','r','_','l','i','s','t','.','p','h','p','/','t','y','p','e','/','4','/','O','p','i','n','i','o','n','I','d','/','1','5','5','8','1','0','3'); return false;">valutata</a> dagli iscritti:<br/>
+			<br/>				
+							<b>"molto utile"</b> <span class="CWBar " title=""><span style="width:80%"></span></span> per (100%):<br/>
+				<ol>
+									<li><a href="#" onclick="javascript:jlink('/','f','a','q','.','p','h','p','/','I','d','/','2','/','I','d','x','/','4','/','I','d','y','/','1','2');   return false;" onmousedown="this.href=jlinkBuild('/','f','a','q','.','p','h','p','/','I','d','/','2','/','I','d','x','/','4','/','I','d','y','/','1','2');   this.onclick=''; return false;"rel="nofollow" ><img src="http://it-img1.ciao.com/iit/images/user_symbols/level6_small.gif"  title="bronzo" width="7" height="7" alt="" /></a><img src="http://it-img2.ciao.com/iit/images/standard/space.gif"  width="4" height="4" alt="" /><a href="javascript:void(0)" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','I','s','c','r','i','t','t','i','_','_','m','r','g','r','e','g','_','7','8','7','7','7','0'); return false;">mrgreg</a></li>
+									<li><a href="#" onclick="javascript:jlink('/','f','a','q','.','p','h','p','/','I','d','/','2','/','I','d','x','/','4','/','I','d','y','/','1','2');   return false;" onmousedown="this.href=jlinkBuild('/','f','a','q','.','p','h','p','/','I','d','/','2','/','I','d','x','/','4','/','I','d','y','/','1','2');   this.onclick=''; return false;"rel="nofollow" ><img src="http://it-img1.ciao.com/iit/images/user_symbols/level6_small.gif"  title="bronzo" width="7" height="7" alt="" /></a><img src="http://it-img2.ciao.com/iit/images/standard/space.gif"  width="4" height="4" alt="" /><a href="javascript:void(0)" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','I','s','c','r','i','t','t','i','_','_','P','a','c','m','a','n','1','9','8','4','_','8','0','1','1','6','6'); return false;">Pacman1984</a></li>
+									<li><a href="#" onclick="javascript:jlink('/','f','a','q','.','p','h','p','/','I','d','/','2','/','I','d','x','/','4','/','I','d','y','/','1','2');   return false;" onmousedown="this.href=jlinkBuild('/','f','a','q','.','p','h','p','/','I','d','/','2','/','I','d','x','/','4','/','I','d','y','/','1','2');   this.onclick=''; return false;"rel="nofollow" ><img src="http://it-img1.ciao.com/iit/images/user_symbols/level0_small.gif"  title="bianco" width="7" height="7" alt="" /></a><img src="http://it-img2.ciao.com/iit/images/standard/space.gif"  width="4" height="4" alt="" /><a href="javascript:void(0)" onmousedown="javascript:this.href=jlinkBuild('h','t','t','p',':','/','/','w','w','w','.','c','i','a','o','.','i','t','/','I','s','c','r','i','t','t','i','_','_','n','i','n','o','1','9','4','6','_','8','2','6','5','8','4'); return false;">nino1946</a></li>
+								</ol>
+									e ancora  <a href="javascript:void(0)" onmousedown="javascript:this.href=jlinkBuild('/','m','e','m','b','e','r','_','l','i','s','t','.','p','h','p','/','t','y','p','e','/','4','/','O','p','i','n','i','o','n','I','d','/','1','5','5','8','1','0','3','/','R','a','t','i','n','g','V','a','l','u','e','/','4'); return false;">altri</a> 10 iscritti					<br />
+								<br />
+						La <a href="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103#" onmousedown="javascript:this.href=jlinkBuild('/','f','a','q','.','p','h','p','/','I','d','/','2','/','I','d','x','/','4','/','I','d','y','/','2','#','a','n','s','w','e','r','_','5'); return false;">valutazione generale</a> di questa Opinione non si basa solo sulla media delle singole valutazioni.			</div>
+</div><div class="CWWRAPPERTagCloud CWBORDERCompare"  id="UserSearchTermBox" >
+	<div class="CWBGTopCompare CWContainerHead">
+		<b>Risultati simili a Valsoia Budino gusto Gianduia</b>
+	</div>
+	<div class="CWContainerBody">
+					<a href="/sr/q-valsoia" class="TagLevel5" set="yes">valsoia</a>
+					<a href="/sr/q-gianduia" class="TagLevel4" set="yes">gianduia</a>
+					<a href="/sr/q-con+gusto" class="TagLevel1" set="yes">con gusto</a>
+					<a href="/sr/q-budino" class="TagLevel3" set="yes">budino</a>
+					<a href="/sr/q-gusto" class="TagLevel2" set="yes">gusto</a>
+			</div>
+</div>
+</div></div></div></td>
+
+
+<td style="vertical-align:top;" rowspan="2" id="MainRightColumn">
+				<!-- begin ad tag  (tile=2) -->
+				<div id="scraper_new" style="margin-left:10px">
+					<div class="ad_container">
+						<script type="text/javascript" src="http://ad.it.doubleclick.net/adj/site_ciao.it_skyscraper/mangiare;sz=120x600;tile=3;ord=1373451440?"></script>
+						<script type="text/javascript">fixed_sticky_fullsize()</script>
+					</div>
+									</div>
+				<!-- End ad tag -->
+				</td>
+
+</tr>
+
+<tr><td  colspan="2"  >
+<br />
+
+<div id="footer">
+
+	<a href="http://www.ciao.it/faq/cos-e-ciao,9" id="footer_about_us">Chi Siamo</a>
+
+	- <script type="text/javascript">
+	//<![CDATA[
+	document.write('<a href="/ext_ref_call.php/ReferenceId/156464" rel="nofollow" target="_new" id="footer_jobs">');
+	//]]>
+	</script>
+	Lavora con noi<script type="text/javascript">
+	//<![CDATA[
+	document.write('<\/a>');
+	//]]>
+	</script>	
+
+	- <script type="text/javascript">
+	//<![CDATA[
+	document.write('<a href="http://www.ciao-group.com/index.php?id=259&L=3" target="_new" id="footer_advertise">');
+	//]]>
+	</script>
+	Pubblicità su Ciao<script type="text/javascript">
+	//<![CDATA[
+	document.write('<\/a>');
+	//]]>
+	</script>
+	- <script type="text/javascript">
+	//<![CDATA[
+	document.write('<a href="http://www.ciao-group.com/index.php?id=253&L=3" target="_new" id="footer_press">');
+	//]]>
+	</script>
+	Stampa<script type="text/javascript">
+	//<![CDATA[
+	document.write('<\/a>');
+	//]]>
+	</script>
+	- <script type="text/javascript">
+	//<![CDATA[
+	document.write('<a href="http://www.ciao-group.com/index.php?id=265&amp;L=3" target="_new" id="footer_become_a_partner">');
+	//]]>
+	</script>
+	Diventa partner<script type="text/javascript">
+	//<![CDATA[
+	document.write('<\/a>');
+	//]]>
+	</script>
+	- <a href="http://www.ciao.it/affiliate_partnerprogram_qualityseal.php" id="footer_ciao_quality_seal">Marchio di Qualità Ciao</a>
+
+<div class="footerLine">
+	<span id="footer_img_Ciao_DE" class="CWIconFlags CWIconFlagDE"><a href="http://www.ciao.de/" id="footer_Ciao_DE">Ciao Deutschland</a></span> -
+	<span id="footer_img_Ciao_UK" class="CWIconFlags CWIconFlagUK"><a href="http://www.ciao.co.uk/" id="footer_Ciao_UK">Ciao UK</a></span> -
+	<span id="footer_img_Ciao_FR" class="CWIconFlags CWIconFlagFR"><a href="http://www.ciao.fr/" id="footer_Ciao_FR">Ciao France</a></span> -
+	<span id="footer_img_Ciao_ES" class="CWIconFlags CWIconFlagES"><a href="http://www.ciao.es/" id="footer_Ciao_ES">Ciao Espa&ntilde;a</a></span> -
+	<span id="footer_img_Ciao_NL" class="CWIconFlags CWIconFlagNL"><a href="http://www.ciao-shopping.nl/" id="footer_Ciao_NL">Ciao Nederland</a></span> -
+	<span id="footer_img_Ciao_SE" class="CWIconFlags CWIconFlagSE"><a href="http://www.ciao.se/" id="footer_Ciao_SE">Ciao Sverige</a></span>
+	</div>
+<a href="http://www.ciao.it/site_index.html" class="subgrey" id="footer_site_index">Mappa</a>
+
+	- <a href="http://www.ciao.it/charts.php" class="subgrey" id="footer_ciao_charts">Le classifiche di Ciao</a> - <a href="http://www.ciao.it/pgc/term_index_it.html"  class="subgrey" id="footer_most_searched_products">Prodotti pi&ugrave; cercati</a> - <a href="http://www.ciao.it/faq/privacy,54" class="subgrey" id="footer_data_protection">Privacy</a>
+<br />
+<div class="padT15">
+	<span class="subgrey">&copy; 2013 Shopping Guide GmbH</span>
+</div>
+
+</div>
+
+
+<!-- TRACKING ZONE -->
+
+
+
+
+<!-- Exelate Tracking Pixel -->
+<script type="text/javascript">
+//<![CDATA[
+var bExelatorCompleted = false;
+$(function () {
+	var _write = document.write;
+	document.write = function( htmlContents ) {
+		var cont = document.createElement("div");
+		cont.className = "dynamically-added";
+		cont.innerHTML = htmlContents;
+		var mainBody = document.getElementsByTagName("body")[0];
+		mainBody.appendChild(cont);
+	}
+	var exelatorScript = document.createElement("script");
+	exelatorScript.type = "text/javascript";
+	exelatorScript.async = true;
+	exelatorScript.src = document.location.protocol + "//loadeu.exelator.com/load/?p=446&c=20210&g=004&ctg=Shopping&subctg=&count=&lang=&kw=";
+	exelatorScript.onload = exelatorScript.onreadystatechange = function() { 
+		if ( !bExelatorCompleted && ( !this.readyState || this.readyState === "loaded" || this.readyState === "complete" ) ) {
+				bExelatorCompleted = true;
+				document.write = _write; 
+				exelatorScript.onload = exelatorScript.onreadystatechange = null;
+		}
+	}
+	var bodyTag = document.getElementsByTagName("body")[0];
+	bodyTag.appendChild(exelatorScript);
+});
+//]]>
+</script>
+
+<!-- Begin BlueKai Tag -->
+<script type="text/javascript">
+window.bk_async = function() {
+bk_is_debug = true;
+bk_ignore_meta = true;
+bk_allow_multiple_calls = true;
+bk_ignore_outside_iframe = false;
+bk_disable_mobile = true;
+bk_limit_get_length = false;
+bk_meta_vars = [];
+bk_js_list = [];
+BKTAG.addPageCtx( "Category", "Mangiare & Bere" )
+.doTag(15166, 8);
+};
+(function() {
+var scripts=document.getElementsByTagName('script')[0];
+var s=document.createElement('script');
+s.async = true;
+s.src = '//tags.bkrtx.com/js/bk-coretag.js';
+scripts.parentNode.insertBefore(s, scripts);
+}());
+</script>
+<!-- End BlueKai Tag -->
+
+
+
+
+<!-- END OF ZONE -->
+
+</td></tr>
+
+</table>
+</td>
+</tr>
+</table>
+</div><script language="JavaScript" type="text/javascript">topRightBox(1);</script><!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+s=s_gi('ciaoshopit')
+s.channel="Prod / Rev / Full"
+s.pageName="Budini & Creme > Valsoia Budino gusto Gianduia (1065387)"
+s.server="www.ciao.it"
+s.eVar3="no"
+s.prop3="no"
+s.eVar4=">5y"
+s.prop4=">5y"
+s.eVar12="1065387"
+s.prop13="Valsoia Budino gusto Gianduia (1065387)"
+s.prop14="http://www.ciao.it/Valsoia_Budino_gusto_Gianduia__Opinione_1558103"
+s.prop16="4-4-0-0"
+s.eVar18="Products/Reviews/Full Reviews/Review"
+s.prop20="1065387"
+s.eVar20="74373"
+s.eVar21="CCC_Review_Header_Optimization"
+s.hier2="Home>Mangiare & Bere>Alimenti>Dolciumi>Budini & Creme>Valsoia Budino gusto Gianduia (1065387)"
+s.hier3="Products>Reviews>Full Reviews>Review"
+s.eVar22=""
+s.eVar23=""
+s.eVar24=""
+s.eVar36="4"
+s.eVar25="1558103_no"
+s.eVar26="2013-07_no"
+s.eVar27 = "D=User-Agent"
+s.products = "Home::Mangiare & Bere;Valsoia Budino gusto Gianduia (1065387)"
+s.linkInternalFilters="javascript:,.ciao.it,//ciao.it,googleads.g.doubleclick.net,google.com"
+s.cookieDomainPeriods="2"
+s.currencyCode="EUR"
+
+
+
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://ciaoshopit.122.2O7.net/b/ss/ciaoshopit/1/H.25.4--NS/0?[AQB]&amp;ce=ISO-8859-1&amp;ch=Prod%20%2F%20Rev%20%2F%20Full&amp;pageName=Budini%20%26%20Creme%20%3E%20Valsoia%20Budino%20gusto%20Gianduia%20%281065387%29&amp;server=www.ciao.it&amp;c3=no&amp;v3=no&amp;c4=%3E5y&amp;v4=%3E5y&amp;v12=1065387&amp;c13=Valsoia%20Budino%20gusto%20Gianduia%20%281065387%29&amp;c14=http%3A%2F%2Fwww.ciao.it%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103&amp;c16=4-4-0-0&amp;v18=Products%2FReviews%2FFull%20Reviews%2FReview&amp;c20=1065387&amp;v20=74373&amp;v21=CCC_Review_Header_Optimization&amp;h2=Home%3EMangiare%20%26%20Bere%3EAlimenti%3EDolciumi%3EBudini%20%26%20Creme%3EValsoia%20Budino%20gusto%20Gianduia%20%281065387%29&amp;h3=Products%3EReviews%3EFull%20Reviews%3EReview&amp;g=http%3A%2F%2Fwww.ciao.it%2FValsoia_Budino_gusto_Gianduia__Opinione_1558103&amp;v22=&amp;v23=&amp;v24=&amp;v36=4&amp;v25=1558103_no&amp;v26=2013-07_no&amp;v27=D%3DUser-Agent&amp;products=Home%3A%3AMangiare%20%26%20Bere%3BValsoia%20Budino%20gusto%20Gianduia%20%281065387%29&amp;cdp=2&amp;cc=EUR&amp;[AQE]" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25.4. -->
+
+			<!-- start Vibrant Media IntelliTXT script section -->
+			<script type="text/javascript" src="http://ciao.it.intellitxt.com/intellitxt/front.asp?ipid=13002"></script>
+			<!-- end Vibrant Media IntelliTXT script section-->
+			
+</body>
+</html>

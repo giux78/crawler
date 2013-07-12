@@ -1,0 +1,5399 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]> <html class="ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 lt-ie10 lt-ie9 lt-ie8" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 lt-ie10 lt-ie9" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9 lt-ie10" xmlns="http://www.w3.org/1999/xhtml"> <![endif]-->
+<!--[if gt IE 9]><!--> <html xmlns="http://www.w3.org/1999/xhtml"> <!--<![endif]-->
+    <head>
+        <title>Confronta i prezzi e le opinioni dei consumatori su Ciao</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <meta name="description" content="Più di 2 milioni di Opinioni, consigli da amici, comparazione dei prezzi e classifiche dei migliori prodotti. Tutto per prendere la giusta decisione" />
+<meta name="application-name" content="Ciao.it" /> 
+<meta name="msapplication-starturl" content="http://www.ciao.it/" />
+<meta name="msapplication-task" content="name=Opinioni Recenti;
+    action-uri=http://www.ciao.it/Opinioni_Recenti;
+    icon-uri=http://it-img1.ciao.com/iit/images/icons/ciao_rgb_16.ico" />
+<meta name="msapplication-task" content="name=Nuove Domande;
+    action-uri=http://www.ciao.it/Nuove_Domande;
+    icon-uri=http://it-img1.ciao.com/iit/images/icons/ciao_rgb_16.ico" />
+<meta name="msapplication-task" content="name=Condividi la tua esperienza;
+    action-uri=http://www.ciao.it/condividi_la_tua_esperienza_in_3_semplici_passi;
+    icon-uri=http://it-img1.ciao.com/iit/images/icons/ciao_rgb_16.ico" />          <meta name="msvalidate.01" content="5FBF38BB790B63B8EB4692AD8FB1FD1A" />
+        <link rel="shortcut icon" href="http://www.ciao.it/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="/efb_13_12_0/sf/js/jquery.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/crux.js"></script>
+<style type="text/css">@charset "UTF-8";
+
+@media all {
+	
+/* YAML Browser compatibility section */
+	* {margin:0;padding:0;}
+	* html body *{overflow:visible}
+	* html iframe,* html frame{overflow:auto}
+	* html frameset{overflow:hidden}
+	html {height:100%}
+	body {min-height:101%;font-size:100.01%;font-family:arial,helvetica;color:#000;background:#fff;text-align:left;}
+	option{padding-left:0.4em}
+	fieldset, img {border: 0 solid}
+
+	ul, ol, dl {margin:0;padding:0;}
+	li {margin-left: 1.5em; line-height: 1.5em;}
+	
+	* html ol {padding:0; margin-left:0.5em;}
+	* html ol li a{list-style-position:outside;margin:0;padding:0; }
+	*+ html ol {padding:0;margin-left:0.5em;}
+	*+ html ol li a{list-style-position:outside;margin:0;padding:0;}
+
+	dt {font-weight: bold;}
+	dd {margin: 0 0 1em 2em;}
+	blockquote, cite {margin: 0 0 1em 1.5em;font-size: 0.93em;width: auto;}
+
+	.clearfix:after {content:".";display:block;height:0;clear:both;visibility:hidden;}
+	* html .clearfix {height: 1%;}
+	.clearfix {display: inline-block;}
+	.clearfix {display: block;}
+/* End of YAML Browser compatibility section */
+
+body {
+	font-size:				12px;	
+	padding:				0px 10px 0px 10px;
+}
+
+/* general font definitions */
+h1 {
+	font-size:				20px;
+	padding:				0;
+	margin:					0;
+}
+
+label {
+	font-weight:			bold;
+}
+
+.CWFontBig {
+	font-size:				16px;
+}
+
+.CWFontSmall {
+	font-size:				11px;
+}
+.CWFontCDefault {
+  color:#000000;
+}
+.CWFontCSubText {
+	color:					#7d7d7d;
+}
+.CWFontCError {
+	color:					#FF0000;
+}
+
+/* generel form definitions */
+textarea {
+	border:					1px solid #D1D1D1;
+	padding:				3px;
+}
+
+.CWTextField {
+	border:					1px solid #D1D1D1;
+	padding:				3px;
+}
+
+/* general link definitions */
+a.CWLINKSub {
+	color:					#7d7d7d;
+}
+a {
+	color:					#000000;
+	text-decoration:		underline;
+}
+
+a:visited {
+	color:					#551A8B;
+	text-decoration:		underline;
+}
+
+a:hover {
+	color:					#FF7F00;
+	text-decoration:		underline;
+}
+
+.CWLINKExt {
+	color:					#0000FF;
+	font-weight:			bold;
+}
+
+.CWLINKExt:visited {
+	font-weight:			bold;
+}
+
+.CWLINKExt:hover {
+	font-weight:			bold;
+}
+
+.CWLINKArrowR {
+	padding-left:			10px;
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position:	0px -26px;
+}
+
+.CWLINKArrowR:hover {
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position:	0px -53px;
+}
+
+/* arrowR multiline */
+a.CWLINKArrowRMulti {
+	text-decoration: none;
+}
+
+.CWLINKArrowRMulti img {
+	
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position:	0px -26px;
+}
+
+.CWLINKArrowRMulti:hover img {
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position:	0px -53px;
+}
+
+a.CWLINKArrowRMulti span {
+	text-decoration: underline;
+}
+
+/* arrowD multiline */
+a.CWLINKArrowDMulti {
+	text-decoration: none;
+}
+
+.CWLINKArrowDMulti img {
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position:	0px -79px;
+}
+
+.CWLINKArrowDMulti:hover img {
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position: 	0px -103px;
+}
+
+a.CWLINKArrowDMulti span {
+	text-decoration: underline;
+}
+
+
+.CWLINKArrowD {
+	padding-left:			10px;
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position:	0px -79px;
+}
+
+.CWLINKArrowD:hover {
+	background-image:		url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+	background-repeat:		no-repeat;
+	background-position: 	0px -103px;
+}
+
+/* general background definitions */
+.CWBGTopCompare {	
+	background-image:		url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png);
+	background-position:	0px 0px;
+	background-repeat:		repeat-x;
+	height:					30px;
+}
+
+.CWBGTopReview {
+	background-image:		url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png);
+	background-position:	0px -40px;
+	background-repeat:		repeat-x;
+	height:					30px;
+}
+
+.CWBGBotReview {
+	background-image:		url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png);
+	background-position:	0px -360px;
+	background-repeat:		repeat-x;
+	height:					40px;
+}
+
+.CWBGTopSponsored {
+	background-image:		url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png);
+	background-position:	0px -80px;
+	background-repeat:		repeat-x;
+	height:					30px;
+}
+
+.CWBGTopError {
+	background-image:		url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png);
+	background-position:	0px -240px;
+	background-repeat:		repeat-x;
+	height:					30px;
+}
+
+/* general background color definitions */
+.CWBGColorError {
+	background-color:		#FDF5F4;
+}
+
+/* general border definitions */
+.CWBORDERReview {
+	border:					solid 1px #c5e6a9;	
+}
+
+.CWBORDERCompare {
+	border:					solid 1px #ccdef8;	
+}
+
+.CWBORDERSponsored {
+	border:					solid 1px #e0e3e5;	
+}
+
+.CWBorderError {
+	border:					solid 1px #EEB3A8;
+}
+
+/* little helper classes only use for module content only!!! */
+.CWBorderClearingL {
+	border-left:			none 0px;
+}
+
+.CWBorderClearingR {
+	border-right:			none 0px;
+}
+
+.CWBorderClearingT {
+	border-top:				none 0px;
+}
+
+.CWBorderClearingB {
+	border-bottom:			none 0px;
+}
+
+.CWnoWrap {
+	white-space:nowrap;
+}
+
+/**** Special classes for user formated content ****/
+
+.bigheadline {
+	font-size:				16px;
+	margin:					15px 0 7px;
+}
+
+.subheadline {
+	font-size:				14px;
+	margin:					15px 0 7px;
+}
+
+/**** End of special classes for user formated content ****/
+
+/**** Beginning of complex item definition ****/
+/* button definition */
+a.CWButtonNeutral, a.CWButtonNeutral:link {
+	line-height:			23px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#585858;
+	font-size:				12px;
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+}
+
+a.CWButtonNeutral:visited {
+	color:					#585858;
+	text-decoration:		none;
+}
+
+a.CWButtonNeutral:hover {
+	color:					#FF7F00;
+		text-decoration:		none;
+}
+
+.CWButtonNeutral span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -46px;	
+	padding: 				4px 0 4px 4px;				
+	[padding: 				4px 0 4px 4px;
+	padding: 				4px 0 4px 4px;
+	]padding: 				0px 0 0px 4px;
+	margin:					0;		
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+.CWButtonNeutral span.CWButtonRight {
+	 background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -46px; 
+		
+	padding: 				4px 10px 4px 0px;								
+	[padding: 				4px 10px 4px 4px;
+	padding: 				4px 10px 4px 4px;
+	]padding: 				0px 10px 0px 4px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+
+
+a.CWButtonReview, a.CWButtonReview:link {
+	line-height:			23px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#006600;
+	font-size:				12px;
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+}
+
+a.CWButtonReview:visited {
+	color:					#006600;
+	text-decoration:		none;
+}
+
+a.CWButtonReview:hover {
+	color:					#FF7F00;
+	text-decoration:		none;
+}
+
+.CWButtonReview span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 0px;	
+	padding: 				4px 0 4px 4px;				
+	[padding: 				4px 0 4px 4px;
+	padding: 				4px 0 4px 4px;
+	]padding: 				0px 0 0px 4px;
+	margin:					0;		
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+.CWButtonReview span.CWButtonRight {
+	 background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right 0px; 
+		
+	padding: 				4px 10px 4px 0px;								
+	[padding: 				4px 10px 4px 4px;
+	padding: 				4px 10px 4px 4px;
+	]padding: 				0px 10px 0px 4px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+a.CWButtonBad, a.CWButtonBad:link {
+	line-height:			23px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#CC0000;
+	font-size:				12px;
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+}
+
+a.CWButtonBad:visited {
+	color:					#CC0000;
+	text-decoration:		none;
+}
+
+a.CWButtonBad:hover {
+	color:					#FF7F00;
+	text-decoration:		none;
+}
+
+.CWButtonBad span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -23px;
+	padding: 				4px 0 4px 4px;				
+	[padding: 				4px 0px 4px 4px;
+	padding: 				4px 0px 5px 4px;
+	]padding: 				0px 0px 0px 4px;
+	margin:					0;		
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+.CWButtonBad span.CWButtonRight {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -23px;
+	padding: 				4px 10px 4px 0px;								
+	[padding: 				4px 10px 4px 4px;
+	padding: 				4px 10px 5px 4px;
+	]padding: 				0px 10px 0px 4px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+a.CWButtonPrime, a.CWButtonPrime:link {
+	line-height:			23px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#FFFFFF;
+	font-weight:			bold;
+	font-size:				12px;
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+}
+
+a.CWButtonPrime:visited {
+	color:					#FFFFFF;
+	text-decoration:		none;
+}
+
+a.CWButtonPrime:hover {
+	color:					#000000;
+	text-decoration:		none;
+}
+
+.CWButtonPrime span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -69px;	
+	padding: 				4px 0 4px 4px;				
+	[padding: 				4px 0 4px 4px;
+	padding: 				4px 0 4px 4px;
+	]padding: 				0px 0 0px 4px;
+	margin:					0;		
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+.CWButtonPrime span.CWButtonRight {
+	 background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -69px; 
+		
+	padding: 				4px 10px 4px 0px;								
+	[padding: 				4px 10px 4px 4px;
+	padding: 				4px 10px 4px 4px;
+	]padding: 				0px 10px 0px 4px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+
+/* green button old style */
+
+a.CWButtonReviewDarker, a.CWButtonReviewDarker:link {
+	line-height:			23px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#FFFFFF;
+	font-weight:			bold;
+	font-size:				12px;
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+}
+
+a.CWButtonReviewDarker:visited {
+	color:					#FFFFFF;
+	text-decoration:		none;
+}
+
+a.CWButtonReviewDarker:hover {
+	color:					#FFFFFF;
+	text-decoration:		none;
+}
+
+.CWButtonReviewDarker span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -224px;	
+	padding: 				4px 0 4px 4px;				
+	[padding: 				4px 0 4px 4px;
+	padding: 				4px 0 4px 4px;
+	]padding: 				0px 0 0px 4px;
+	margin:					0;		
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+.CWButtonReviewDarker span.CWButtonRight {
+	 background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -224px; 
+		
+	padding: 				4px 10px 4px 0px;								
+	[padding: 				4px 10px 4px 4px;
+	padding: 				4px 10px 4px 4px;
+	]padding: 				0px 10px 0px 4px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+
+a.CWButtonPublish, a.CWButtonPublish:link {
+	line-height:			30px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#000000;	
+	font-size:				12px;
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+}
+
+a.CWButtonPublish:visited {
+	color:					#000000;
+	text-decoration:		none;
+}
+
+a.CWButtonPublish:hover {
+	color:					#FF7F00;
+	text-decoration:		none;
+}
+
+.CWButtonPublish span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -92px;
+	padding: 	 	 		8px 0 7px 13px;	
+	[padding: 				8px 0 7px 13px;
+	padding: 				8px 0 7px 13px;
+	]padding: 				0px 0 0px 13px;			
+	margin:					0;		
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+.CWButtonPublish span.CWButtonRight {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -92px;
+	padding: 	 	 	 	8px 15px 7px 0px;								
+	[padding: 				8px 15px 7px 0px;
+	padding: 				8px 15px 7px 0px;
+	]padding: 				0px 15px 0px 0px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+/* publish big button  */
+a.CWButtonPublishBig, a.CWButtonPublishBig:link {
+	line-height:			30px;
+	padding:				0px;
+	margin:				 0px;
+	text-decoration:		none;
+	color:				  #7d7d7d;	
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+	font-size:14px;
+	font-weight:normal;
+}
+a.CWButtonPublishBig:link {
+  color:					#7d7d7d;
+}
+
+a.CWButtonPublishBig:visited {
+	color:					#7d7d7d;
+	text-decoration:		none;	
+}
+
+a.CWButtonPublishBig:hover {
+	color:					#FF7F00;
+	text-decoration:		none;	
+}
+
+.CWButtonPublishBig span.CWButtonLeft {
+	background:			 transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -92px;
+	padding:				   7px 0 7px 18px;	
+	[padding:				 7px 0 7px 18px;
+	padding:				 7px 0 7px 18px;
+	]padding:				 0px 0 0px 18px;			
+	margin:					0;		
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+.CWButtonPublishBig span.CWButtonRight {
+	background:			 transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -92px;
+	padding:					7px 20px 7px 0px;								
+	[padding:				 7px 20px 7px 0px;
+	padding:				 7px 20px 7px 0px;
+	]padding:				 0px 20px 0px 0px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+a.CWButtonInappropriate, a.CWButtonInappropriate:link {
+	line-height:			23px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#000;
+	font-size:				12px;
+	white-space:nowrap; /* andrzej */
+	cursor:pointer;
+}
+
+a.CWButtonInappropriate:visited {
+	color:					#000;
+	text-decoration:		none;
+}
+
+a.CWButtonInappropriate:hover {
+	color:					#FF7F00;
+	text-decoration:		none;
+}
+
+.CWButtonInappropriate span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -150px;
+	padding: 				4px 5px 4px 4px;	
+	[padding: 				4px 5px 4px 4px;
+	padding: 				4px 1px 4px 4px;
+	]padding: 				0px 1px 0px 4px;			
+	margin:					0;		
+	text-decoration:		none;			
+	
+	zoom:1;
+}
+
+.CWButtonInappropriate span.CWButtonRight {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -150px;
+	padding: 				4px 15px 4px 0px;								
+	[padding: 				4px 15px 4px 4px;
+	padding: 				4px 15px 4px 4px;
+	]padding: 				0px 15px 0px 4px;
+	margin:					0;
+	text-decoration:		none;	
+	
+	zoom:1;
+}
+
+a.CWButtonMiniAction, a.CWButtonMiniAction:link {
+	line-height:			17px;
+	font-size:				11px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#000;	
+	white-space:nowrap;
+	cursor:pointer;
+}
+
+a.CWButtonMiniAction:visited {
+	color:					#000;
+	text-decoration:		none;
+}
+
+a.CWButtonMiniAction:hover {
+	color:					#FF7F00;
+	text-decoration:		none;
+}
+
+.CWButtonMiniAction span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -173px;
+	padding: 			 	1px 5px 2px 4px;	
+	[padding: 				1px 5px 2px 4px;
+	padding: 				2px 1px 1px 4px;
+	]padding: 				0px 1px 0px 4px;			
+	margin:					0;		
+	text-decoration:		none;		
+	zoom:1;
+}
+
+.CWButtonMiniAction span.CWButtonRight {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -173px;
+	padding: 				1px 15px 2px 0px;								
+	[padding: 				1px 15px 2px 4px;
+	padding: 				2px 15px 1px 4px;
+	]padding: 				0px 15px 0px 4px;
+	margin:					0;
+	text-decoration:		none;		
+	zoom:1;
+}
+
+a.CWButtonMiniNeutral, a.CWButtonMiniNeutral:link {
+	line-height:			17px;
+	font-size:				11px;
+	padding: 				0px;
+	margin:					0px;
+	text-decoration:		none;
+	color:					#585858;	
+	white-space:nowrap;
+	cursor:pointer;
+}
+
+a.CWButtonMiniNeutral:visited {
+	color:					#585858;
+	text-decoration:		none;
+}
+
+a.CWButtonMiniNeutral:hover {
+	color:					#FF7F00;
+	text-decoration:		none;
+}
+
+.CWButtonMiniNeutral span.CWButtonLeft {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat 0 -207px;
+	padding: 			 	1px 5px 2px 4px;	
+	[padding: 				1px 5px 2px 4px;
+	padding: 				2px 1px 1px 4px;
+	]padding: 				0px 1px 0px 4px;			
+	margin:					0;		
+	text-decoration:		none;		
+	zoom:1;
+}
+
+.CWButtonMiniNeutral span.CWButtonRight {
+	background: 			transparent url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif') no-repeat right -207px;
+	padding: 				1px 15px 2px 0px;								
+	[padding: 				1px 15px 2px 4px;
+	padding: 				2px 15px 1px 4px;
+	]padding: 				0px 15px 0px 4px;
+	margin:					0;
+	text-decoration:		none;		
+	zoom:1;
+}
+
+/* disabled button styling */
+
+a.CWButtonDisabled, a.CWButtonDisabled:link {
+	color:#585858;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	cursor:default;
+	font-size:				12px;
+}
+a.CWButtonDisabled span {
+	filter:alpha(opacity=40);
+}
+
+a.CWButtonDisabled:visited {
+	color:					#585858;
+	text-decoration:		none;
+}
+
+a.CWButtonDisabled:hover {
+	color:					#585858;
+	text-decoration:		none;
+}
+
+/* block button addon class */
+
+/* class for normal size button */
+a.CWBlockButton {
+  display: block;
+  text-decoration: none;
+}
+a.CWBlockButton span.CWButtonLeft {
+  display: inline;
+  float:left;
+  width:10px;
+  padding:0;
+  margin:0;
+  
+  _margin:0 -10px 0 0; 
+  *padding:0px 0 0px 0;
+}
+a.CWBlockButton span.CWButtonRight {
+  display: block;
+  margin:0 0 0 10px;
+  padding:0 10px 0 0;
+  text-align: center;
+  
+  *padding:0px 10px 0px 0;
+}
+
+
+
+
+
+
+
+
+
+/* tab definition */
+.CWTabNavi {	
+	margin:					0px 0px 0px 0px;
+	padding:				4px 0px 4px 0px;	
+	list-style:				none;	
+	color:					#575757;
+	text-decoration:		none;
+}
+
+.CWTabNavi li {
+	display:				inline;	
+	margin:					0px 0px 0px -3px;
+	padding:				4px 0px 4px 0px;	
+	text-decoration:		none;
+}
+
+.CWTabNavi li:first-child {
+	margin:					0px 0px 0px 0px;
+}
+
+.CWTabNavi span.starboard {
+	padding:				4px 15px 4px 0px;
+	margin:					0 3px 0 0;	
+	background:				url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_navi.gif) no-repeat; 
+	text-decoration:		none;
+}
+
+.CWTabNavi span.portside {
+	padding:				4px 0px 4px 14px;
+	margin:					0px 0px 0px 0px;
+	background:				url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_navi.gif) no-repeat;	
+	text-decoration:		none;
+}
+
+.CWTabNavi a {
+	text-decoration:		none;	
+	color:					#575757;	
+	outline:none;
+}
+
+.CWTabNavi a:hover {
+	text-decoration:		none;	
+	color:					#575757;	
+}
+
+/*
+ * Example for style definitions @a menue.... must be defined in the module specific css
+.CWTabNavi .bluestyle a:hover span.portside {
+	background-position:	left -223px;	
+}
+
+.CWTabNavi .bluestyle a:hover span.starboard {
+	background-position:	right -223px; 			
+	color:					#000;	
+}
+
+.CWTabNavi .bluestyleactive span.portside {
+	background-position:	left -223px;	
+}
+
+.CWTabNavi .bluestyleactive span.starboard {
+	background-position:	right -223px; 			
+	color:					#000;
+	font-weight:			bold;
+}
+
+*/
+
+/* tooltip */
+
+div#CRUX_TTIP_default {
+	position: absolute;
+	display:inline;
+	/* max-width:300px; */
+	padding:7px 9px;
+	background-color:#fff;
+	text-align:left;
+	border:1px solid #cecece;
+	-moz-border-radius:6px;
+	opacity:0.94;
+	cursor:default;
+	z-index:1000;
+	font-size:11px;
+	color:#7D7D7D;
+	font-weight:normal;
+	left: 0px;
+	top: 0px;
+}
+
+div.CW_CRUX_TTIP_default {
+	position: absolute;
+	display:inline;
+	/* max-width:300px; */
+	padding:7px 9px;
+	background-color:#fff;
+	text-align:left;
+	border:1px solid #cecece;
+	-moz-border-radius:6px;
+	opacity:0.94;
+	cursor:default;
+	z-index:1000;
+	font-size:11px;
+	color:#7D7D7D;
+	font-weight:normal;
+	left: 0px;
+	top: 0px;
+}
+
+/* error blocks */
+
+.CWWrapperWReviewErrorblock div.CWContainerHead {
+	margin:						0;
+	padding:					7px 7px 0;
+}
+.CWWrapperWReviewErrorblock div.CWContainerBody {
+	margin:						0;
+	padding:		 		 	0px 7px 10px 5px;
+	margin-top:-15px;
+}
+
+/* confirm block */
+
+.CWWrapperConfirmBlock {
+	padding:5px 5px 5px 10px;
+}
+
+.CWWrapperConfirmBlock img.checkmark {
+	margin-bottom:-2px;
+	background: transparent url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif') no-repeat 0 -200px;
+}
+.CWWrapperConfirmBlock img.exclamation {
+	margin-bottom:-2px;
+	background: transparent url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif') no-repeat 0 -359px;
+}
+
+
+/* tooltip */
+a.tooltip span{display:none;}
+a.tooltip:hover{background:#fff;text-decoration:none;}
+a.tooltip:hover span{max-width:500px;position:absolute;display:block;z-index:666;padding:7px 9px;background-color:#fff;border:1px solid #cecece;color:#000;}
+
+div.tooltip {
+	position: absolute;
+	display: none;
+	max-width:500px;
+	padding:7px 9px;
+	background-color:#fff;
+	text-align:left;
+	border:1px solid #cecece;
+	color:#000;
+	-moz-border-radius:6px;
+	opacity:0.94;
+	cursor:default;
+	z-index:100;
+}
+
+div.tooltip a {
+	color:#0033cc;
+	border:0;
+	text-decoration:underline;
+}
+
+div.tooltip iframe {
+	display:none;
+}
+
+* html div.tooltip iframe {
+	filter:mask();
+	display:block;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:-1;
+	border:1px solid #000000;
+}
+
+div.tooltip img.close {
+	position:relative;
+	top:-5px;
+	right:-5px;
+	cursor:pointer;
+	margin-left:5px;
+	margin-bottom:5px;
+	border:0px solid #000;
+	float:right;
+}
+
+div.tooltip img.mouseOut {
+	-moz-opacity: 1.0;
+	filter: alpha(opacity=100);
+}
+
+div.tooltip img.mouseOver {
+	-moz-opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+
+table.common a.tooltip:hover span{background-color:#ffffe1;}
+html>body a.tooltip:hover span{-moz-border-radius:6px;opacity:0.94;cursorefault;}
+
+.CWIconFlags
+{
+	padding: 0 0 0 25px;
+	display: inline;
+}
+.CWIconFlags a { vertical-align:top;padding-right:5px; }
+.CWIconFlagES {
+	background:	no-repeat url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png) 0 2px;
+}
+.CWIconFlagDE {
+	background:	no-repeat url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png) 0 -18px;
+}
+.CWIconFlagUK {
+	background:	no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -38px;
+}
+.CWIconFlagFR {
+	background:	no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -58px;
+}
+.CWIconFlagIT {
+	background:	no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -78px;
+}
+.CWIconFlagNL {
+	background:	no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -98px;
+}
+.CWIconFlagSE {
+	background: no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -118px;
+}
+.CWIconFlagUS {
+	background:	no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -138px;
+}
+
+
+.ratingStars {
+	background-image: url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif);
+}
+
+.ratingStars.size_big {
+	width:	85px;
+	height:	15px;
+}
+
+.ratingStars.size_normal {
+	width:	60px;
+	height:	10px;
+}
+
+.ratingStars.size_big.color_yellow.rank_00 {
+	background-position: -375px -1392px;
+}
+
+.ratingStars.size_big.color_yellow.rank_10 {
+	background-position: -358px -1392px;
+}
+
+.ratingStars.size_big.color_yellow.rank_20 {
+	background-position: -341px -1392px;
+}
+
+.ratingStars.size_big.color_yellow.rank_30 {
+	background-position: -324px -1392px;
+}
+.ratingStars.size_big.color_yellow.rank_40 {
+	background-position: -307px -1392px;
+}
+
+.ratingStars.size_big.color_yellow.rank_50 {
+	background-position: -290px -1392px;
+}
+
+.ratingStars.size_big.color_yellow.rank_05 {
+	background-position: -358px -1409px;
+}
+
+.ratingStars.size_big.color_yellow.rank_15 {
+	background-position: -341px -1409px;
+}
+
+.ratingStars.size_big.color_yellow.rank_25 {
+	background-position: -324px -1409px;
+}
+.ratingStars.size_big.color_yellow.rank_35 {
+	background-position: -307px -1409px;
+}
+
+.ratingStars.size_big.color_yellow.rank_45 {
+	background-position: -290px -1409px;
+}
+
+.ratingStars.size_big.color_blue.rank_00 {
+	background-position: -560px -1392px;
+}
+
+.ratingStars.size_big.color_blue.rank_10 {
+	background-position: -543px -1392px;
+}
+
+.ratingStars.size_big.color_blue.rank_20 {
+	background-position: -526px -1392px;
+}
+
+.ratingStars.size_big.color_blue.rank_30 {
+	background-position: -509px -1392px;
+}
+.ratingStars.size_big.color_blue.rank_40 {
+	background-position: -492px -1392px;
+}
+
+.ratingStars.size_big.color_blue.rank_50 {
+	background-position: -475px -1392px;
+}
+
+.ratingStars.size_big.color_blue.rank_05 {
+	background-position: -543px -1409px;
+}
+
+.ratingStars.size_big.color_blue.rank_15 {
+	background-position: -526px -1409px;
+}
+.ratingStars.size_big.color_blue.rank_25 {
+	background-position: -509px -1409px;
+}
+
+.ratingStars.size_big.color_blue.rank_35 {
+	background-position: -492px -1409px;
+}
+
+.ratingStars.size_big.color_blue.rank_45 {
+	background-position: -475px -1409px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_00 {
+	background-position: -350px -1427px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_10 {
+	background-position: -338px -1427px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_20 {
+	background-position: -326px -1427px;
+}
+.ratingStars.size_normal.color_yellow.rank_30 {
+	background-position: -314px -1427px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_40 {
+	background-position: -302px -1427px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_50 {
+	background-position: -290px -1427px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_05 {
+	background-position: -338px -1440px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_15 {
+	background-position: -326px -1440px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_25 {
+	background-position: -314px -1440px;
+}
+.ratingStars.size_normal.color_yellow.rank_35 {
+	background-position: -302px -1440px;
+}
+
+.ratingStars.size_normal.color_yellow.rank_45 {
+	background-position: -290px -1440px;
+}
+
+.ratingStars.size_normal.color_blue.rank_00 {
+	background-position: -535px -1427px;
+}
+
+.ratingStars.size_normal.color_blue.rank_10 {
+	background-position: -523px -1427px;
+}
+
+.ratingStars.size_normal.color_blue.rank_20 {
+	background-position: -511px -1427px;
+}
+.ratingStars.size_normal.color_blue.rank_30 {
+	background-position: -499px -1427px;
+}
+
+.ratingStars.size_normal.color_blue.rank_40 {
+	background-position: -487px -1427px;
+}
+
+.ratingStars.size_normal.color_blue.rank_50 {
+	background-position: -475px -1427px;
+}
+
+.ratingStars.size_normal.color_blue.rank_05 {
+	background-position: -523px -1440px;
+}
+
+.ratingStars.size_normal.color_blue.rank_15 {
+	background-position: -511px -1440px;
+}
+
+.ratingStars.size_normal.color_blue.rank_25 {
+	background-position: -499px -1440px;
+}
+.ratingStars.size_normal.color_blue.rank_35 {
+	background-position: -487px -1440px;
+}
+
+.ratingStars.size_normal.color_blue.rank_45 {
+	background-position: -475px -1440px;
+}
+
+a .CWBar, a .CWOBarbig {
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.CWBar {
+	background: url("http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif") no-repeat scroll -527px -1476px transparent;
+	display: inline-block;
+	float: none;
+	height: 6px;
+	overflow: hidden;
+	position: relative;
+	width: 55px;
+	margin-bottom:1px;
+	*margin-bottom:4px;
+}
+
+.CWBar span {
+	background: url("http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif") no-repeat scroll -527px -1465px transparent;
+	display: block;
+	height: 6px;
+}
+
+.CWOBar {
+	background-position:-527px -1522px;
+	height:4px;
+	*margin-bottom:5px;
+}
+
+.CWOBar span {
+	height:4px;
+	background-position:-527px -1513px;
+}
+
+.CWOBarbig {
+	background: url("http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif") no-repeat scroll -527px -1499px transparent;
+	display: inline-block;
+	height: 5px;
+	overflow: hidden;
+	position: relative;
+	width: 108px;
+	margin-bottom:1px;
+	 *margin-bottom:4px;
+}
+
+.CWOBarbig span {
+	background: url("http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif") no-repeat scroll -527px -1489px transparent;
+	display: block;
+	height: 5px;
+}
+
+input.t_disabled {
+	background-color: #f0f0f0;
+}
+
+#EUCookieMsg { 
+	background-color: #939FA6;
+	margin-top: 30px;
+	bottom: 0;
+	color: #FFFFFF;
+	font-size: 12px;
+	left: 0;
+	margin: 0;
+	padding: 5px 0 5px 5px;
+	position: fixed;
+	width: 100%;
+	z-index: 999999999;
+	text-align: left;
+}
+
+.videoInfoHide {
+	width:480px; overflow:hidden;
+}
+
+
+/* hide the images read by google RDS */
+.CWCiaoBlRDF {   
+	display:none;
+}
+
+/* annonce word below offers */
+.searchResults2offers .frd {
+	margin: 2px 0 0;
+	font-size: 11px;
+	color: #7D7D7D;
+}
+
+/* annonce word in reviews */
+.CWReviewsProdInfo .frd {
+	margin: 10px 0 -10px;
+	font-size: 11px;
+	color: #7D7D7D;
+}
+
+/* ad info */
+div.ad-info-horizontal {
+	font-size: 11px;
+	clear:both;
+	text-align:right;
+	margin: 2px 0 0 0;
+	font-size: 11px;
+	color: #7D7D7D;
+	background-color: transparent !important;
+}
+
+/* Vertical ad-info to be placed at the right of 90px height banners */
+div.ad-info-vertical-wrapper {
+	position: relative;
+	margin: 0 0 -1em 0; /* = Negative ad-info's height before rotation */
+	text-align: center;
+}
+
+div.ad-info-vertical {
+	position: relative;
+	display: inline-block;
+	top: -51px; /* = 39px (ad-info width before rotation, string/font/size specific) - 90px (banner height) */
+	left: 372px; /* = banner_width/2 + 8 */
+	font-size: 11px;
+	color: #7D7D7D;
+
+	-ms-transform:rotate(90deg); /* IE 9 */
+	-moz-transform:rotate(90deg); /* Firefox */
+	-webkit-transform:rotate(90deg); /* Safari and Chrome */
+	-o-transform:rotate(90deg); /* Opera */
+	transform:rotate(90deg);
+}
+.lt-ie9 div.ad-info-vertical {
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+	letter-spacing: 1px;
+	top: -71px;
+}
+.ie8 div.ad-info-vertical {
+	display: inline-block;
+	left: 389px;
+}
+.ie7 div.ad-info-vertical {
+	/* Getting inline-block in IE7 with inline and zoom:1 */
+	display: inline;
+	zoom: 1;
+	
+	margin-bottom: -3.9em;
+}
+
+
+.ad-info-normal {
+color: #7D7D7D;
+font-size: 11px;
+margin-top: 2px;
+}
+
+/* Styles for the Google Ads */
+div.googleAdsenseBox:empty {
+    display: none;
+}
+
+div.googleAdsenseBox {
+    margin: 12px 0 0 -3px;
+}
+
+}
+.TOP10 {
+  position:relative;
+  margin-top:26px;
+  width:690px;
+  font-size:12px;
+  z-index:1;
+}
+
+.TOP10 .CiaoModuleContent {
+  border:1px solid #D4D4D4;
+}
+
+.TOP10 .CiaoModuleContent .productActive {
+  background-color:#F3F3F3;
+}
+.TOP10 .CiaoModuleContent .listContainer li.productActive {
+  position:relative;
+  margin-top:-1px;
+  padding-top:8px;
+  background-color:#F3F3F3;
+  border-right:1px solid #D4D4D4;
+  border-left:1px solid #D4D4D4;
+}
+.TOP10 .CiaoModuleContent .listContainer li.first {
+  
+  border-left:0px none #D4D4D4;
+}
+.TOP10 .CiaoModuleContent .listContainer li.last {
+
+  border-right:0px none #D4D4D4;
+
+}
+
+.TOP10 .CiaoModuleContent .containerProduct {
+  height:115px;
+  padding:15px 10px 20px 10px;
+  border-bottom:1px solid #D4D4D4;
+}
+
+.TOP10 .CiaoModuleContent .containerProduct div.productImage {
+  position:relative;
+  display:inline;
+  float:left;
+  margin-right:-100px;
+  
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo {
+  display:inline;
+  float:left;
+  margin-left:100px;
+  margin-right:200px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productPrice {
+  position:relative;
+  display:inline;
+  float:right;
+  width:200px;
+  margin-left:-200px;
+  padding-top:25px;
+  
+  text-align:center;
+}
+
+
+
+
+
+/*detailed styles*/
+.TOP10 .CiaoModuleContent .containerProduct div.productImage a {
+  background-color:#FFFFFF;
+  border:1px solid #CCCCCC;
+  display:block;
+  height:90px;
+  overflow:hidden;
+  text-align:center;
+  width:90px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productImage a img {
+  margin-top:15px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .productHeader img {
+  margin-right:2px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .productHeader img.ranks {
+  position:relative;
+  margin-bottom:-5px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .starRating {
+  margin-top:5px;
+  margin-bottom:10px;
+}
+
+
+.TOP10 .CiaoModuleContent .containerProduct div.productPrice p a {
+  font-weight: bold;
+}
+
+.TOP10 .CiaoModuleContent .containerProduct div.productPrice .productPriceButton {
+  margin:8px 0 5px 0;
+}
+
+
+
+.TOP10 .CiaoModuleContent .listContainer {
+  list-style-type: none;
+}
+.TOP10 .CiaoModuleContent .listContainer li {
+  display:inline;
+  float:left;
+  width:30px;
+  height:23px;
+  margin:0;
+  padding-top:7px;
+  
+  text-align: center;
+}
+
+
+
+/* top 10 ranks and arrows */
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .advantages img {
+  margin-bottom:-1px;
+  margin-right:5px;
+  background:transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat scroll left top;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .disadvantages img {
+  margin-bottom:-1px;
+  margin-right:5px;
+  background:transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat scroll -31px top;
+}
+
+
+
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .arUp {
+  margin-bottom:-3px;
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat 0 -835px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .arDown {
+  margin-bottom:-3px;
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -17px -835px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .arStill {
+  margin-bottom:-3px;
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -34px -835px;
+}
+
+
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_1 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat 0 -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_2 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -30px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_3 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -60px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_4 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -90px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_5 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -120px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_6 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -150px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_7 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -180px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_8 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -210px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_9 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -240px -809px;
+}
+.TOP10 .CiaoModuleContent .containerProduct div.productInfo .rank_10 {
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat -270px -809px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.jcarousel-container {
+  position: relative;
+}
+
+.jcarousel-clip {
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+   position: relative;
+    width:688px;
+}
+
+.jcarousel-list {
+    z-index: 1;
+    overflow: hidden;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel-list li,
+.jcarousel-item {
+    float: left;
+    list-style: none;
+    width: 688px;
+    margin:0;
+}
+
+#scraper_new {
+	position:relative;
+	visibility:visible;
+}
+
+a:link {
+	color:#0033cc;
+}
+
+a:visited {
+	color:#551a8b;
+}
+
+a:hover, a:active {
+	color:#f76120;
+}
+
+img {
+	border:medium none;
+}
+form {
+	display:inline;
+}
+input {
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+}
+select {
+	font-size:11px;
+}
+thead th, thead td {
+	font-weight:normal;
+	height:40px;
+	padding-left:9px;
+	padding-right:8px;
+	white-space:nowrap;
+}
+
+p {
+	font-family:Arial,Helvetica,sans-serif;
+	
+}
+
+.headline, a.large:link, a.large:visited, a.large:hover, a.large:active {
+	font-size:20px;
+}
+
+
+#wrapper2 {
+	margin:0 auto;
+	min-width:750px;
+	text-align:center;
+	width:100%;
+}
+
+.HockeyGridBanner {
+	text-align:right;
+	vertical-align:top;
+}
+.HockeyGridScraper {
+	text-align:left;
+	vertical-align:top;
+}
+.HockeyGridContent {
+	padding-left:10px;
+	padding-right:10px;
+	vertical-align:top;
+}
+td {
+	font-family:Arial,Helvetica,sans-serif;
+	
+}
+
+div#header {
+	margin-top:10px;
+	position:relative;
+	top:0;
+}
+
+.specialEventImgSearch {
+	height:60px;
+	position:absolute;
+	right:0;
+	top:41px;
+	width:100px;
+}
+
+div#top2 {
+	color:#7D7D7D;
+	padding:1px 0 0 1px;
+	text-align:left;
+}
+
+div#top2.top2venus {
+	margin-bottom:38px;
+}
+
+
+.top2venus > .navipublic {
+	margin-right:-10px;
+	margin-top:-12px;
+}
+div#top2 div {
+	float:right;
+	padding:3px 1px 0 0;
+}
+div#top2 div a:link,div#top2 div a:visited {
+	color:#7D7D7D;
+	font-size:12px;
+}
+div#top2 div a:hover, div#top2 div a:active {
+	color:#f76120;
+	font-size:12px;
+}
+
+/* logo */
+div#top2 a.up-index {
+	position:absolute;
+	z-index:-190;
+}
+div#top2 > a.up-index {
+	z-index:190;
+}
+
+/* top navigation */
+.navipublic {
+	float:right;
+	margin-right:-5px;
+	margin-top:-12px;
+	padding-right:1px;
+	position:relative;
+	width:500px;
+}
+.navipublic a {
+	background:transparent url(http://it-img1.ciao.com/iit/images/tabs/bg_menu_left.gif) no-repeat scroll left -8px;
+	border-top:1px solid #D5D5D5;
+	display:block;
+	float:left;
+	padding-left:11px;
+	text-decoration:none;
+}
+
+.navipublic a:visited {
+	text-decoration:none;
+}
+
+.navipublic a:hover, .navipublic li.navifirst a:hover {
+	background-position:left -37px;
+	text-decoration:none;
+	cursor:pointer;
+}
+
+.navipublic ul {
+	border:medium none;
+	margin-top:0;
+	position:absolute;
+	right:0;
+	top:0;
+	width:700px;
+	z-index:200;
+}
+.navipublic li {
+	float:right;
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	padding:0;
+	position:relative;
+	top:1px;
+	/* added because of global.css:  */
+	line-height:normal;
+	margin-left:0;
+}
+
+.navipublic li.navimember a
+{
+	background:url("http://it-img2.ciao.com/iit/images/tabs/bg_member_menu_left.gif") no-repeat left -8px;
+}
+.navipublic li.navimember a:hover {
+	background:transparent url(http://it-img1.ciao.com/iit/images/tabs/bg_menu_left.gif) no-repeat scroll left -37px;
+	cursor:pointer;
+}
+
+
+.navipublic li.navifirst a
+{
+	background:url("http://it-img1.ciao.com/iit/images/tabs/bg_menu_left_round.gif") no-repeat left -8px;
+}
+
+.navipublic a span {
+	background:transparent url(http://it-img2.ciao.com/iit/images/tabs/bg_menu_right.gif) no-repeat scroll right -8px;
+	color:#575757 !important;
+	display:block;
+	float:left;
+	padding:3px 11px 4px 0;
+}
+.navipublic a:hover span
+{
+	color:#ffffff !important;
+	background-position:100% -37px;
+	cursor:pointer;
+}
+
+.navipublic li.navimember a span
+{
+	background:url("http://it-img1.ciao.com/iit/images/tabs/bg_member_menu_right.gif") no-repeat left -8px;
+}
+.navipublic li.navimember a:hover span {
+	background:url("http://it-img2.ciao.com/iit/images/tabs/bg_menu_right.gif") no-repeat right -37px;
+}
+
+
+/* main navigation */
+#mainNav {
+	clear:right;
+	font-size:13px;
+}
+
+#mainNav ul {
+	margin:0 auto !important;
+	padding:0;
+	border:medium none;
+	position:relative;
+	width:848px;
+	z-index:200;
+}
+
+#mainNav ul.de3 { \width:830px; w\idth:828px; }
+#mainNav ul.es3 { /*\width:730px; w\idth:728px;*/ }
+#mainNav ul.fr3 { \width:814px; w\idth:812px; }
+#mainNav ul.it3 { \width:834px; w\idth:832px; }
+#mainNav ul.uk3 { \width:730px; w\idth:728px; }
+#mainNav ul.nl3 { \width:838px; w\idth:836px; }
+#mainNav ul.se3 { \width:770px; w\idth:768px; }
+
+
+#mainNav li
+{
+	position:relative;
+	top:1px;
+	list-style:none;
+	float:left;
+	padding:0;
+	/* added because of global.css:  */
+	line-height:normal;
+	margin-left:0;
+}
+
+#mainNav a
+{
+	float:left;
+	display:block;
+	background:url("http://it-img2.ciao.com/iit/images/tabs/bg_topnavi_left.gif") no-repeat;
+	padding-left:11px;
+	border-bottom:1px solid #93C0FF;
+	text-decoration:none;
+}
+#mainNav a:hover
+{
+	background-position:0 -30px;
+}
+
+#mainNav a span
+{
+	float:left;
+	display:block;
+	background:url("http://it-img1.ciao.com/iit/images/tabs/bg_topnavi_right.gif") no-repeat right top;
+	padding:4px 11px 3px 0px;
+	color: #575757 !important;
+}
+#mainNav a:hover span
+{
+	background-position:100% -30px;
+}
+
+#mainNav a:hover span {color:#000 !important;}
+
+/* !IE5-Mac \*/
+#mainNav a span { float:none; }
+/**/
+
+#mainNav #current a
+{
+	background-position:0 -30px;
+	border:0;
+}
+
+#mainNav #current a span
+{
+	background-position:100% -30px;
+	color:#000;
+	font-weight:normal;
+	padding-bottom:4px;
+}
+
+/* search */
+.search {
+	background:transparent url(http://it-img1.ciao.com/iit/images/tabs/bg_search_40px.gif) repeat-x scroll 0 0;
+	border:1px solid #93C0FF;
+	clear:both;
+	font-weight:bold;
+	height:32px;
+	margin:0 auto;
+	padding:7px 0 0;
+	text-align:center;
+	white-space:nowrap;
+	font-size:13px;
+}
+.search input {
+	font-size:15px;
+	font-weight:normal;
+	padding-left:2px;
+}
+#category {
+	text-align:left;
+}
+.search input.srcButton {
+	margin-left:5px;
+	padding-top:2px;
+	vertical-align:top;
+}
+
+/* breadcrumb */
+.breadCrumb2 {
+	display:inline;
+	float:left;
+	padding:5px 1px 10px 0;
+	text-align:left;
+	width:75%;
+	color:#7D7D7D;
+	font-size:12px;
+	font-weight:normal;
+}
+
+.breadCrumb2 a:link, .breadCrumb2 a:visited {
+	color:#7D7D7D;
+	font-size:12px;
+}
+.breadCrumb2 a:hover, .breadCrumb2 a:active {
+	color:#f76120;
+	font-size:12px;
+}
+
+.grey, a.path:link, a.path:visited {
+	color:#7D7D7D;
+}
+a.path:hover,a.path:active{
+	color:#f76120;
+}
+
+
+/* content */
+table.VideoReviewsListing {
+	width:100%;
+}
+
+/*added*/
+table.VideoReviewsListing td{
+	text-align:left;
+}
+
+
+
+/* footer */
+#footer {
+	clear:left;
+	color:#000; 
+	padding-top:20px;
+	text-align:center;
+	width:100%;
+	margin:15px auto auto;
+}
+#footer a {
+	font-size:11px;
+}
+#mod_pagefooter { 
+	clear: left;
+	color: black;
+	padding-top: 20px;
+	text-align: center;
+	width: 100%;
+	margin: 15px auto auto;
+}
+#mod_pagefooter a {
+	font-size: 11px;
+}
+.padT15 {
+	padding-top:15px;
+	font-size:11px;	
+	color:#7D7D7D;	
+}
+a.subgrey:link, a.subgrey:hover, a.subgrey:active {
+	color:#7D7D7D;
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:none;
+}
+
+
+
+/* UserFormatting, Misc, SEO internal linking */
+.bigheadline {
+	font-size:16px;
+	margin:15px 0 7px;
+}
+.subheadline {
+	font-size:14px;
+	margin:15px 0 7px;
+}
+td.layoutL, td.logo {
+	text-align:left;
+}
+.keyword, a.hdl, .subhdl, .naviontxt {
+	font-weight:bold;
+}
+table.wdvar {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+td.rdreviewCOL6 {
+	padding-bottom:0;
+	padding-right:15px;
+	padding-top:0;
+	vertical-align:top;
+}
+
+table.wd510, table.layoutshell, table.navigation {
+	border-collapse:collapse;
+	border-spacing:0;
+	width:100%;
+}
+td.hrhdlL {
+	height:30px;
+	padding-right:8px;
+	vertical-align:top;
+	white-space:nowrap;
+	width:1%;
+}
+.hrhdl {
+	color:#999999;
+	font-weight:bold;
+}
+td.hrhdlR {
+	padding-top:3px;
+	vertical-align:top;
+}
+hr {
+	background:#CECECE none repeat scroll 0 0;
+	border:medium none;
+	color:#CECECE;
+	height:1px;
+	/* added because of global.css */
+	margin-top:5px;
+	margin-bottom:5px;
+}
+a.lalink:link {
+	color:#7D7D7D;
+	text-decoration:underline;
+}
+a.lalink:visited {
+	color:#551a8b;
+	text-decoration:underline;
+}
+a.lalink:hover,a.lalink:active {
+	text-decoration:none;
+}
+
+.body2 {
+	padding:0px;
+}
+
+.subgrey {
+color:#7D7D7D;
+font-size:11px;
+font-weight:normal;
+}
+
+#CruxLoadDiv {position:absolute;top:0;right:0;background:url(http://it-img2.ciao.com/iit/images/crux/background/bg_loading.gif) no-repeat;width:125px;height:45px;font-size:12px;font-weight:bold;padding-top:5px; padding-left:35px; z-index: 1000;}
+#CruxLoadDiv img {margin-right:10px;position:relative;top:3px; }
+
+.vtop {
+padding:0;
+text-align:left;
+vertical-align:top;
+}
+
+.padT5 {
+padding-top:5px;
+}
+
+
+h2.CWCiaoKievSectionHeader, p.CWCiaoKievSectionHeader {
+        font-weight:normal;
+        font-size:16px;
+        color:#f76120;
+        margin:0;
+        padding:14px 0 12px 0;
+}
+
+h2.CWCiaoKievSectionHeader a, p.CWCiaoKievSectionHeader a {
+  color:#F76120;
+ font-size:16px;
+  font-weight:normal;
+  text-decoration:none;
+}
+
+h2.CWCiaoKievSectionHeader a:hover, p.CWCiaoKievSectionHeader a:hover {
+  color:#F76120;
+  font-size:16px;
+  font-weight:normal;
+  text-decoration:underline;
+}
+
+div.CWCiaoFlexTags {
+	text-align: left;
+}
+p.legalInfoBelowPrice {
+	padding: 0pt;
+	font-size: 11px;
+	font-weight: normal;
+    color:#7D7D7D;
+	white-space: nowrap;
+	line-height: 13px;
+	margin: 6px 0px 0px;
+}
+span#CPOfferLegalTextBottom{
+	text-align: right;
+	display:block;
+}
+body {
+
+	font-size:				13px;
+	padding:0;
+
+}
+
+.CWFontBold {
+	font-weight:			bold;
+}
+
+.CWFontSize12 {
+  font-size:12px;
+}
+
+.CWFontSize13 {
+	font-size:13px;
+}
+
+.CWFontBigger {
+	font-size:				18px;
+}
+
+
+.CWFontCSubText {
+
+	color:					#898994;	
+
+}
+
+
+.CWFontCStandardLink {
+	color:					#0033CC;
+}
+
+
+
+.CWFontCActive {
+
+	color:					#525051;
+
+}
+
+
+.CWFontCBlockDesc {
+
+	color:					#F76120;
+
+}
+
+
+
+/* Background Definition */
+
+
+
+.CWBGColorActiveHighlight {
+
+	background-color:		#DAEEF4;
+
+}
+
+
+
+.CWBGColorMSBlock {
+	background-color:					#F3F3F3;
+}
+
+
+
+/* general link definitions */
+
+a {
+
+	color:					#0033CC;
+
+	text-decoration:		none;
+
+}
+a:link {
+
+	color:					#0033CC;
+
+	text-decoration:		none;
+
+}
+a.CWLINKSub {
+
+	color:					#898994;
+
+}
+
+a.CWLINKActive {
+
+	color:					#525051;
+
+}
+
+a:visited {
+
+	color:					#663399;
+
+	text-decoration:		none;
+
+}
+
+
+
+a:hover,a:active {
+
+	color:					#F76120;
+
+	text-decoration:		underline;
+
+}
+
+a.CWLINKUnderlined,
+a.CWLINKUnderlined:link {
+  text-decoration: underline;
+}
+
+/*general headers definitions*/
+
+.CWCiaoKievSectionHeader, p.CWCiaoKievSectionHeader {
+	font-weight:normal;
+	font-size:16px;
+	color:#f76120;
+	margin:0;
+	padding:14px 0 12px 0;
+}
+
+.CWCiaoKievSectionHeader a, p.CWCiaoKievSectionHeader a {
+  color:#F76120;
+  font-size:16px;
+  font-weight:normal;
+  text-decoration:none;
+}
+
+.CWCiaoKievSectionHeader a:hover, p.CWCiaoKievSectionHeader a:hover {
+  color:#F76120;
+  font-size:16px;
+  font-weight:normal;
+  text-decoration:underline;
+}
+p.CWCiaoKievSectionHeaderGrey {
+  color:#898994;
+  font-size:12px;
+  font-weight:normal;
+  margin:0;
+  padding:14px 0 8px;
+}
+
+a.CWSponsoredLinksHeaderSub,
+a.CWSponsoredLinksHeaderSub:link {
+  color:#898994;
+}
+
+/* general icon definition */
+.CWMSIconPlus {
+	background:			url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif') 0 -520px ;
+	cursor:				pointer;
+}
+
+.CWMSIconMinus {
+	background:			url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif') 0 -549px ;
+	cursor:				pointer;
+}
+
+.CWMSIconArDwn {
+	background:			url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif') 0 -649px ;
+	cursor:				pointer;
+}
+
+
+/* TABS NAVI */
+
+.CWCiaoKievProdNav {
+  height: 26px;
+  
+  border: 1px solid rgb(212, 212, 212); 
+  background: transparent url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png) repeat-x scroll 0pt -1415px; 
+  padding-top: 2px;
+  
+  zoom:1;
+}
+.CWCiaoKievProdNav ul {
+  list-style-type: none;
+  padding-left:5px;
+}
+.CWCiaoKievProdNav ul li {
+  display:inline;
+  float:left;
+  margin-top:1px;
+  margin-left:0;
+  
+  _margin-top:0;
+  _position:relative;
+  _top:1px;
+  
+  color:#d7d7d7;
+  
+  background-image: url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif'); 
+  background-repeat: no-repeat;
+  background-position: right -738px;
+}
+.CWCiaoKievProdNav ul li.last,
+.CWCiaoKievProdNav ul li.noDivider {
+  background:none ;
+}
+.CWCiaoKievProdNav ul li a {
+  float:left;
+  margin-right:7px;
+  margin-left:7px;
+  padding-bottom:4px;
+  padding-top:2px;
+  
+  font-size:12px;
+  font-weight: normal; 
+}
+.CWCiaoKievProdNav ul li a span {
+  display:inline;
+  float:none;
+  padding-bottom:5px;
+  
+  padding-top:5px;
+}
+.CWCiaoKievProdNav ul li.active {
+  background:none ;
+}
+.CWCiaoKievProdNav ul li.active a {
+  float:left;
+  margin-right:7px;
+  margin-left:0;
+  padding-bottom:0px;
+  padding-left:10px;
+  padding-top:0px;
+  
+  color: rgb(82, 80, 81); 
+  font-weight: bold; 
+  text-decoration: none;
+  
+  background-image: url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_navi.gif'); 
+  background-repeat: no-repeat;
+  background-position: 0pt -560px; 
+
+}
+.CWCiaoKievProdNav ul li.active a span {
+  display:inline;
+  float:left;
+  padding-bottom:5px;
+  padding-right:10px;
+  padding-top:2px;
+  
+  
+  background-image: url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_navi.gif'); 
+  background-repeat: no-repeat;
+  background-position: right -560px; 
+  
+  cursor: default;
+}
+
+/* Sponsored Links */
+
+p.CWCiaoBingSectionHeaderInside {
+  padding-top:0;
+}
+
+.sponsoredLinksInside {
+  margin-bottom:20px;
+}
+.sponsoredLinks {
+  margin-bottom:5px;
+}
+.sponsoredLinksPP{
+	margin:0 0 15px 0;
+}
+.sponsLink {
+padding:8px 0 7px;
+}
+.sponsLink a:link {
+color:#0033CC;
+text-decoration:none;
+}
+.sponsLink a:visited {
+color:#551A8B;
+text-decoration:none;
+}
+.sponsLink a:hover, .sponsLink a:active {
+color:#F76120;
+text-decoration:none;
+}
+.sponsLink a span.name {
+font-size:13px;
+font-weight:bold;
+padding:0 20px 0 0;
+text-decoration:underline;
+}
+.sponsLink a span.desc {
+color:#000000;
+font-size:13px;
+padding:0 20px 0 0;
+}
+.sponsLink a span.url {
+color:#898994;
+font-size:13px;
+padding:0;
+}
+
+/* Tooltip definition */
+div.CWMSTooltip {
+	position: absolute;
+	display:inline;
+	/* max-width:300px; */
+	padding:7px 9px;
+	background-color:#fff;
+	text-align:left;
+	border:1px solid #cecece;
+	-moz-border-radius:6px;
+	opacity:0.94;
+	cursor:default;
+	z-index:1000;	
+	left: 0px;
+	top: 0px;
+}
+
+div.CWMSTooltip td {
+	padding:5px;
+	vertical-align:top;
+}
+
+div.CWMSTooltip td.CWMSTextCenterVertMiddle {
+	vertical-align:middle;
+	text-align:center;
+}
+
+/*pagination*/
+.CWCiaoKievPagination {
+  padding-bottom:20px;
+}
+
+.CWCiaoKievPagination div.ciaoOfferInfo {
+  margin:0;
+}
+.CWCiaoKievPagination div.ciaoOfferInfo p {
+  float:right;
+  padding:0;
+}
+.CWCiaoKievPagination div.ciaoOfferInfo p.compareProducts {
+  float:left;
+  padding:0;
+}
+.CWCiaoKievPagination div.ciaoOfferInfo p.compareProducts a {
+  text-decoration:underline;
+}
+
+.CWCiaoKievPagination p {
+  color:#898994;
+  font-size:12px;
+  margin-bottom:8px;
+}
+
+.CWCiaoKievPagination div {
+  display:block;
+  margin-top:10px;
+  _height:29px;
+}
+
+.CWCiaoKievPagination div ul {
+  float:left;
+  list-style-type: none;
+}
+.CWCiaoKievPagination div ul li {
+  float:left;
+  margin:0 5px 0 0;
+  line-height:17px;
+}
+.CWCiaoKievPagination div ul li a {
+  color:#F76120;
+  margin:0;
+  text-decoration: none;
+  border:1px solid #CCCCCC;
+  
+}
+.CWCiaoKievPagination div ul li a,
+.CWCiaoKievPagination div ul li span {
+  display:block;
+  padding:4px 8px 3px 9px;
+  text-align:center;
+  font-size:12px;
+}
+
+.CWCiaoKievPagination div ul li a:visited {
+  color:#F76120;
+}
+
+.CWCiaoKievPagination div ul li.first {
+  margin:0 10px 0 0;
+}
+.CWCiaoKievPagination div ul li.active a {
+  border:1px solid #FFA615;
+  background-color:#FBEFDB;
+}
+.CWCiaoKievPagination div ul li.active span { /* if active is not a link */
+  color:#F76120;
+  text-decoration: none;
+  border:1px solid #FFA615;
+  background-color:#FBEFDB;
+}
+.CWCiaoKievPagination div ul li.last span {
+  color:#898994;
+  margin-left:5px;
+  border:1px solid #CCCCCC;
+}
+.CWCiaoKievPagination div ul li a:hover {
+  text-decoration: underline;
+  border:1px solid #FFA615;
+}
+
+.CWCiaoKievPagination div p {
+  float:left;
+  padding:6px 0 0 10px;
+}
+.CWCiaoKievPagination div p a {
+  margin:0;
+  font-size:12px;
+  text-decoration: none;
+}
+/* // pagination */
+div#Node_BreadCrumb a {
+	color: #898994;
+}
+
+div#Node_BreadCrumb a:visited {
+	color:					#663399;
+	text-decoration:		none;
+}
+
+div#Node_BreadCrumb a:hover, div#Node_BreadCrumb a:active {
+	color:					#F76120;
+	text-decoration:		underline;
+}
+
+/* BUTTONS */
+/* button definitions */
+a.eg-buttonMedium {
+	display: inline-block;
+	height: 23px;
+	line-height: 16px;
+	color: #585858;
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
+.lt-ie9 a.eg-buttonMedium {
+	line-height: 15px;
+}
+
+
+a.eg-buttonMedium .eg-bmLeft {
+	float: left;
+	height: 23px;
+	width: 10px;
+	background: transparent
+		url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif')
+		no-repeat 0 -46px;
+}
+
+a.eg-buttonMedium .eg-bmRight {
+	display: block;
+	margin-left: 10px;
+	height: 19px;
+	padding: 4px 20px 0 10px;
+	white-space: nowrap;
+	background: transparent
+		url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif')
+		no-repeat right -46px;
+}
+
+a.eg-buttonMedium:hover .eg-bmRight {
+	color: #FF7F00;
+}
+
+a.eg-buttonMedium.eebDisabled, a.eebDisabledOnPurpose {
+	cursor: default;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+	filter: alpha(opacity=40);
+	opacity: 0.4;
+}
+
+a.eg-buttonMedium.eebDisabled:hover .eg-bmRight, a.eg-buttonMedium.eebDisabledOnPurpose:hover .eg-bmRight {
+	color: inherit;
+}
+
+/* button colors */
+a.eebmPrime .eg-bmLeft {
+	background-position: 0 -69px;
+}
+
+a.eebmPrime .eg-bmRight {
+	color: #fff;
+	font-weight: bold;
+	background-position: right -69px;
+}
+
+a.eebmPrime:hover .eg-bmRight {
+	color: #000;
+}
+
+a.eebmReviewDark .eg-bmLeft {
+	height: 24px;
+	background-position: 0 -224px;
+}
+
+a.eebmReviewDark .eg-bmRight {
+	height: 20px;
+	color: #fff;
+	font-weight: bold;
+	background-position: right -224px;
+}
+
+a.eebmReviewDark:hover .eg-bmRight {
+	color: #fff;
+}
+
+/* ================= */
+
+/* INHERITED STYLES GRID */
+
+#topsection {height:auto;}
+#contentwrapper {float:left;width:100%}
+#contentcolumn_left {position:relative;margin-right:300px;}
+#contentcolumn_right {margin-left:300px;margin-top:8px;}
+#leftcolumn_fluid {display:inline;float:left;width:300px;margin-left:-100%;}
+#leftcolumn_fixed {float:left;width:300px;margin-left:-990px;}
+#rightcolumn {float:left;width:300px;margin-left:-300px;}
+#footer {clear:left;width:100%;text-align:center;padding: 4px 0;}
+.innertube {border:0;padding:0;margin:0;}
+
+.CiaoMainContainerFixed {position:relative;width:990px;margin-left:auto;margin-right:auto}
+.CiaoMainContainerFluid {width:100%}
+.CiaoMainColumn {min-height:400px;}
+
+
+
+
+div.CiaoModuleTeaser {margin-top:39px;margin-bottom:20px;}
+div.CiaoModuleTeaserLeft {width:493px;height:217px;clear:none;margin:0;padding:0;}
+
+div.CiaoModuleTeaserRight {
+background-image:url(http://it-img2.ciao.com/iit/images/crux/background/module_teaser_background.gif);
+background-repeat:no-repeat;
+width:197px;
+height:217px;
+padding:0;
+font-weight:bold;
+color:#15345c;
+}
+
+div.CiaoModuleTeaserRight .buzzword1 {font-size:24px;text-align:center;font-weight:normal;padding-top:5px;}
+div.CiaoModuleTeaserRight .buzzword2 {font-size:20px;text-align:center;font-weight:normal; padding-top:25px;}
+
+div.CiaoModuleTeaserRight .welcome_intro {font-size:15px;padding-top:105px;}
+div.CiaoModuleTeaserRight .welcome_username {font-size:18px;padding-bottom:10px;}
+
+div.CiaoModuleTeaserRight img {margin-top:10px;}
+div.CiaoModuleTeaserRight .CiaoModuleTeaserLogin {font-size:12px;font-weight:normal;color:#7d7d7d;text-align:center;margin-top:2px;}
+div.CiaoModuleTeaserRight .CiaoModuleTeaserLogin a {color:#7d7d7d;}
+
+div.CiaoModuleTeaserRight table tr td { vertical-align: bottom; }
+div.CiaoModuleTeaserRight table tr td.promoTeaserButton { padding-bottom: 5px; }
+
+
+
+/* END INHERITED STYLES GRID */
+
+
+
+
+/* button definitions */
+a.eg-buttonMedium {
+	display: inline-block;
+	height: 23px;
+	line-height: 16px;
+	color: #585858;
+	font-size: 12px;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
+.lt-ie9 a.eg-buttonMedium {
+	line-height: 15px;
+}
+
+
+a.eg-buttonMedium .eg-bmLeft {
+	float: left;
+	height: 23px;
+	width: 10px;
+	background: transparent
+		url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif')
+		no-repeat 0 -46px;
+}
+
+a.eg-buttonMedium .eg-bmRight {
+	display: block;
+	margin-left: 10px;
+	height: 19px;
+	padding: 4px 20px 0 10px;
+	white-space: nowrap;
+	background: transparent
+		url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_button.gif')
+		no-repeat right -46px;
+}
+
+a.eg-buttonMedium:hover .eg-bmRight {
+	color: #FF7F00;
+}
+
+/* button colors */
+a.eebmPrime .eg-bmLeft {
+	background-position: 0 -69px;
+}
+
+a.eebmPrime .eg-bmRight {
+	color: #fff;
+	font-weight: bold;
+	background-position: right -69px;
+}
+
+a.eebmPrime:hover .eg-bmRight {
+	color: #000;
+}
+
+a.eebmReviewDark .eg-bmLeft {
+	height: 24px;
+	background-position: 0 -224px;
+}
+
+a.eebmReviewDark .eg-bmRight {
+	height: 20px;
+	color: #fff;
+	font-weight: bold;
+	background-position: right -224px;
+}
+
+a.eebmReviewDark:hover .eg-bmRight {
+	color: #fff;
+}
+
+/* ================= */
+#pg-header {
+	margin: 0 -10px;
+}
+
+/* Special classes definitions */
+#pg-header .is-disabled {
+	display: none !important;
+}
+/* ================= */
+
+#pg-header li {
+	line-height: normal;
+}
+
+#pg-header .m-headerAd {
+	background-color: #f3f3f3;
+}
+
+#pg-header .m-headerAd .m-head-ad {
+	margin: 10px auto;
+	/*if width of ad is flexible then width needs to be set through JS or server*/
+}
+
+#pg-header .m-headerBrand {
+	position: relative;
+	height: 60px;
+	padding: 0 10px;
+	background: transparent
+		url("http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png")
+		repeat-x scroll left -1671px;
+}
+
+#pg-header .m-headerBrand .m-hend-bing {
+	position: absolute;
+	top: 1px;
+	left: 10px;
+	width: 600px;
+	text-align: left;
+	color: #fff;
+}
+
+#pg-header .m-headerBrand .m-hend-bing a,#pg-header .m-headerBrand .m-hend-bing strong,#pg-header .m-headerBrand .m-hend-bing span
+	{
+	margin-right: 3px;
+	color: #fff;
+	font-size: 11px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#pg-header .m-headerBrand .m-hend-bing a:hover {
+	text-decoration: underline;
+}
+
+#pg-header .m-headerBrand .m-hend-logo {
+	width: 90px;
+	margin: 0 auto;
+	padding-top: 15px;
+	padding-left: 0px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+#pg-header .m-headerBrand .m-hend-ad {
+	float: right;
+	width: 85px;
+	margin-top: 5px;
+	overflow: hidden;
+	text-align: center;
+}
+
+#pg-header .m-headerBar {
+	padding-top: 6px;
+	height: 22px;
+	margin: 0 10px;
+	background: transparent
+		url("http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png")
+		repeat-x scroll left -1415px;
+	border: 1px solid #d4d4d4;
+}
+
+
+/* header homepage variant */
+
+#pg-header.eeHdHp {
+	margin:0;
+	background: transparent
+		url("http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png")
+		repeat-x scroll left -1671px;
+}
+#pg-header.eeHdHp .m-headerBrand {
+	width: 990px;
+	margin: 0 auto;
+	background: none;
+}
+#pg-header.eeHdHp .m-headerBar {
+	width: 990px;
+	margin: 0 auto;
+}
+
+#pg-header.eeHdHp .m-headerBrand .m-hend-logo {
+	padding-left: 0px;
+	padding-right: 35px;
+}
+
+#pg-header.eeHdHp .m-headerBar .m-hear-search {
+	padding-right: 330px;
+}
+
+#pg-header.eeHdBL,
+#pg-header.eeHdBL.eeHdHp .m-headerBrand,
+#pg-header.eeHdBL.eeHdHp .m-headerBar {
+	margin: 0;
+}
+#pg-header.eeHdBL.eeHdHp .m-headerBrand .m-hend-logo {
+	padding-left: 0px;
+	padding-right: 55px;
+}
+
+/* ================================= */
+
+
+#pg-header .m-headerBar .m-hear-search {
+	padding-left: 0px;
+	*padding-left: 0px;
+	padding-right: 310px;
+	text-align: left;
+}
+
+@media screen and (max-width:1024px) {
+	#pg-header .m-headerBrand .m-hend-logo {
+		padding-left: 0px;
+		padding-right: 10px;
+	}
+	#pg-header .m-headerBar .m-hear-search {
+		padding-left: 0px;
+		padding-right: 310px;
+	}
+}
+
+@media screen and (min-width:1025px) and (max-width: 1400px) {
+	#pg-header .m-headerBrand .m-hend-logo {
+		padding-left: 10px;
+		padding-right: 0px;
+	}
+	#pg-header .m-headerBar .m-hear-search {
+		padding-left: 20px;
+		padding-right: 310px;
+	}
+}
+
+@media screen and (min-width:1400px) {
+	#pg-header .m-headerBrand .m-hend-logo {
+		padding-left: 0px;
+		padding-right: 255px;
+	}
+	#pg-header .m-headerBar .m-hear-search {
+		padding-left: 0px;
+		padding-right: 550px;
+	}
+}
+
+#pg-header .m-headerBar .m-hear-search .m-hear-searchin {
+	width: 665px;
+	margin: 0 auto;
+}
+
+.lt-ie8 #pg-header .m-headerBar .m-hear-search .m-hear-searchin {
+	width: 660px;
+}
+
+#pg-header .m-headerBar .m-hear-search #maya-menu {
+	float: right;
+}
+
+#pg-header .m-headerBar .m-hear-search ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#pg-header .m-headerBar .m-hear-search ul>li>a,
+#pg-header .m-headerBar .m-hear-social a {
+	color: #000;
+	text-decoration: none;
+}
+
+#pg-header .m-headerBar .m-hear-social a:hover {
+	color: #F76120;
+	text-decoration: underline;
+}
+
+#pg-header .m-headerBar .m-hear-search li.m-hear-menu {
+	float: left;
+	position: relative;
+	top: -3px;
+	margin-left: -3px;
+}
+
+#pg-header .m-headerBar .m-hear-search li.m-hear-menu>a {
+	display: block;
+	padding: 3px 7px 7px 10px;
+}
+
+#pg-header .m-headerBar .m-hear-search li.m-hear-menu>a img {
+	background: transparent
+		url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif')
+		no-repeat left -2197px;
+}
+
+#pg-header .m-headerBar li .m-hear-sub {
+	display: none;
+	/* width: 430px; */
+	padding: 10px 25px 15px 9px;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1 {
+	float: left;
+	width: 142px;
+	border-right: 1px solid #ccc;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1 ul {
+	display: block;
+	margin-bottom: 22px;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1 ul li {
+	margin:0;
+	padding: 4px 0;
+	line-height: 14px;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1 ul li.e-hear-on {
+	position: relative;
+	margin-right: -1px;
+	background: transparent
+		url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif')
+		no-repeat right -2172px;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1 ul li a {
+	display: block;
+	padding-right: 10px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #525051;
+	cursor: default;
+}
+
+#pg-header .m-headerBar .m-hear-sub1 .e-hear-on a,
+#pg-header .m-headerBar li div.m-hear-sub1 ul li a:hover {
+	color: #F76120;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1 a.e-hear-ext {
+	padding-left: 8px;
+	background: transparent
+		url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif')
+		no-repeat left -2259px;
+	cursor:pointer;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1 a.e-hear-ext:hover {
+	color: #F76120;
+	text-decoration: underline;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1.off-cat {
+	border: none;
+}
+
+#pg-header .m-headerBar li div.m-hear-sub1.off-cat .e-hear-on {
+	background: none;
+}
+#pg-header .m-headerBar li div.m-hear-sub1.off-cat .e-hear-on a {
+	color: #525051;
+}
+
+#pg-header .m-headerBar .m-hear-sub a.e-hear-title {
+	text-decoration: underline;
+}
+
+#pg-header .m-headerBar .m-hear-sub a.e-hear-title:hover {
+	color: #F76120;
+	text-decoration: underline;
+}
+
+#pg-header .m-headerBar .m-hear-sub img.ratingStars {
+	margin-right: 3px;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 {
+	/* float: left; */
+	width: 271px;
+	/* margin-left: -1px; */
+	margin-left: 142px;
+	padding-left: 15px;
+	border-left: 1px solid #ccc;
+	overflow: visible !important;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 .CWMayaDataZone {
+	overflow: hidden;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 h3 {
+	display: block;
+	margin: 3px 0 0;
+	font-size: 14px;
+	font-weight: normal;
+	color: #525051;
+}
+
+#pg-header .m-headerBar .m-hear-sub .m-hear-sub2 a {
+	font-size: 12px;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 .m-hear-row {
+	margin: 8px 0;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 .m-hear-row p {
+	margin: 0;
+	font-size: 12px;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 .m-hear-row p.m-hear-rowprod {
+	margin-top: 2px;
+	line-height: 14px;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 .m-hear-row p.m-hear-rowprod a,#pg-header .m-headerBar .m-hear-sub2 a.eeNoU
+	{
+	text-decoration: none;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 .m-hear-foot {
+	margin-bottom: 0px;
+}
+
+#pg-header .m-headerBar .m-hear-sub2 .m-hear-foot p {
+	margin: 13px 0 18px;
+}
+
+/* menu specific styles */
+#pg-header .m-headerBar .m-hear-shop .m-hear-sub2 .m-hear-row {
+	margin-bottom: 13px;
+}
+
+#pg-header .m-headerBar .m-hear-shop .m-hear-sub2 .m-hear-row p {
+	margin-bottom: 2px;
+}
+
+#pg-header .m-headerBar .m-hear-shop .m-hear-sub2 .m-hear-row p.m-hear-rowprod
+	{
+	margin-top: 3px;
+}
+
+#pg-header .m-headerBar .m-hear-search .m-hear-searchin .m-hear-community
+	{
+	margin-right: 13px;
+}
+
+#pg-header .m-headerBar .m-hear-community p {
+	margin: 0;
+}
+
+#pg-header .m-headerBar .m-hear-community .m-hear-sub {
+	width: auto;
+	*width: 255px;
+	min-width: 200px;
+	padding-bottom: 12px;
+}
+
+#pg-header .m-headerBar .m-hear-community div.m-hear-sub1 {
+	width: 100%;
+	font-size: 12px;
+	color: #525051;
+	border-right: 0px none;
+}
+
+#pg-header .m-headerBar .m-hear-community div.m-hear-sub1 ul {
+	margin-bottom: 3px;
+	padding-bottom: 3px;
+	border-bottom: 1px solid #ccc;
+}
+
+#pg-header .m-headerBar .m-hear-community div.m-hear-sub1 p a,#pg-header .m-headerBar .m-hear-community div.m-hear-sub1 li a
+	{
+	display: inline;
+	font-size: 12px;
+	font-weight: normal;
+	color: #525051;
+	text-decoration: none;
+}
+
+#pg-header .m-headerBar .m-hear-menu.m-hear-community div.m-hear-sub1 p a:hover
+	{
+	color: #F76120;
+}
+
+#pg-header .m-headerBar .m-hear-community .m-hear-btn {
+	margin-bottom: 7px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+#pg-header .m-headerBar .m-hear-community .m-hear-btn p {
+	margin: 7px 0;
+	font-size: 12px;
+}
+
+#pg-header .m-headerBar .m-hear-community #mCommLogin.m-hear-sub {
+	width: 155px;
+	min-width:155px;
+	padding-bottom: 8px;
+}
+
+#pg-header .m-headerBar .m-hear-community #mCommLogin .m-hear-btn {
+	margin: 5px 0 4px;
+	padding-bottom: 0;
+}
+
+#pg-header .m-headerBar .m-hear-community #mCommLogin .eg-buttonMedium {
+	display: block;
+	margin-right: 14px;
+}
+
+#pg-header .m-headerBar .m-hear-community #mCommLogin .m-hear-sub1 p a.e-hear-spec {
+	cursor: pointer;
+	color: #03C;
+	text-decoration: none;
+}
+
+#pg-header .m-headerBar .m-hear-community #mCommLogin .m-hear-sub1 p a.e-hear-spec:hover {
+	color: #F76120;
+	text-decoration: underline;
+}
+
+#pg-header .m-headerBar .m-hear-community #mCommLogin .m-hear-sub1 ul {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border-bottom: 0 none;
+}
+
+#pg-header .m-headerBar .m-hear-search .m-hear-searchin .m-hear-input {
+	position: relative;
+	float: right;
+	height: 29px;
+	margin-top: -6px;
+}
+
+#pg-header .m-headerBar .m-hear-search .m-hear-searchin .m-hear-input input
+	{
+	float: left;
+	width: 259px;
+	height: 26px;
+	padding: 2px 30px 0 9px;
+	line-height: 26px;
+	font-size: 16px;
+	border-style: none solid;
+	border-width: 1px;
+	border-color: #D4D4D4;
+}
+
+#pg-header .m-headerBar .m-hear-search .m-hear-searchin .m-hear-input input.e-hear-lens
+	{
+	position: relative;
+	top: 0px;
+	left: -25px;
+	width: 24px;
+	height: 26px;
+	padding: 2px 9px 0 0;
+	cursor: pointer;
+	background: #fff
+		url('http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif')
+		no-repeat left -2204px;
+	border: 0px none;
+}
+
+#pg-header .m-headerBar .m-hear-social {
+	float: right;
+	margin-right: 10px;
+}
+
+#pg-header .m-headerBar .m-hear-social .eeSpace {
+	margin-left: 8px;
+}
+
+#pg-header .m-headerBar .m-hear-social .e-hear-icon {
+	margin-bottom: -4px;
+	background: transparent
+		url("http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif")
+		no-repeat;
+}
+
+#pg-header .m-headerBar .m-hear-social img.mobile {
+	background-position: left -2070px;
+}
+
+#pg-header .m-headerBar .m-hear-social img.help {
+	background-position: left -2097px;
+}
+
+#pg-header .m-headerBar .m-hear-social img.fb {
+	background-position: left -2124px;
+}
+
+#pg-header .m-headerBar .m-hear-social img.tw {
+	background-position: left -2151px;
+}
+
+#pg-header .m-headerBar .m-hear-social img.gp {
+	background-position: left -2236px;
+}
+
+#pg-header .m-headerBar li.m-hear-on {
+	height: 24px;
+	/*margin-bottom: -1px;*/
+	/*outline:1px solid #D4D4D4;*/
+	z-index: 10;
+	-webkit-box-shadow: 3px 18px 10px 0px #BEBEBE;
+	-moz-box-shadow: 3px 18px 10px 0px #BEBEBE;
+	-ms-box-shadow: 3px 18px 10px 0px #BEBEBE;
+	-o-box-shadow: 3px 18px 10px 0px #BEBEBE;
+	box-shadow: 3px 18px 10px 0px #BEBEBE;
+}
+
+#pg-header .m-headerBar .m-hear-search  li.m-hear-on>a {
+	position: relative;
+	height: 26px;
+	*height: 16px;
+	margin-top: -1px;
+	padding: 3px 6px 6px 9px;
+	background-color: #fff;
+	z-index: 3;
+	border-color: #D4D4D4;
+	border-style: solid solid none;
+	border-width: 1px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#pg-header .m-headerBar li.m-hear-on .m-hear-sub {
+	position: absolute;
+	display: block;
+	top: 24px;
+	left: 0px;
+	background-color: #fff;
+	border: 1px solid #c7c7c7;
+	z-index: 2;
+	-webkit-box-shadow: 2px 2px 7px 1px #BEBEBE;
+	-moz-box-shadow: 2px 2px 7px 1px #BEBEBE;
+	-ms-box-shadow: 2px 2px 7px 1px #BEBEBE;
+	-o-box-shadow: 2px 2px 7px 1px #BEBEBE;
+	box-shadow: 2px 2px 7px 1px #BEBEBE;
+}
+
+#pg-header .m-headerBar li.m-hear-on .m-hear-sub.s-bs-off {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-ms-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+}
+.lt-ie8 #pg-header .m-headerBar li.m-hear-on .m-hear-sub {
+	width: 430px;
+}
+
+.lt-ie8 #pg-header .m-headerBar li div.m-hear-sub1 {
+	margin-right: -1px;
+}
+
+/* special condition Ciao styles when maya header is on */
+#SLAR1_content.authentication {
+	position: relative;
+	z-index: 1;
+}
+
+
+div.banner {
+	background: #FAFAFA none repeat scroll 0 0;
+	padding: 4px 0;
+}
+
+
+div.banner div.ad_container {
+	position: relative;
+	width: 728px;
+	margin: 0 auto;
+}
+
+div.TPLST {
+	width: 100%;
+}
+
+div.TPLST .vbar {
+	background: url("http://it-img1.ciao.com/iit/images/crux/background/dots_vertical.gif") repeat-y;
+	width: 1px;
+	padding-left:  5px;
+	padding-right: 5px;
+}
+
+div.TPLST h4 {
+	font-weight: normal;
+	margin:		 0px 0px 5px 0px;
+}
+div.MNFTR {
+	font-size: 80%;
+	padding-top: 65px;
+}
+div.MNFTR img {
+	text-decoration: none;
+}
+div.MNFTRLine1 {
+	padding-bottom: 6px;
+}
+div.MNFTRLine2 {
+	color: #555555;
+}
+div.MNFTRLine2 a, div.MNFTRLine2 a:hover, div.MNFTRLine2 a:visited, div.MNFTRLine2 a:active {
+	text-decoration: none;
+	color: #555555;
+}
+div.MNFTR .MNFTRCopyright {
+	color: #555555;
+}
+
+div.MNFTR .CWIconFlagES {
+	background:		 	no-repeat url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png) 0 0;
+	padding:			0 0 0 25px;
+}
+
+div.MNFTR .CWIconFlagDE {
+	background:			no-repeat url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png) 0 -20px;
+	padding:			0 0 0 25px;
+}
+
+div.MNFTR .CWIconFlagUK {
+	background:			no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -40px;
+	padding:			0 0 0 25px;
+}
+
+div.MNFTR .CWIconFlagFR {
+	background:			no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -60px;
+	padding:			0 0 0 25px;
+}
+
+div.MNFTR .CWIconFlagIT {
+	background:			no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -80px;
+	padding:			0 0 0 25px;
+}
+
+div.MNFTR .CWIconFlagNL {
+	background:			no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -100px;
+	padding:			0 0 0 25px;
+}
+
+div.MNFTR .CWIconFlagSE {
+	background:			no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -120px;
+	padding:			0 0 0 25px;
+}
+
+div.MNFTR .CWIconFlagUS {
+	background:			no-repeat url('http://it-img2.ciao.com/iit/images/crux/sprites/sprites_flags.png') 0 -140px;
+	padding:			0 0 0 25px;
+}
+
+div.MNTNM {margin:-2px 0 0 0;padding:1px 0 0px 1px;text-align:left;color:#7D7D7D;}
+div.MNTNM div {float:right;padding:3px 1px 0 0;}
+div.MNTNM div a:link {font-size:12px;color: #7D7D7D; }
+div.MNTNM div a:visited {font-size:12px; color: #7D7D7D; }
+div.MNTNM div a:hover, div.MNTNM .navipublic div a:active{font-size:12px;color:#f76120;}
+div.MNTNM a.up-index {z-index:-190;position:absolute; left:10px;top:10px;} 
+div.MNTNM >a.up-index {z-index:190;}
+div.MNTNM .navipublic {position:relative;float:right;width:500px;margin:0;padding:0;}
+div.MNTNM .navipublic ul {width:700px; border:none; z-index:200; position:absolute;top:0px;right:0px; margin-top:0px;} 
+div.MNTNM .navipublic li {line-height:15px;position:relative;top:1px;list-style:none;margin:0;float:right;padding:0;}
+div.MNTNM .navipublic a {float:left;display:block;background:url("http://it-img1.ciao.com/iit/images/tabs/bg_menu_left.gif") no-repeat left -8px;padding-left:11px;border-top:1px solid #d5d5d5;text-decoration:none;}
+div.MNTNM .navipublic a:hover span {color:#ffffff;}
+div.MNTNM .navipublic a span {float:left;display:block;background:url("http://it-img2.ciao.com/iit/images/tabs/bg_menu_right.gif") no-repeat right -8px;padding:3px 11px 4px 0px;color: #575757;}
+div.MNTNM .navipublic a:hover, div.MNTNM .navipublic li.navifirst a:hover{background-position:left -37px;cursor:pointer;}
+div.MNTNM .navipublic a:hover span {background-position:100% -37px;cursor:pointer;}
+div.MNTNM .navipublic li.navifirst a {background:url("http://it-img1.ciao.com/iit/images/tabs/bg_menu_left_round.gif") no-repeat left -8px;}
+div.MNTNM .navipublic li.navimember a {background:url("http://it-img2.ciao.com/iit/images/tabs/bg_member_menu_left.gif") no-repeat left -8px;}
+div.MNTNM .navipublic li.navimember a span {background:url("http://it-img1.ciao.com/iit/images/tabs/bg_member_menu_right.gif") no-repeat left -8px;}
+div.MNTNM .navipublic li.navimember a:hover {background:url("http://it-img1.ciao.com/iit/images/tabs/bg_menu_left.gif") no-repeat right -8px;background-position:left -37px;cursor:pointer;}
+div.MNTNM .navipublic li.navimember a:hover span {background:url("http://it-img2.ciao.com/iit/images/tabs/bg_menu_right.gif") no-repeat right -37px;}
+
+div.CBRWS {
+	font-size:11px;
+	margin:17px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+
+div.CBRWS ul {
+	list-style-type:none;
+	padding:0px 1px 0px 1px;
+}
+
+div.CBRWS ul li:first-child {
+	border-width:0px 0px 0px 0px;
+}
+
+div.CBRWS ul li {
+	border-color:#d4d4d4;
+	border-width:1px 0px 0px 0px;
+	border-style:solid;
+	margin:0;
+	padding:6px 0px 6px 10px;
+	line-height:14px;	
+}
+
+div.CBRWS ul li h4 {
+	display:inline;
+	font-size:14px;
+	margin-right:5px;
+}
+
+
+div.CCHRT {	
+	padding:			0px 0px 0px 10px;
+	margin:				10px 0px 0px 0px;
+}
+
+/* kiev the good and the bad module styles */
+.TGATB{
+	margin:0;
+	padding:25px 0 22px 0;
+	text-align:left;	
+	font-size:12px;
+	line-height:15px;
+}
+.TGATB div.CiaoModuleContent {
+	color:#7D7D7D;
+	margin:0;
+	padding:15px 0 0 0;
+}
+div.TGATB .good_user_col1 {
+	text-align:left;
+	vertical-align:top;
+	width:110px;
+	padding:0 0 78px;	
+}
+div.TGATB td.thumb_up {
+	padding-right:10px;
+	padding-top:10px;
+	text-align:right;
+	vertical-align:top;
+}
+div.TGATB td.vbar {
+	background:transparent url(http://it-img1.ciao.com/iit/images/crux/background/dots_vertical.gif) repeat-y scroll 0 50%;
+	padding-left:5px;
+	padding-right:5px;
+	width:1px;
+}
+div.TGATB td.product_image {
+	text-align:center;
+	vertical-align:top;
+}
+div.TGATB td.thumb_down {
+	padding-left:0;
+	padding-top:10px;
+	text-align:left;
+	vertical-align:top;
+}
+div.TGATB .bad_user_col1 {
+	text-align:right;
+	vertical-align:top;
+	width:110px;
+	padding:0 0 78px;
+}
+
+
+div.TGATB .good_user_col1,
+div.TGATB .bad_user_col1 {
+	padding-bottom:5px;
+}
+
+
+
+div.TGATB div.member_image img {
+	border:1px solid #E9E9E9;
+	padding:2px;
+	text-align:center;
+	vertical-align:top;
+	width:71px;
+	height:98px;
+}
+div.TGATB .good_description {
+	font-weight:normal;
+	padding:5px 5px 0 0;
+	vertical-align:top;
+	text-align:left;
+}
+div.TGATB .bad_description {
+	font-weight:normal;
+	padding:5px 0 0 5px;
+	vertical-align:top;
+	text-align:right;
+}
+div.TGATB .good_description a.prod_desc, div.TGATB .bad_description a.prod_desc{
+	text-decoration:underline;
+	font-size:14px;
+}
+
+div.TGATB .product_name{
+	text-align:center;
+	vertical-align:top;
+	padding:5px 0 0;
+}
+div.TGATB p{
+	margin:0;
+	padding:0;
+}
+div.TGATB p.pros{
+	color:#006600;
+	margin:0;
+	padding:6px 0 4px;
+}
+div.TGATB p.cons{
+	color:#cc0000;
+	margin:0;
+	padding:6px 0 4px;	
+}
+div.TGATB p.desc{
+	margin:0;
+	padding:0 0 5px;
+}
+
+div.TGATB .good_user_col1 a:link,
+div.TGATB .good_user_col1 a:visited,
+div.TGATB .bad_user_col1 a:link,
+div.TGATB .bad_user_col1 a:visited,
+p.rating a:link,
+p.rating a:visited{
+	color:#898994;
+}
+div.TGATB .good_user_col1 a:hover,
+div.TGATB .good_user_col1 a:active,
+div.TGATB .bad_user_col1 a:hover,
+div.TGATB .bad_user_col1 a:active,
+p.rating a:hover,
+p.rating a:active{
+	color:#F76120;
+}
+.RCONT {
+  font-size:12px;
+}
+.RCONT .productImage {
+  height:150px;
+  margin-top:2px;
+}
+
+div.RCONT div.CiaoModuleVideo {
+  background-image:url(http://it-img2.ciao.com/iit/images/crux/background/module_videoborder.gif);
+  background-repeat:no-repeat;
+  height:135px;
+  padding-top:15px;
+  width:160px;
+}
+
+
+.RCONT .RCONT_object_link {
+  margin-top:9px;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+.RCONT .RCONT_object_link a {
+  text-decoration: underline;
+}
+.RCONT .description {
+  margin-bottom:4px;
+}
+
+.RCONT .starRating {
+  margin-bottom:1px;
+}
+#CWCiaoHeader {
+  text-align:left;
+  width:990px;
+  margin:0 auto;
+}
+#CWCiaoHeader p {
+  font-size: 12px;
+}
+
+
+#CWCiaoHeaderTopNavi {
+  display:block;
+  width:100%;
+  height:20px;
+  
+  margin:0;
+  padding:2px 0px;
+  
+  text-align: left;
+  color:#fff;
+  
+  background: transparent url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_navi.gif) repeat-x left -110px;
+}
+
+#CWCiaoHeaderTopNavi .CWCiaoHeaderTopHat {
+  width:980px;
+  margin:0 auto;
+}
+
+#CWCiaoHeaderTopNavi p {
+  margin:0;
+  font-size:12px;
+}
+
+#CWCiaoHeaderTopNavi p.topNaviLeft {
+  float:left;
+}
+#CWCiaoHeaderTopNavi p.topNaviRight {
+  float:right;
+}
+
+#CWCiaoHeaderTopNavi p.topNaviLeft a {
+  margin: 0 17px 0 0px;
+  color:#fff;
+  text-decoration: none;
+}
+#CWCiaoHeaderTopNavi p.topNaviLeft span {
+  margin: 0 10px 0 -7px;
+  color:#fff;
+  text-decoration: none;
+}
+
+#CWCiaoHeaderTopNavi p.topNaviRight a {
+  margin: 0 0px 0 17px;
+  color:#fff;
+  text-decoration: none;
+}
+#CWCiaoHeaderTopNavi p.topNaviRight span {
+  margin: 0 -7px 0 10px;
+  color:#fff;
+  text-decoration: none;
+}
+
+#CWCiaoHeaderTopNavi p span.active {
+  color:#fff;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 17px 0 0px;
+}
+#CWCiaoHeaderTopNavi p a:hover,
+#CWCiaoHeaderTopNavi p a:active {
+  text-decoration: underline;
+}
+
+
+
+#CWCiaoHeader div.CWCiaoHeaderMain {
+  margin: 0;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderNavi {
+  text-align: center;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderTubes {
+  height:70px;
+  padding:17px 0px 0 0;
+  
+  border:1px solid #D4D4D4;
+  background: transparent url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_gradient.png) repeat-x scroll left -1444px;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderTubes table tr td {
+  vertical-align: top;
+  font-size:12px;
+}
+
+/* LEFT TUBE */
+#CWCiaoHeader div.CWCiaoHeaderLeftTube {
+  
+  width:100%;
+
+}
+
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.CWCiaoHeaderStaticCell {
+  width:600px;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.CWCiaoLogo {
+  display:inline;
+  float:left;
+  
+  margin: 6px 0 0 23px;
+}
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.searchPanel {
+  display:inline;
+  float:left;
+  width:365px;
+  margin: 16px 0 0 25px;
+  
+  position:relative;
+  
+  border:1px solid #A1A1A1;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.searchPanel input {
+  float:left;
+  height:20px;
+  width:329px;
+  padding:5px 2px 1px 8px;
+  
+  overflow:hidden;
+  
+  border:0px none;
+  font-size:14px;
+  
+}
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.searchPanel input.searchLens {
+  display:inline;
+  float:left;
+  
+  width:25px;
+  height: 25px;
+  
+  padding:0px 1px 1px 2px;
+  
+  border:0px none;
+  cursor: pointer;
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat 2px -452px;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.searchPanel input.searchLensGrey {
+    background: url("http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif") no-repeat scroll -175px -452px transparent;
+    border: 0 none;
+    cursor: pointer;
+    display: inline;
+    float: left;
+    height: 25px;
+    padding: 0 0 1px 2px;
+    width: 25px;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks {
+  
+  margin: 2px 0 0 35px;
+}
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks table td {
+  /*width:50%;*/
+}
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks p {
+  margin:0;
+}
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks p.headerMotto {
+  margin:0 0 3px 10px;
+  width:100%;
+  color:#F76120;
+  font-size:11px;
+  font-weight: bold;
+}
+
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks p.linksList {
+  color:#BDBDBD;
+  
+}
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks p.linksList a,
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks p.linksList a:visited {
+  display:block;
+  margin-right:10px;
+  
+  padding: 0 0 0 10px;
+  
+  color:#525051;
+  font-size:11px;
+  text-decoration: none;
+  
+  white-space: normal;
+  
+  background: transparent url(http://it-img1.ciao.com/iit/images/crux/sprites/sprites_icon.gif) no-repeat left -490px;
+}
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks p.linksList a:hover,
+#CWCiaoHeader div.CWCiaoHeaderLeftTube div.quickLinks p.linksList a:active {
+  color:#F76120;
+  text-decoration: underline;
+}
+
+/* ===== */
+
+
+/* RIGHT TUBE */
+
+#CWCiaoHeader a.CWCiaoHeaderSpecialAds {
+  display:block;
+  width:85px;
+  height:50px;
+  margin-right: 9px;
+}
+#CWCiaoHeader a.CWCiaoHeaderSpecialAds img {
+  border: 0px none;
+}
+
+
+/* === TUBES END === */
+
+
+
+/* Main Navigation */
+ul#headerListMenu {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0 0 3px 0;
+padding:0pt;
+_margin: 0;
+}
+
+*:first-child+html ul#headerListMenu {
+  margin:0;
+}
+
+ul#headerListMenu li {
+display:inline;
+margin-right:1px;
+white-space:nowrap;
+margin-left:0; 
+line-height:normal;
+}
+ul#headerListMenu li a {
+background:transparent url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_navi.gif) no-repeat scroll 0pt -140px;
+color:#525051;
+cursor:pointer;
+
+font-size:12px;
+margin:0pt 2px 0pt 0pt;
+padding:5px 0 3px 8px;
+text-align:center;
+_padding:0px 0 0px 8px;
+text-decoration:none;
+
+outline:none;
+
+}
+*:first-child+html ul#headerListMenu li a {
+  padding:0px 0 0px 8px;
+}
+
+
+ul#headerListMenu li a span {
+background:transparent url(http://it-img2.ciao.com/iit/images/crux/sprites/sprites_bg_navi.gif) no-repeat scroll right -140px;
+margin:0pt -5px 0pt 0pt;
+padding:5px 8px 3px 0;
+
+_position:relative;
+_height:0;
+zoom:1;
+_padding:5px 8px 3px 0;
+}
+
+
+
+
+ul#headerListMenu li a:hover {
+background-position:0pt -163px;
+}
+ul#headerListMenu li a:hover span {
+    background-position:right -163px;
+}
+
+
+ul#headerListMenu li a.activeTab {
+background-position:0pt -163px;
+}
+ul#headerListMenu li a.activeTab span {
+    background-position:right -163px;
+}
+
+/* // Main Navigation */
+
+div.banner {
+  background:#FAFAFA none repeat scroll 0 0;
+  padding:4px 0;
+}
+div.banner table {
+  width:100%;
+}</style><script type="text/javascript">
+// <![CDATA[
+	$(document).ready(function(){
+		setTimeout( function(){
+			$(document).bind( 'SLI_LoggedIn', {}, function(){xajax_CiaoHomepage_afterLogin()} );
+			var so = new SWFObject("/home_member_circle.swf","home_member_circle","493","217","6","#FFFFFF","opaque");
+			so.addVariable("dataurl", "/home_member_circle_data.php");
+			so.write("MemberTeaserFlash");
+		},1500 );
+		
+		$( '.flip-thru' ).each( function() {
+			var iStart = 0;
+			var iMaxItems = parseInt( $( this ).attr( 'rel' ) ) > 0 ? parseInt( $( this ).attr( 'rel' ) ) : 1;
+			var oBox = $( this );
+			var _showArrows = function() {
+				if ( iStart <= 0 ) {
+					oBox.find( '.flip-prev' ).hide();
+				} else {
+					oBox.find( '.flip-prev' ).show();
+				}
+				if ( oBox.find( '.flip-item' ).get( iStart + 1 ) ) {
+					oBox.find( '.flip-next' ).show();
+				} else {
+					oBox.find( '.flip-next' ).hide();
+				}
+			}
+			var _showItems = function() {
+				oBox.find( '.flip-item' ).hide().removeClass( 'active' );
+				for ( var iPosition = iStart; iPosition < ( iStart + iMaxItems ); iPosition++ ) {
+					oBox.find( '.flip-item:eq(' + iPosition + ')' ).show()
+						.find( '.flip-image' ).each( function() {
+							$( this ).replaceWith( '<img src="' + $( this ).attr( 'rel' ) + '" style="' + $( this ).attr( 'style' ) + '" alt="' + $( this ).attr( 'title' )  + '" title="' + $( this ).attr( 'title' )  + '" />' );
+						} );
+				}
+				if ( oBox.find( '.flip-view' ).get( iStart ) ) {
+					oBox.find( '.flip-item:eq(' + iStart + ')' ).addClass( 'active' );
+				} else {
+					oBox.find( '.flip-item' ).removeClass( 'qaactive' ).end()
+						.find( '.flip-item:eq(' + iStart + ')' ).addClass( 'qaactive' );
+				}
+				_showArrows();
+			}
+			oBox.find( '.flip-prev' ).unbind().click( function( e ) {
+				iStart = iStart - 1;
+				if ( oBox.find( '.flip-view' ).get( iStart ) ) {
+					oBox.find( '.flip-item:eq(' + iStart + ')' ).trigger( 'click' );
+				} else {
+					_showItems();
+				}
+				return false;
+			} );
+			oBox.find( '.flip-next' ).unbind().click( function( e ) {
+				iStart = iStart + 1;
+				if ( oBox.find( '.flip-view' ).get( iStart ) ) {
+					oBox.find( '.flip-item:eq(' + iStart + ')' ).trigger( 'click' );
+				} else {
+					_showItems();
+				}
+				return false;
+			} );
+			oBox.find( '.flip-item' ).each( function( iItemIndex ) {
+				var oView = oBox.find( '.flip-view' ).get( iItemIndex );
+				if ( oView ) {
+					$( this ).unbind().click( function( e ) {
+						if ( $( this ).hasClass( 'active' )  ) {
+							return false;
+						}
+						oBox.find( '.flip-view' ).hide().removeClass( 'qaactive' );
+						$( oView ).show().addClass( 'qaactive' )
+							.find( '.flip-image' ).each( function() {
+								$( this ).replaceWith( '<img src="' + $( this ).attr( 'rel' ) + '" style="' + $( this ).attr( 'style' ) + '" alt="' + $( this ).attr( 'title' )  + '" title="' + $( this ).attr( 'title' )  + '" />' );
+							} );
+						iStart = iItemIndex;
+						_showItems();
+						return false;
+					} );
+				}
+			} );
+			_showItems();
+		} );
+
+		// focus the main search input
+		$( '#HEMAIN_search_string' ).focus();
+	});
+// ]]>
+</script>    </head>
+<body>
+
+<script type="text/javascript">
+sMayaHeaderMenuURL = '/maya_header_serve.php?id=it_0';
+sMayaUsername = '';
+sMayaReferer = '';
+</script>
+
+<div id="pg-header" class="clearfix eeHdHp">
+		<div class="m-headerAd">
+		<!-- only used when ad exists
+		<div class="m-head-ad">
+		</div>
+		 -->
+	</div>
+		<div class="m-headerBrand clearfix" >
+						<div id="CWCiaoHeaderSpecialAds_container" class="m-hend-ad" height="50" width="85">
+			            <a href="http://www.ciao.it/ext_ref_call.php/ReferenceId/146391"  target="_blank">
+              <img src="http://it-img1.ciao.com/iit/images/banner/specialplacement.png" alt="header_special_offer" height="50" width="85">
+            </a>
+            		</div>
+		<div class="m-hend-logo">
+			                            <img src="http://it-img1.ciao.com/iit/images/logos/ciao_lg.png"  height="39" />
+            		</div>
+			</div>
+		<!-- m-headerBar goes here -->
+	
+	<div class="m-headerBar">
+<div class="m-hear-social">
+		<a href="https://www.ciao.it/reg.php">Partecipa</a>
+	&middot;
+	<a href="https://www.ciao.it/login.php">Login</a>
+		
+	
+	<a class="eeSpace" title="Aiuto" href="http://www.ciao.it/faq/aiuto,1"><img alt="Aiuto" class="e-hear-icon help" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	
+	<a target="_blank" href="https://www.facebook.com/ciaoit" title="Seguici su Facebook"><img alt="Seguici su Facebook" class="e-hear-icon fb" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	<a target="_blank" href="http://www.twitter.com/ciao_it" title="Seguici su Twitter"><img alt="Seguici su Twitter" class="e-hear-icon tw" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	<a target="_blank" href="https://plus.google.com/109359487332790329130" rel="publisher" title="Seguici su Google+"><img alt="Seguici su Google+" class="e-hear-icon gp" src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="17" height="17" /></a>
+	
+	<a class="eeSpace" onclick="return aCiaoHeaderMainIns.setCookie('forceDesktop', null, '-1');" title="Mobile" href="http://m.ciao.it"><img alt="Mobile" class="e-hear-icon mobile" src="http://de-img1.ciao.com/ide/images/icons/space.gif" width="53" height="17" /></a>
+</div>		<div class="m-hear-search">
+			<div class="m-hear-searchin clearfix">
+				
+								<div class="m-hear-input" >
+						            	<form method="get" action="search.php" name="SearchForm1" onsubmit="return searchPageUrl('SearchForm1','http://www.ciao.it');">
+	                <input type="text" name="SearchString" id="SearchString" size="10" value="" />
+	                <input type="submit" class="e-hear-lens" value="" />
+	                </form>
+	                				</div>
+				<div id="maya-menu">
+				<ul>
+	<li class="m-hear-menu m-hear-reviews">
+	<a onmouseover = "callLater( 's=s_gi(\'ciaoshopit\');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Reviews&quot;,&quot;linkTrackVars&quot;:&quot;eVar35&quot;,&quot;eVar35&quot;:&quot;Reviews&quot;});', 2000, 'TopMayaMenu', this )"  href="http://www.ciao.it/Opinioni_Recenti">Opinioni <img src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="5" height="6" /></a><div class="m-hear-sub">Caricamento</div>				
+</li>
+<li class="m-hear-menu m-hear-shop ">
+	<a onmouseover = "callLater( 's=s_gi(\'ciaoshopit\');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Shopping&quot;,&quot;linkTrackVars&quot;:&quot;eVar35&quot;,&quot;eVar35&quot;:&quot;Shopping&quot;});', 2000, 'TopMayaMenu', this )"  href="http://www.ciao.it/charts.php">Shopping <img src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="5" height="6" /></a><div class="m-hear-sub">Caricamento</div></li>
+<li class="m-hear-menu m-hear-community">
+	<a onmouseover = "callLater( 's=s_gi(\'ciaoshopit\');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;linkName&quot;:&quot;Community&quot;,&quot;linkTrackVars&quot;:&quot;eVar35&quot;,&quot;eVar35&quot;:&quot;Community&quot;});', 2000, 'TopMayaMenu', this )"  href="https://www.ciao.it/login.php">Community <img src="http://it-img1.ciao.com/iit/images/icons/space.gif" width="5" height="6" /></a><div class="m-hear-sub">Caricamento</div>	</li>
+</ul>				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- // m-headerBar  -->
+	</div>
+<!-- // CIAO-MAYA HEADER --><div id="maincontainer" class="CiaoMainContainerFixed" >
+	<!-- BEGIN Right column -->
+	<div id="contentwrapper" class="CiaoMainColumn">
+		<div id="contentcolumn_right">
+			<div class="innertube">
+				
+				<!--  BEGIN CiaoHomepage.RecentContent -->
+				<div class="clearfix">
+					<div style="float:left;width:335px;" id="topReview"><div class="CiaoModuleFrame RCONT">	
+	<p class="CWCiaoKievSectionHeader">
+		<a href="/Opinioni_Recenti">Nuove opinioni &raquo;</a>
+	</p>
+  	<div class="CiaoModuleContent">	 	
+		<div class="productImage">		
+			<a href="http://www.ciao.it/Le_correzioni_Jonathan_Franzen__Opinione_1558101"><img src="http://it-img2.ciao.com/iit/images/products/normal/561/Le_correzioni_Jonathan_Franzen__2641561.jpg
+" alt="Le correzioni (Jonathan Franzen)" width="160" height="120" /></a>
+    	</div>	 
+    
+		<div class="RCONT_object_link">		
+			<a href="http://www.ciao.it/Le_correzioni_Jonathan_Franzen__Opinione_1558101" class="CiaoModuleProductLink">
+				Un buon libro sovrastimato.			</a>
+		</div>
+		
+		<div class="description">
+			<p>Le correzioni (2001) è il romanzo che ha dato fama a Jonathan Franzen; lo scrittore statunitense, nato nel 1959, fino alletà...</p>
+		</div>
+
+    
+		<div class="CWFontSize12 CWFontCSubText">
+			<img class="ratingStars color_yellow size_normal rank_40" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt=""  />			dario_cima	&middot;
+			<a href="http://www.ciao.it/Le_correzioni_Jonathan_Franzen__Opinione_1558101">
+				Leggi l'opinione			</a>
+		</div>
+    
+		<p>
+			Opinione su			<a href="http://www.ciao.it/Le_correzioni_Jonathan_Franzen__2641561">Le correzioni (Jonathan Franzen)</a>
+		</p>          
+	</div>	 	
+</div></div>
+					<div style="float:right;width:335px;" id="topVideoReview"><div class="CiaoModuleFrame RCONT">	
+	<p class="CWCiaoKievSectionHeader">
+		<a href="/top_video_reviews.php">Video recenti &raquo;</a>
+	</p>
+					
+	<div class="CiaoModuleContent">	 	
+		<div class="CiaoModuleVideo">		
+			<a href="/video_review.php?VideoObjectId=11772">								
+				<img src="http://it-stream.ciao.com/streamer/fs.php?key=tox0kornzooxvtltttrtqtzuqtqtrtqxvtntvt" alt="VLC 2.0" width="160" height="120" />			</a>
+		</div>	 
+    
+		<div class="RCONT_object_link">		
+			<a href="/video_review.php?VideoObjectId=11772" class="CiaoModuleProductLink">Vlc il miglior player multimediale ...</a>	
+		</div>
+		
+		<div class="description">		
+			<p>Vlc è un programma multimediale che permette di riprodurrei file audio e video. E noto , non solo per le sue caratteristiche...</p>	
+		</div>
+
+		<div class="CWFontSize12 CWFontCSubText">
+			<img class="ratingStars color_yellow size_normal rank_45" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt=""  />			lugix &middot;
+			<a href="/video_review.php?VideoObjectId=11772">
+				Guarda la video opinione			</a>
+		</div>	
+
+		<p>Video opinione di			<a href="http://www.ciao.it/VLC_2_0__3957085">VLC 2.0</a>
+		</p>
+	</div>	 	
+</div></div>
+				</div>
+				<!--  END CiaoHomepage.RecentContent -->
+				
+				<!-- BEGIN FlashMemberBox -->
+				<div class="CiaoModuleTeaser">
+					<table border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td>
+								<div class="CiaoModuleTeaserLeft">
+									<div id="MemberTeaserFlash"><img src="http://it-img2.ciao.com/iit/images/crux/background/homepage/us_home.jpg" alt="Flash player required!"/></div>
+								</div>
+							</td>
+							<td>
+								<div class="CiaoModuleTeaserRight" id="PromoTeaserRight">
+<table height="100%">
+	<tbody>
+		<tr>
+			<td><p class="buzzword1">Condividi opinioni</p><p class="buzzword2">Guadagna</p></td>
+		</tr>         
+		<tr>
+			<td class="promoTeaserButton"><a href="https://www.ciao.it/reg.php" rel="nofollow"><img src="http://it-img2.ciao.com/iit/images/crux/buttons/button_register_now.gif" title="Registrati adesso!" alt="Registrati adesso!" border="0" /></a>
+				<p class="CiaoModuleTeaserLogin">Già iscritto? <a href="https://www.ciao.it/login.php" rel="nofollow">Fai login adesso</a></p>
+	        </td>
+	 	</tr>
+	 </tbody>
+</table>								</div>
+							</td>
+						</tr>
+					</table>
+				</div>
+				<!-- END FlashMemberBox -->
+				
+								<!-- BEGIN CiaoHomepage.CiaoCharts -->
+				<!-- TOP 10 LIST -->
+        
+	<div class="TOP10" id="top10_box">
+        <p class="CWCiaoKievSectionHeader" id="top10_box_Headline">
+	        	        	<a href="http://www.ciao.it/net/top10/rating/macchine-da-caffe,10211">
+	                	Le Migliori Macchine Da Caffè &raquo;
+        		        	</a>
+	                </p>	
+        <div class="CiaoModuleContent">
+
+        	<div class=" jcarousel-skin-tango">
+  				<div style="display: block;" id="mycarousel" class="jcarousel-container jcarousel-container-horizontal">      	
+    				<div class="jcarousel-clip jcarousel-clip-horizontal">
+      					<ul style="width: 7090px; left: 0pt;" class="jcarousel-list jcarousel-list-horizontal"> 	  	  	  	
+ 	
+    					                			<li>
+                			
+                				<div id="top_10_box_1" class="containerProduct productActive clearfix qaactive">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Bialetti_Moka_Express_GD__4079915" ><img id="top10_box_productImage" width="80" height="60" alt="Bialetti Moka Express GD" title="Bialetti Moka Express GD" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_1&quot;});" src="http://it-img2.ciao.com/iit/images/products/normal/915/Bialetti_Moka_Express_GD__4079915.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_1"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arStill"/>
+					                   	                      		
+                      					<a href="http://www.ciao.it/Bialetti_Moka_Express_GD__4079915" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_1&quot;});">Bialetti Moka Express GD</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Bialetti_Moka_Express_GD__4079915"><img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Bialetti_Moka_Express_GD__4079915">Opinioni</a> <span class="CWFontCSubText">(5)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	linea classica, robusta, prepara un ottimo caffè			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				nessuno                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Bialetti_Moka_Express_GD__4079915" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;13,52 - &euro;&nbsp;46,32</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Bialetti_Moka_Express_GD__4079915" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_1&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			61 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Bialetti_Moka_Express_GD__4079915"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			61 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_2" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Saeco_HD_8752_Intelia_Class__3799701" ><img id="top10_box_productImage" width="80" height="60" alt="Saeco HD 8752 Intelia Class" title="Saeco HD 8752 Intelia Class" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_2&quot;});" src="http://it-img2.ciao.com/iit/images/products/normal/701/Saeco_HD_8752_Intelia_Class__3799701.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_2"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arUp"/>
+					                   	                      		
+                      					<a href="http://www.ciao.it/Saeco_HD_8752_Intelia_Class__3799701" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_2&quot;});">Saeco HD 8752 Intelia Class</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Saeco_HD_8752_Intelia_Class__3799701"><img class="ratingStars color_yellow size_normal rank_45" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Saeco_HD_8752_Intelia_Class__3799701">Opinioni</a> <span class="CWFontCSubText">(7)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	Semplice, intuitiva, caffè buonissimo!!			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				Frequente pulizia cassetto fondi e raccogli acqua!!                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Saeco_HD_8752_Intelia_Class__3799701" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;389,99 - &euro;&nbsp;696,44</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Saeco_HD_8752_Intelia_Class__3799701" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_2&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			49 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Saeco_HD_8752_Intelia_Class__3799701"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			49 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_3" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Krups_XN_2140_NEW_Essenza__4092065" ><img id="top10_box_productImage" width="80" height="60" alt="Krups XN 2140 NEW Essenza" title="Krups XN 2140 NEW Essenza" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_3&quot;});" src="http://it-img2.ciao.com/iit/images/products/normal/065/Krups_XN_2140_NEW_Essenza__4092065.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_3"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arDown"/>
+					                                          		
+                      					<a href="http://www.ciao.it/Krups_XN_2140_NEW_Essenza__4092065" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_3&quot;});">Krups XN 2140 NEW Essenza</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Krups_XN_2140_NEW_Essenza__4092065"><img class="ratingStars color_yellow size_normal rank_45" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Krups_XN_2140_NEW_Essenza__4092065">Opinioni</a> <span class="CWFontCSubText">(20)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	piccola, economica e bella			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				nessuno                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Krups_XN_2140_NEW_Essenza__4092065" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;77,00 - &euro;&nbsp;157,00</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Krups_XN_2140_NEW_Essenza__4092065" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_3&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			15 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Krups_XN_2140_NEW_Essenza__4092065"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			15 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_4" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Krups_XN_3006_Nespresso_Pixie_RED__3274074" ><img id="top10_box_productImage" width="80" height="60" alt="Krups XN 3006 Nespresso Pixie RED" title="Krups XN 3006 Nespresso Pixie RED" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_4&quot;});" src="http://it-img1.ciao.com/iit/images/products/normal/074/Krups_XN_3006_Nespresso_Pixie_RED__3274074.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_4"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arStill"/>
+					                   	                      		
+                      					<a href="http://www.ciao.it/Krups_XN_3006_Nespresso_Pixie_RED__3274074" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_4&quot;});">Krups XN 3006 Nespresso Pixie RED</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Krups_XN_3006_Nespresso_Pixie_RED__3274074"><img class="ratingStars color_yellow size_normal rank_45" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Krups_XN_3006_Nespresso_Pixie_RED__3274074">Opinioni</a> <span class="CWFontCSubText">(19)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	Design molto ben curato, compatta, ottima qualità del caffè, varie funzioni automatiche			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				Costosa, costose anche le cialde, capienza bassa della vasca per le cialde, qualità schiuma scarsa                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Krups_XN_3006_Nespresso_Pixie_RED__3274074" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;94,99 - &euro;&nbsp;495,90</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Krups_XN_3006_Nespresso_Pixie_RED__3274074" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_4&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			56 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Krups_XN_3006_Nespresso_Pixie_RED__3274074"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			56 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_5" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079" ><img id="top10_box_productImage" width="80" height="60" alt="Delonghi EN 125 A Nespresso Pixie B..." title="Delonghi EN 125 A Nespresso Pixie B..." onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_5&quot;});" src="http://it-img2.ciao.com/iit/images/products/normal/079/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_5"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arUp"/>
+					                   	                      		
+                      					<a href="http://www.ciao.it/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_5&quot;});">Delonghi EN 125 A Nespresso Pixie B...</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079"><img class="ratingStars color_yellow size_normal rank_40" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079">Opinioni</a> <span class="CWFontCSubText">(10)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	Lamarca è una garanzia!			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				Nessuno                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;84,55 - &euro;&nbsp;233,50</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_5&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			50 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Delonghi_EN_125_A_Nespresso_Pixie_Steelblue__3274079"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			50 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_6" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Saeco_HD_8751_Intelia_Focus__3799699" ><img id="top10_box_productImage" width="80" height="60" alt="Saeco HD 8751 Intelia Focus" title="Saeco HD 8751 Intelia Focus" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_6&quot;});" src="http://it-img2.ciao.com/iit/images/products/normal/699/Saeco_HD_8751_Intelia_Focus__3799699.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_6"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arDown"/>
+					                                          		
+                      					<a href="http://www.ciao.it/Saeco_HD_8751_Intelia_Focus__3799699" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_6&quot;});">Saeco HD 8751 Intelia Focus</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Saeco_HD_8751_Intelia_Focus__3799699"><img class="ratingStars color_yellow size_normal rank_40" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Saeco_HD_8751_Intelia_Focus__3799699">Opinioni</a> <span class="CWFontCSubText">(33)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	Ottimo caffè e cappuccino. Facilità d'uso.			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				Il costo. La pulizia un po' troppo laboriosa.                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Saeco_HD_8751_Intelia_Focus__3799699" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;329,99 - &euro;&nbsp;707,95</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Saeco_HD_8751_Intelia_Focus__3799699" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_6&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			19 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Saeco_HD_8751_Intelia_Focus__3799699"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			19 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_7" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Bialetti_CF_37_Tazzissima_TRIO__4092072" ><img id="top10_box_productImage" width="80" height="60" alt="Bialetti CF 37 Tazzissima TRIO" title="Bialetti CF 37 Tazzissima TRIO" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_7&quot;});" src="http://it-img1.ciao.com/iit/images/products/normal/072/Bialetti_CF_37_Tazzissima_TRIO__4092072.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_7"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arUp"/>
+					                   	                      		
+                      					<a href="http://www.ciao.it/Bialetti_CF_37_Tazzissima_TRIO__4092072" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_7&quot;});">Bialetti CF 37 Tazzissima TRIO</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Bialetti_CF_37_Tazzissima_TRIO__4092072"><img class="ratingStars color_yellow size_normal rank_40" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Bialetti_CF_37_Tazzissima_TRIO__4092072">Opinioni</a> <span class="CWFontCSubText">(6)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	ottima			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				nessuno                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Bialetti_CF_37_Tazzissima_TRIO__4092072" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;97,85 - &euro;&nbsp;139,90</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Bialetti_CF_37_Tazzissima_TRIO__4092072" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_7&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			10 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Bialetti_CF_37_Tazzissima_TRIO__4092072"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			10 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_8" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Delonghi_EC_220_CD__3280385" ><img id="top10_box_productImage" width="80" height="60" alt="Delonghi EC 220 CD" title="Delonghi EC 220 CD" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_8&quot;});" src="http://it-img2.ciao.com/iit/images/products/normal/385/Delonghi_EC_220_CD__3280385.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_8"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arUp"/>
+					                   	                      		
+                      					<a href="http://www.ciao.it/Delonghi_EC_220_CD__3280385" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_8&quot;});">Delonghi EC 220 CD</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Delonghi_EC_220_CD__3280385"><img class="ratingStars color_yellow size_normal rank_45" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Delonghi_EC_220_CD__3280385">Opinioni</a> <span class="CWFontCSubText">(14)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	funzioni e prezzo			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				nessuno                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Delonghi_EC_220_CD__3280385" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;75,99 - &euro;&nbsp;94,44</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Delonghi_EC_220_CD__3280385" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_8&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			12 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Delonghi_EC_220_CD__3280385"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			12 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_9" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Delonghi_ECAM_21_110_B__3345282" ><img id="top10_box_productImage" width="80" height="60" alt="Delonghi ECAM 21.110 B" title="Delonghi ECAM 21.110 B" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_9&quot;});" src="http://it-img1.ciao.com/iit/images/products/normal/282/Delonghi_ECAM_21_110_B__3345282.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_9"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arDown"/>
+					                                          		
+                      					<a href="http://www.ciao.it/Delonghi_ECAM_21_110_B__3345282" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_9&quot;});">Delonghi ECAM 21.110 B</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Delonghi_ECAM_21_110_B__3345282"><img class="ratingStars color_yellow size_normal rank_45" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Delonghi_ECAM_21_110_B__3345282">Opinioni</a> <span class="CWFontCSubText">(8)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	si			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				no                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Delonghi_ECAM_21_110_B__3345282" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;329,75 - &euro;&nbsp;454,47</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Delonghi_ECAM_21_110_B__3345282" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_9&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			39 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Delonghi_ECAM_21_110_B__3345282"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			39 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			                			<li>
+                			
+                				<div id="top_10_box_10" class="containerProduct productActive clearfix ">
+
+                  
+                  				<div class="productImage">		                       
+				                	<a href="http://www.ciao.it/Saeco_HD_8323_Manual_Focus__3188568" ><img id="top10_box_productImage" width="80" height="60" alt="Saeco HD 8323 Manual Focus" title="Saeco HD 8323 Manual Focus" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_10&quot;});" src="http://it-img1.ciao.com/iit/images/products/normal/568/Saeco_HD_8323_Manual_Focus__3188568.jpg"/></a>
+				                </div>
+                  				<div class="productInfo">
+									<p class="productHeader CWFontBig">
+                      					<img width="18" height="19" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="ranks rank_10"/>
+    														                    	<img id="top10_box_rankIcon" width="14" height="14" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class="arStill"/>
+					                   	                      		
+                      					<a href="http://www.ciao.it/Saeco_HD_8323_Manual_Focus__3188568" id="top10_box_productNameLink" class="CWLINKUnderlined" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_10&quot;});">Saeco HD 8323 Manual Focus</a>
+                    				</p>
+                    				                    				
+                    				<div class="starRating CWFontCSubText">                  
+										<a href="http://www.ciao.it/Opinionisulprodotto/Saeco_HD_8323_Manual_Focus__3188568"><img class="ratingStars color_yellow size_normal rank_40" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt="" id="top10_box_stars" /></a>
+                       				 	<a href="http://www.ciao.it/Opinionisulprodotto/Saeco_HD_8323_Manual_Focus__3188568">Opinioni</a> <span class="CWFontCSubText">(9)</span>                                                                                         
+                    				</div>
+
+                    			<div id="top10_box_proscons">
+			                   	<p class="advantages">
+			                    				                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+			                        	^^^			                    				                    	
+			                   	</p>
+                      			<p class="disadvantages">
+                        						                    		<img width="11" height="11" src="http://it-img1.ciao.com/iit/images/icons/space.gif" class=""/>
+                          				^^^                        				
+                        			
+                      			</p>
+                    		</div>
+                  		</div>
+                  
+                  		<div class="productPrice">
+                    		<p class="CWFontBig">
+                      			<a href="http://www.ciao.it/Saeco_HD_8323_Manual_Focus__3188568" class="CWLINKUnderlined" id="top10_box_price">&euro;&nbsp;79,92 - &euro;&nbsp;128,17</a>
+                    		</p>
+                    		
+                    		
+                    		<p class="productPriceButton">                    			
+                    			<a class="CWButtonPrime" href="http://www.ciao.it/Saeco_HD_8323_Manual_Focus__3188568" onclick="s=s_gi('ciaoshopit');s.tl(undefined,undefined,undefined, {&quot;lnk&quot;:&quot;this&quot;,&quot;linkType&quot;:&quot;o&quot;,&quot;eVar7&quot;:&quot;hp_T10_10&quot;});"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight">
+                    				<span>Compara i prezzi ></span></span>
+                    			</a>
+                    		</p> 
+                    		<p class="CWFontCSubText">
+                      			25 Offerte                    		</p>
+                    		
+                    		
+                    		<!--                      			
+                    		<a class="CWButtonPrime CWBlockButton clearfix" href="http://www.ciao.it/Saeco_HD_8323_Manual_Focus__3188568"><span class="CWButtonLeft">&nbsp;</span><span class="CWButtonRight"><span>Compare prices ></span></span></a>
+                    		<p class="CWFontCSubText">
+                      			25 
+                      			
+                      			
+                    		</p>-->
+                    		
+						</div>
+                  	</div>
+            	</li>
+			    		</ul>
+    	</div>
+	</div>
+</div>
+
+  
+<div class="jcarousel-control" style="position: relative; z-index: 1000;">
+
+	<ul class="listContainer clearfix">
+                 
+    	<li class="carouselpagination productActive first" id="caeuselepag1"><a href="#">1</a></li>
+        <li class="carouselpagination" id="caeuselepag2"><a href="#">2</a></li>
+        <li class="carouselpagination" id="caeuselepag3"><a href="#">3</a></li>
+        <li class="carouselpagination" id="caeuselepag4"><a href="#">4</a></li>
+        <li class="carouselpagination" id="caeuselepag5"><a href="#">5</a></li>
+        <li class="carouselpagination" id="caeuselepag6"><a href="#">6</a></li>
+        <li class="carouselpagination" id="caeuselepag7"><a href="#">7</a></li>
+        <li class="carouselpagination" id="caeuselepag8"><a href="#">8</a></li>
+        <li class="carouselpagination" id="caeuselepag9"><a href="#">9</a></li>
+        <li class="carouselpagination" id="caeuselepag10"><a href="#">10</a></li>
+ 	</ul>
+
+</div>
+           
+</div>
+</div>
+
+<script type="text/javascript">
+
+function mycarousel_initCallback(carousel) {
+    jQuery('.jcarousel-control a').bind('click', function() {
+        carousel.scroll(jQuery.jcarousel.intval(jQuery(this).text()));
+
+        $(".carouselpagination").removeClass('productActive') ;
+        $(".containerProduct").removeClass('qaactive') ;
+		
+
+        $("#top_10_box_"+jQuery(this).text()).addClass('qaactive');
+        $("#caeuselepag"+jQuery(this).text()).addClass('productActive');
+
+        return false;
+    });
+
+    jQuery('.jcarousel-scroll select').bind('change', function() {
+        carousel.options.scroll = jQuery.jcarousel.intval(this.options[this.selectedIndex].value);
+        
+        return false;
+    });
+};
+
+jQuery(document).ready(function() {
+    jQuery("#mycarousel").jcarousel({
+        scroll: 1,
+        initCallback: mycarousel_initCallback,
+        buttonNextHTML: null,
+        buttonPrevHTML: null
+    });
+});
+
+</script>				<!-- END CiaoHomepage.CiaoCharts -->
+									
+				<!--  BEGIN Product.TheGoodAndTheBad -->
+				<div class="TGATB" id="TGATBContainer">
+	<p class="CWCiaoKievSectionHeader"><a href="http://www.ciao.it/Opinionisulprodotto/Motorola_V3__324505">I migliori e i peggiori &raquo;</a></p>
+
+	<div style="padding-bottom: 0pt;" class="CiaoModuleContent">
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" style="width: 100%;">
+		<tbody>
+			<tr>
+				<td height="140" width="120" class="good_user_col1" rowspan="2">
+					<div class="member_image">
+						<a href="http://www.ciao.it/Iscritti__Simoblu83_387538">
+							<img src="http://it-pic2.ciao.com/it/5734609.jpg" alt="" width="73" height="98" />						</a>
+					</div>
+					<a href="faq/accumulare-punti-ciao,31">
+						<img height="7" width="7" src="http://it-img1.ciao.com/iit///images/user_symbols/level5.gif" title="arancione" alt="arancione" />
+						<a href="http://www.ciao.it/Iscritti__Simoblu83_387538">
+							Simoblu83						</a>
+					</a>
+				</td>
+				<td width="104" class="thumb_up">
+					<img height="57" width="58" alt="up" src="http://it-img2.ciao.com/iit/images/crux/icons/homepage/module_tgatb_up2.gif" />
+				</td>
+				<td class="vbar" rowspan="3"/>
+				<td width="200" class="product_image" rowspan="2">
+					<a href="http://www.ciao.it/Motorola_V3__324505">
+						<img src="http://it-img2.ciao.com/iit/images/products/normal/505/Motorola_V3__324505.jpg
+" alt="" width="180" height="135" />					</a>
+				</td>
+				<td class="vbar" rowspan="3"/>
+				<td width="104" class="thumb_down">
+					<img height="57" width="57" alt="down" src="http://it-img2.ciao.com/iit/images/crux/icons/homepage/module_tgatb_down2.gif"/>
+				</td>
+				<td height="140" width="120" class="bad_user_col1" rowspan="2">
+					<div class="member_image">
+						<a href="http://www.ciao.it/Iscritti__mito1960_477389">
+							<img src="http://it-pic1.ciao.com/it/1568228.jpg" alt="" width="75" height="69" />						</a>
+					</div>
+					<a href="faq/accumulare-punti-ciao,31">
+						<img height="7" width="7" src="http://it-img1.ciao.com/iit///images/user_symbols/level1.gif" title="verde" alt="verde" />
+						<a href="http://www.ciao.it/Iscritti__mito1960_477389">
+							mito1960						</a>
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td width="104" class="good_user_name">
+				</td>
+				<td width="104" class="bad_user_name">
+				</td>
+			</tr>
+			<tr>
+				<td width="219" class="good_description" colspan="2">
+					<a href="http://www.ciao.it/Motorola_V3__Opinione_894952" class="prod_desc">Semplicemente il mio cellulare</a>
+					<p class="pros">
+						<b>Vantaggi: </b>
+			  			durata della batteria, leggero, funzionale					</p>
+					<p class="rating">
+						<img class="ratingStars color_yellow size_normal rank_50" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt=""  />						<a href="http://www.ciao.it/Iscritti__Simoblu83_387538">
+							Simoblu83						</a>
+					</p>
+					<a href="http://www.ciao.it/Motorola_V3__Opinione_894952">Leggi l'Opinione</a>
+				</td>
+				<td width="200" class="product_name">
+					<a href="http://www.ciao.it/Motorola_V3__324505">Motorola V3</a>
+					<p class="desc">Cellulare - Peso: 95 Grammi - con Fotocamera Integrata</p>
+					<a class="full_link" href="http://www.ciao.it/Opinionisulprodotto/Motorola_V3__324505">Tutte le 570 Opinioni</a>
+				</td>
+				<td width="219" class="bad_description" colspan="2">
+					<a href="http://www.ciao.it/Motorola_V3__Opinione_760350" class="prod_desc">Lo ho preso, ma non lo consiglio</a>
+					<p class="cons">
+						<b>Svantaggi: </b>
+				  		Non regge il confronto con la concorrenza di pari					</p>
+					<p class="rating">
+						<img class="ratingStars color_yellow size_normal rank_10" src="http://it-img1.ciao.com/iit/images/icons/space.gif" alt=""  />						<a href="http://www.ciao.it/Iscritti__mito1960_477389">
+							mito1960						</a>
+					</p>
+					<a href="http://www.ciao.it/Motorola_V3__Opinione_760350">Leggi l'Opinione</a>
+				</td>
+			</tr>
+		</tbody>
+		</table>
+	</div>
+</div>				<!--  END Product.TheGoodAndTheBad -->
+				
+				<!-- BEGIN Product.TopList -->
+				<div class="TPLST" id="topProducts">
+	<p class="CWCiaoKievSectionHeader">I prodotti della Top 5 &raquo;</p>
+	<table id="top5Table" cellpadding="0" cellspacing="0" border="0" width="100%" class="CWFontSize12">			
+    	<tbody>
+    		<tr>
+									<td width="33%" valign="top">
+						<h4 class="CWFontCActive">Novità</h4>
+													<ol>							
+																	<li>
+										<a href="http://www.ciao.it/Apple_iPhone_5_16GB__4067621">Apple iPhone 5 16GB</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Asus_Zenbook_UX31A_R4003P__4104796">Asus Zenbook UX31A-R4003P</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Breaking_Dawn_Parte_2_DVD__4166200">Breaking Dawn Parte 2 (DVD)</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/The_Walking_Dead_Survival_Instinct_Xbox_360__4171600">The Walking Dead: Survival Instinct (Xbox 360)</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/TomTom_VIA_130_M_Europe__4123276">TomTom VIA 130 M Europe</a>
+									</li>
+															</ol>
+								
+					</td>
+											<td class="vbar"></td>
+											
+									<td width="33%" valign="top">
+						<h4 class="CWFontCActive">Fotocamere Digitali</h4>
+													<ol>							
+																	<li>
+										<a href="http://www.ciao.it/Nikon_D3100__3079786">Nikon D3100</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Canon_EOS_1100D__3279675">Canon EOS 1100D</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Nikon_D5100__3336514">Nikon D5100</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Canon_EOS_600D__3279676">Canon EOS 600D</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Nikon_D3200__4078670">Nikon D3200</a>
+									</li>
+															</ol>
+								
+					</td>
+											<td class="vbar"></td>
+											
+									<td width="33%" valign="top">
+						<h4 class="CWFontCActive">Lettori MP3</h4>
+													<ol>							
+																	<li>
+										<a href="http://www.ciao.it/Apple_IPOD_Shuffle_4_GEN_2_GB__3117590">Apple IPOD Shuffle (4.GEN.) 2048</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Apple_iPod_Classic_160GB__1010249">Apple iPod Classic 160GB</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Apple_IPOD_NANO_7_GEN_16_GB__4111882">Apple IPOD NANO (7.GEN.) 16 GB</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Apple_MB376_IPOD_Touch_32_GB__1124333">Apple IPOD Touch 32 GB</a>
+									</li>
+																	<li>
+										<a href="http://www.ciao.it/Apple_MA627_IPOD_Touch_16_GB__1125093">Apple IPOD Touch (MA627) 16 GB</a>
+									</li>
+															</ol>
+								
+					</td>
+											
+									
+    		</tr>
+    	</tbody>
+    </table>
+</div>				<!-- END Product.TopList -->
+				
+				<!-- BEGIN Advertisement Box -->
+				<!-- END Advertisement Box -->
+				
+			</div>
+		</div>
+	
+	</div>
+	<!-- END Right column -->
+
+	<!-- BEGIN Left column -->
+	<div id="leftcolumn_fixed" class="CiaoMainColumn">
+		<div class="innertube" style="margin-right:20px">
+			<!-- BEGIN Module CategoryBrowser -->
+			<div class="CBRWS clearfix">
+	<ul class="CWFontCSubText" >
+			<li><h4><a class="CWLINKActive" href="http://auto.ciao.it/">Auto e Moto</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://auto.ciao.it/Auto_205408_2">Auto</a>, <a class="CWLINKSub" href="http://auto.ciao.it/Motociclette_205409_2">Moto</a>, <a class="CWLINKSub" href="http://auto.ciao.it/Scooter_e_Motorini_205410_2">Scooter</a>, <a class="CWLINKSub" href="http://auto.ciao.it/Accessori_Auto_205411_2">Accessori Auto</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Bellezza_14153_2">Bellezza</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Profumi_206495_3">Profumi</a>, <a class="CWLINKSub" href="http://www.ciao.it/Trattamenti_per_il_Corpo_211497_3">Corpo</a>, <a class="CWLINKSub" href="http://www.ciao.it/Trattamenti_per_il_Viso_211501_3">Viso</a>, <a class="CWLINKSub" href="http://www.ciao.it/Trucco_211517_3">Trucco</a>, <a class="CWLINKSub" href="http://www.ciao.it/Prodotti_per_i_Capelli_206497_3">Capelli</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Casa_Giardino_1103_2">Casa e Giardino</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Arredamento_25834_3">Arredamento</a>, <a class="CWLINKSub" href="http://www.ciao.it/Giardinaggio_1106_3">Giardinaggio</a>, <a class="CWLINKSub" href="http://www.ciao.it/Pulizia_e_igiene_25404_3">Pulizia e Igiene</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Computer_178035_1">Computer</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Portatili_206481_2">Portatili</a>, <a class="CWLINKSub" href="http://www.ciao.it/PC_178183_2">PC</a>, <a class="CWLINKSub" href="http://www.ciao.it/Tablet_PC_211840_2">Tablet</a>, <a class="CWLINKSub" href="http://www.ciao.it/Monitor_LCD_178159_2">Monitor LCD</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Componenti_Hardware_178057_2">Componenti Hardware</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Periferiche_178035_2">Periferiche</a>, <a class="CWLINKSub" href="http://www.ciao.it/Componenti_di_Rete_178049_2">Componenti di Rete</a>, <a class="CWLINKSub" href="http://www.ciao.it/Stampanti_178158_2">Stampanti</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Cucina_177966_2">Cucina</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Macchine_da_Caffe_177973_3">Macchine da Caffè</a>, <a class="CWLINKSub" href="http://www.ciao.it/Frigoriferi_177964_3">Frigoriferi</a>, <a class="CWLINKSub" href="http://www.ciao.it/Lavastoviglie_177958_3">Lavastoviglie</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Cultura_e_Spettacolo_2653_1">Cultura e Spettacolo</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Cinema_13236_2">Cinema</a>, <a class="CWLINKSub" href="http://www.ciao.it/DVD_206403_1">DVD</a>, <a class="CWLINKSub" href="http://www.ciao.it/Tutti_i_film_13236_3">Tutti i film</a>, <a class="CWLINKSub" href="http://www.ciao.it/Home_Cinema_178258_2">Home Cinema</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Elettrodomestici_177943_1">Elettrodomestici</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Lavatrici_177960_3">Lavatrici</a>, <a class="CWLINKSub" href="http://www.ciao.it/Aspirapolvere_177962_3">Aspirapolvere</a>, <a class="CWLINKSub" href="http://www.ciao.it/Piccoli_Elettrodomestici_177943_2">Piccoli Elettrodomestici</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Elettronica_178115_1">Elettronica</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Lettori_MP3_206478_3">Lettori MP3</a>, <a class="CWLINKSub" href="http://www.ciao.it/Componenti_Stereo_178235_2">Componenti Stereo</a>, <a class="CWLINKSub" href="http://www.ciao.it/Navigatori_Satellitari_178232_3">Navigatori Satellitari</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Famiglia_Bambini_1272_2">Famiglia</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Neonati_e_Bimbi_206323_3">Neonati e Bimbi</a>, <a class="CWLINKSub" href="http://www.ciao.it/Hobby_e_Giochi_1299_3">Hobby e Giochi</a>, <a class="CWLINKSub" href="http://www.ciao.it/Animali_Domestici_895_2">Animali Domestici</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Finanza_Economia_2212_1">Finanza e Economia</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Banche_15977_2">Banche</a>, <a class="CWLINKSub" href="http://www.ciao.it/Assicurazioni_16079_2">Assicurazioni</a>, <a class="CWLINKSub" href="http://www.ciao.it/Investimenti_16001_2">Investimenti</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Fotografia_178005_1">Fotografia</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Fotocamere_Digitali_205389_2-digitali_compatte">Fotocamere Compatte</a>, <a class="CWLINKSub" href="http://www.ciao.it/Fotocamere_Digitali_205389_2-digitali_reflex_con_obiettivo_intercambiabile">Reflex</a>, <a class="CWLINKSub" href="http://www.ciao.it/Videocamere_178150_2">Videocamere</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Libri_211564_1">Libri</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Fantascienza_e_Fantasy_211564_3">Fantasy</a>, <a class="CWLINKSub" href="http://www.ciao.it/Fumetti_e_Vignette_211664_2">Fumetti</a>, <a class="CWLINKSub" href="http://www.ciao.it/Narrativa_211564_2">Narrativa</a>, <a class="CWLINKSub" href="http://www.ciao.it/Diritto_211625_3">Diritto</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Mangiare_Bere_3678_1">Mangiare &amp; Bere</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Alimenti_16143_2">Alimenti</a>, <a class="CWLINKSub" href="http://www.ciao.it/Bevande_16265_2">Bevande</a>, <a class="CWLINKSub" href="http://www.ciao.it/Ricette_76485_3">Ricette</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Musica_206221_1">Musica</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Musica_Italiana_206236_2">Musica Italiana</a>, <a class="CWLINKSub" href="http://www.ciao.it/Pop_e_Rock_206221_2">Pop e Rock</a>, <a class="CWLINKSub" href="http://www.ciao.it/Strumenti_Musicali_206240_1">Strumenti Musicali</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/TV_178254_2">TV</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/TV_LCD_TV_LCD_206483_3">TV LCD</a>, <a class="CWLINKSub" href="http://www.ciao.it/TV_al_Plasma_178255_3">TV al Plasma</a>, <a class="CWLINKSub" href="http://www.ciao.it/TV_LCD_206483_3-con_tecnologia_3d">TV 3D</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Telefonia_e_Telecomunicazioni_178131_1">Telefonia</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Smartphone_e_Cellulari_178131_2">Smartphone</a>, <a class="CWLINKSub" href="http://www.ciao.it/Smartphone_e_Cellulari_178131_2-apple">Apple</a>, <a class="CWLINKSub" href="http://www.ciao.it/Smartphone_e_Cellulari_178131_2-samsung">Samsung</a>, <a class="CWLINKSub" href="http://www.ciao.it/Telefoni_Fissi_178133_2">Telefoni Fissi</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://viaggi.ciao.it/">Viaggi e Turismo</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://viaggi.ciao.it/Europa_204101_2">Europa</a>, <a class="CWLINKSub" href="http://viaggi.ciao.it/Italia_204158_3">Italia</a>, <a class="CWLINKSub" href="http://viaggi.ciao.it/Spagna_204248_3">Spagna</a>, <a class="CWLINKSub" href="http://viaggi.ciao.it/Grecia_204218_3">Grecia</a>, <a class="CWLINKSub" href="http://viaggi.ciao.it/Francia_204305_3">Francia</a>, <a class="CWLINKSub" href="http://viaggi.ciao.it/Egitto_203755_3">Egitto</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/Videogiochi_178205_1">Videogiochi</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Videogiochi_PC_178205_2">Videogiochi PC</a>, <a class="CWLINKSub" href="http://www.ciao.it/Videogiochi_XBox_360_205418_2">Xbox 360</a>, <a class="CWLINKSub" href="http://www.ciao.it/Videogiochi_Nintendo_DS_198147_2">Nintendo DS</a>, <a class="CWLINKSub" href="http://www.ciao.it/Videogiochi_Nintendo_Wii_205647_2">Wii</a>, <a class="CWLINKSub" href="http://www.ciao.it/Console_178215_2">Console</a> ...		</li>
+			<li><h4><a class="CWLINKActive" href="http://www.ciao.it/more_categories.php">Altre Categorie</a></h4> <span>&nbsp;</span><br />
+			<a class="CWLINKSub" href="http://www.ciao.it/Moda_e_Accessori_206252_1">Moda</a>, <a class="CWLINKSub" href="http://www.ciao.it/Salute_14552_2">Salute</a>, <a class="CWLINKSub" href="http://www.ciao.it/Salute_e_Cura_della_Persona_177974_2">Cura della Persona</a>, <a class="CWLINKSub" href="http://www.ciao.it/Sport_articoli_per_lo_Sport_14984_2">Sport</a>, <a class="CWLINKSub" href="http://www.ciao.it/Software_193089_1">Software</a>, <a class="CWLINKSub" href="http://www.ciao.it/Articoli_per_Adulti_211845_1">Articoli per Adulti</a>, <a class="CWLINKSub" href="http://www.ciao.it/cafe.php">Ciao Café</a>, <a class="CWLINKSub" href="http://www.ciao.it/Internet_3594_1">Internet</a>, <a class="CWLINKSub" href="http://www.ciao.it/Climatizzazione_177953_2">Climatizzazione</a> ...		</li>
+		</ul>
+</div>			<!-- END Module CategoryBrowser -->
+			<div class="CCHRT" id="CCHRTContainer">
+	<p class="CWCiaoKievSectionHeader">
+		<a href="/charts.php" name="HP_charts_headline" title="Ciao Charts">
+			Ciao Charts &raquo;
+		</a>
+	</p>
+	<ol class="CWFontCStandardLink CWFontSize12">
+				<li>
+			<a title="Samsung Galaxy Tab 2 7.0 8GB Wi-Fi P3110" href="http://www.ciao.it/Samsung_Galaxy_TAB_2_7_0_P3110_WI_FI__4025547">Samsung Galaxy Tab 2 7.0 8GB Wi-Fi P3110</a>
+		</li>
+				<li>
+			<a title="Samsung Galaxy Tab 2 10.1 16GB Wi-Fi + 3G P5100" href="http://www.ciao.it/Samsung_Galaxy_TAB2_10_1_P5100_WI_FI_3G__4021392">Samsung Galaxy Tab 2 10.1 16GB Wi-Fi + 3G P5100</a>
+		</li>
+				<li>
+			<a title="Samsung Galaxy NOTE 10.1 N8000 Wi-Fi + 3G 16GB" href="http://www.ciao.it/Samsung_Galaxy_NOTE_10_1_N8000_WI_FI_3G__4066228">Samsung Galaxy NOTE 10.1 N8000 Wi-Fi + 3G 16GB</a>
+		</li>
+				<li>
+			<a title="Apple iPad 2 16GB Wi-Fi" href="http://www.ciao.it/Apple_iPad_2_Wi_Fi_16_GB__3280151">Apple iPad 2 16GB Wi-Fi</a>
+		</li>
+				<li>
+			<a title="Apple iPad Mini 32GB Wi-Fi" href="http://www.ciao.it/iPad_mini_32GB__4102202">Apple iPad Mini 32GB Wi-Fi</a>
+		</li>
+				<li>
+			<a title="Samsung Galaxy Tab 2 10.1 16GB Wi-Fi P5110" href="http://www.ciao.it/Samsung_Galaxy_TAB_2_10_1_P5110_WI_FI__4017545">Samsung Galaxy Tab 2 10.1 16GB Wi-Fi P5110</a>
+		</li>
+				<li>
+			<a title="SOS Cartucce MLT-D1052L Samsung ML-1910/ML-1915/ML-25" href="http://www.ciao.it/SOS_Cartucce_MLT_D1052L_Samsung_ML_1910_ML_1915__3178951">SOS Cartucce MLT-D1052L Samsung ML-1910/ML-1915/ML-25</a>
+		</li>
+				<li>
+			<a title="Epson T071140/10/20 Stylus D78" href="http://www.ciao.it/Epson_T071140_10_20_Stylus_D78__1082456">Epson T071140/10/20 Stylus D78</a>
+		</li>
+				<li>
+			<a title="Canon PG-40 Pixma IP1600" href="http://www.ciao.it/Canon_PG_40_Pixma_IP1600__510211">Canon PG-40 Pixma IP1600</a>
+		</li>
+				<li>
+			<a title="Apple iPad Mini 32GB Wi-Fi + Cellular" href="http://www.ciao.it/Apple_IPAD_MINI_Cellular__4103145">Apple iPad Mini 32GB Wi-Fi + Cellular</a>
+		</li>
+			</ol>	
+</div>		</div>
+	</div>
+	<!-- END Left column -->
+
+	<!-- BEGIN Footer -->	
+	<div id="footer">
+		<div class="MNFTR" id="MNFTR1_body">
+	
+			<div class="MNFTRLine0">
+							<a  href="/faq/cos-e-ciao,9" id="footer_about_us">
+					Chi Siamo				</a>
+				 - 				<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<a href="/ext_ref_call.php/ReferenceId/156464" rel="nofollow" target="_new" id="footer_jobs">' );
+				//]]>
+				</script>Lavora con noi<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<\/a>' );
+				//]]>
+				</script>
+				 - 				<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<a href="http://www.ciao-group.com/index.php?id=259&L=3" rel="nofollow" target="_new" id="footer_advertise">' );
+				//]]>
+				</script>Pubblicità su Ciao<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<\/a>' );
+				//]]>
+				</script>
+				 - 				<a  href="http://www.ciao-group.com/index.php?id=253&L=3" target="_new" id="footer_press">
+					Stampa				</a>
+				 - 				<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<a href="http://www.ciao-group.com/index.php?id=265&L=3" rel="nofollow" target="_new" id="footer_become_a_partner">' );
+				//]]>
+				</script>Diventa partner<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<\/a>' );
+				//]]>
+				</script>
+				 - 				<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<a href="/affiliate_partnerprogram_qualityseal.php" rel="nofollow" id="footer_ciao_quality_seal">' );
+				//]]>
+				</script>Marchio di Qualità Ciao<script type="text/javascript">
+				//<![CDATA[
+					document.write( '<\/a>' );
+				//]]>
+				</script>
+						</div>
+			<div class="MNFTRLine1">
+			  <span class="CWIconFlagDE"> 				<a  href="http://www.ciao.de/" id="footer_Ciao_DE">
+					Ciao Deutschland				</a>
+				 </span>  -   <span class="CWIconFlagUK"> 				<a  href="http://www.ciao.co.uk/" id="footer_Ciao_UK">
+					Ciao UK				</a>
+				 </span>  -   <span class="CWIconFlagFR"> 				<a  href="http://www.ciao.fr/" id="footer_Ciao_FR">
+					Ciao France				</a>
+				 </span>  -   <span class="CWIconFlagNL"> 				<a  href="http://www.ciao-shopping.nl/" id="footer_Ciao_NL">
+					Ciao Nederland				</a>
+				 </span>  -   <span class="CWIconFlagSE"> 				<a  href="http://www.ciao.se/" id="footer_Ciao_SE">
+					Ciao Sverige				</a>
+				 </span>  -   <span class="CWIconFlagES"> 				<a  href="http://www.ciao.es/" id="footer_Ciao_ES">
+					Ciao España				</a>
+				 </span> 		</div>
+			<div class="MNFTRLine2">
+							<a  href="/site_index.html" id="footer_site_index">
+					Mappa				</a>
+				 - 				<a  href="/charts.php" id="footer_ciao_charts">
+					Le classifiche di Ciao				</a>
+				 - 				<a  href="pgc/term_index_it.html" id="footer_most_searched_products">
+					Prodotti più cercati				</a>
+				 - 				<a  href="/faq/privacy,54" id="footer_data_protection">
+					Privacy				</a>
+						</div>
+		<br/>
+	<div class="MNFTRCopyright">
+		&copy; 2013 Shopping Guide GmbH 
+	</div>
+		
+	<script type="text/javascript" >
+		//<![CDATA[
+			// We need to validate if the class for this widget has been defined
+			if( typeof MNFTR != 'undefined' ){ 
+				oModuleInstances[ 'MNFTR1' ] = new MNFTR( 'MNFTR1' );
+			} else{ 
+				// Javascript class has not been loaded yet, we need to wait for the javascript class is ready event!
+				// This event needs to be triggered inside the js file!
+				$(document).bind( 'MNFTR', {}, function(){ 
+					oModuleInstances[ 'MNFTR1' ] = new MNFTR( 'MNFTR1' );
+				});
+			}
+		//]]>
+	</script>
+	
+<!-- Exelate Tracking Pixel -->
+<script type="text/javascript">
+//<![CDATA[
+var bExelatorCompleted = false;
+$(function () {
+	var _write = document.write;
+	document.write = function( htmlContents ) {
+		var cont = document.createElement("div");
+		cont.className = "dynamically-added";
+		cont.innerHTML = htmlContents;
+		var mainBody = document.getElementsByTagName("body")[0];
+		mainBody.appendChild(cont);
+	}
+	var exelatorScript = document.createElement("script");
+	exelatorScript.type = "text/javascript";
+	exelatorScript.async = true;
+	exelatorScript.src = document.location.protocol + "//loadeu.exelator.com/load/?p=446&c=20210&g=004&ctg=Shopping&subctg=&count=&lang=&kw=";
+	exelatorScript.onload = exelatorScript.onreadystatechange = function() { 
+		if ( !bExelatorCompleted && ( !this.readyState || this.readyState === "loaded" || this.readyState === "complete" ) ) {
+				bExelatorCompleted = true;
+				document.write = _write; 
+				exelatorScript.onload = exelatorScript.onreadystatechange = null;
+		}
+	}
+	var bodyTag = document.getElementsByTagName("body")[0];
+	bodyTag.appendChild(exelatorScript);
+});
+//]]>
+</script>
+</div>	</div>
+	<!-- END Footer -->
+
+</div>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+xajax_MainTopNavigationMenu_renderMenu = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_MainTopNavigationMenu', crux_xjxmthd: 'renderMenu' }, { parameters: arguments } ); }
+xajax_MainFooter_getPage = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_MainFooter', crux_xjxmthd: 'getPage' }, { parameters: arguments } ); }
+xajax_CiaoHomepage_afterLogin = function() { return xajax.request( { crux_xjxtype: 'crux method', crux_xjxcls: 'CruxAjax_CiaoHomepage', crux_xjxmthd: 'afterLogin' }, { parameters: arguments } ); }
+/* ]]> */
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+try { if (undefined == xajax.config) xajax.config = {}; } catch (e) { xajax = {}; xajax.config = {}; };
+xajax.config.requestURI = "http://www.ciao.it/ciao.php";
+xajax.config.statusMessages = false;
+xajax.config.waitCursor = true;
+xajax.config.version = "xajax 0.5 Beta 4";
+xajax.config.legacy = false;
+xajax.config.defaultMode = "asynchronous";
+xajax.config.defaultMethod = "POST";
+/* ]]> */
+</script>
+<script type="text/javascript" src="/sf/efb_13_12_0/js/xajax_js/xajax_core.js" charset="UTF-8"></script>
+<script type="text/javascript" charset="UTF-8">
+/* <![CDATA[ */
+window.setTimeout(
+ function() {
+  var scriptExists = false;
+  try { if (xajax.isLoaded) scriptExists = true; }
+  catch (e) {}
+  if (!scriptExists) {
+   alert("Error: the xajax Javascript component could not be included. Perhaps the URL is incorrect?\nURL: /sf/efb_13_12_0/js/xajax_js/xajax_core.js");
+  }
+ }, 2000);
+/* ]]> */
+</script>
+<script type="text/javascript">
+s_AccountTemp = "ciaoshopit"
+</script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/HEMAIN/main_maya.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/MNFTR/main.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/s_h_code.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/swfobject.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/Crux/CIAO/search.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/sf/js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="/efb_13_12_0/javascript/functions.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+	var oCruxStrings = new ClientSideStrings();
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_yes_button_url', "http://it-img1.ciao.com/iit/images/crux/buttons/pl_yes.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_no_button_url', "http://it-img2.ciao.com/iit/images/crux/buttons/pl_no.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_ok_button_url', "http://it-img2.ciao.com/iit/images/crux/buttons/pl_ok_small.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_cancel_button_url', "http://it-img2.ciao.com/iit/images/crux/buttons/pl_cancel_small.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_close_button_url', "http://it-img1.ciao.com/iit/images/crux/icons/pl_close.gif" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_question_icon_url', "http://it-img2.ciao.com/iit/images/crux/icons/icon_question.jpg" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_info_icon_url', "http://it-img2.ciao.com/iit/images/crux/icons/icon_info.jpg" );
+	oCruxStrings.setString( 'SDLG', 'simple_dialog_alert_title', "Alert" );
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+if( window['cruxHideLoading'] && window['cruxShowLoading'] ) {
+xajax.callback.global.onRequest = cruxShowLoadingWrapper;
+xajax.callback.global.onComplete = cruxHideLoading;
+}
+function cruxShowLoadingWrapper(){ cruxShowLoading('it');}//]]>
+</script><script type="text/javascript">
+//<![CDATA[
+
+			$( document ).ready(function(){
+				oCiaoUser = new CiaoUser( 0 );
+			});
+		//]]>
+</script>
+<!-- SiteCatalyst code version: H.25.4.
+Copyright 1996-2013 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+s=s_gi('ciaoshopit')
+s.channel="Homepage"
+s.pageName="Homepage"
+s.server="www.ciao.it"
+s.eVar3="no"
+s.prop3="no"
+s.prop14="http://www.ciao.it/"
+s.eVar18="Navigation>Homepage"
+s.eVar20="home"
+s.eVar21="ADS_EXPERIMENT_NPP1388"
+s.hier2="Home>Homepage"
+s.hier3="Navigation>Homepage"
+s.eVar22=""
+s.eVar23=""
+s.eVar24=""
+s.eVar27 = "D=User-Agent"
+s.products = "Home::Homepage;Homepage"
+s.linkInternalFilters="javascript:,.ciao.it,//ciao.it,googleads.g.doubleclick.net,google.com"
+s.cookieDomainPeriods="2"
+s.currencyCode="EUR"
+
+
+
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://ciaoshopit.122.2O7.net/b/ss/ciaoshopit/1/H.25.4--NS/0?[AQB]&amp;ce=ISO-8859-1&amp;ch=Homepage&amp;pageName=Homepage&amp;server=www.ciao.it&amp;c3=no&amp;v3=no&amp;c14=http%3A%2F%2Fwww.ciao.it%2F&amp;v18=Navigation%3EHomepage&amp;v20=home&amp;v21=ADS_EXPERIMENT_NPP1388&amp;h2=Home%3EHomepage&amp;h3=Navigation%3EHomepage&amp;g=http%3A%2F%2Fwww.ciao.it%2F&amp;v22=&amp;v23=&amp;v24=&amp;v27=D%3DUser-Agent&amp;products=Home%3A%3AHomepage%3BHomepage&amp;cdp=2&amp;cc=EUR&amp;[AQE]" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25.4. -->
+</body>
+</html>
